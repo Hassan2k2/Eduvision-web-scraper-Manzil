@@ -1,0 +1,1199 @@
+[
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 44300,
+    "Deadline": "20-09-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 52220,
+    "Deadline": "31-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 63400,
+    "Deadline": "24-06-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 68010,
+    "Deadline": "15-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Air University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112050,
+    "Deadline": "25-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Comsats University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4` Years",
+    "Fee": 0,
+    "Deadline": "09-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts Science & Technology Islamabad",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 93000,
+    "Deadline": "15-02-2007",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Institute Of Space Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 147659,
+    "Deadline": "31-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 99900,
+    "Deadline": "30-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "National University Of Science & Technology",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "National University Of Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 115000,
+    "Deadline": "12-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Pakistan Institute Of Engineering & Applied Sciences",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 112000,
+    "Deadline": "28-03-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "18-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Uit University",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Balochistan University Of Engineering & Technology",
+    "City": "Khuzdar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 16000,
+    "Deadline": "17-10-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "08-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Information Technology University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 206000,
+    "Deadline": "18-06-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 55350,
+    "Deadline": "25-09-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 47540,
+    "Deadline": "25-09-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "The University Of Larkano",
+    "City": "Larkana",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-06-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Engineering & Technology ,mardan",
+    "City": "Mardan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 48825,
+    "Deadline": "15-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 74300,
+    "Deadline": "15-08-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 43650,
+    "Deadline": "18-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Engineering And Technology",
+    "City": "Multan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 40300,
+    "Deadline": "15-09-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Technology",
+    "City": "Multan",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 79300,
+    "Deadline": "01-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Sciences & Technology",
+    "City": "Nawab Shah",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-05-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Peshawar",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "19-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48415,
+    "Deadline": "26-01-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "20-06-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 64000,
+    "Deadline": "11-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Sukkur Iba University",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "07-02-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Engineering &  Technology, Taxila",
+    "City": "Taxila",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 102400,
+    "Deadline": "22-03-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Qurtuba University Of Science & Technology [di Khan]",
+    "City": "D.i. Khan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2022",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 187500,
+    "Deadline": "07-10-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Gift University",
+    "City": "Gujranwala",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 227920,
+    "Deadline": "01-02-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Isra University/hospital",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 260000,
+    "Deadline": "13-07-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Capital University Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 374000,
+    "Deadline": "02-09-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 187200,
+    "Deadline": "25-02-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 138000,
+    "Deadline": "30-07-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Sir Syed Case Institute Of Technology",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 185000,
+    "Deadline": "21-08-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Dha Suffa University(main Campus)",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 215000,
+    "Deadline": "14-06-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Habib University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 1194000,
+    "Deadline": "31-01-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 155400,
+    "Deadline": "13-07-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Institute Of Business Management",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 155800,
+    "Deadline": "28-07-2022",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Karachi Institute Of Economics & Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 117600,
+    "Deadline": "06-01-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Muhammad Ali Jinnah University",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 156750,
+    "Deadline": "22-07-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Nazeer Hussain University",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 155000,
+    "Deadline": "17-12-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Sir Syed University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 172800,
+    "Deadline": "19-07-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 176000,
+    "Deadline": "26-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-11-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Hajvery University",
+    "City": "Lahore",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 180000,
+    "Deadline": "30-11--0001",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Imperial College Of Business Studies",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-08-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Lahore Leads University ( Faculty Of Engineering )",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 196000,
+    "Deadline": "20-11-2022",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Lahore University Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 811100,
+    "Deadline": "10-03-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 258000,
+    "Deadline": "31-10-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 281500,
+    "Deadline": "14-09-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 352375,
+    "Deadline": "10-10-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 374750,
+    "Deadline": "31-07-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Institute Of Southern Punjab",
+    "City": "Multan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 198000,
+    "Deadline": "04-11-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Cecos University Of Information Tech. & Emerging Sciences",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 300000,
+    "Deadline": "28-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "City University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "14-10-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Iqra National University",
+    "City": "Peshawar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 103518,
+    "Deadline": "30-09-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 18500,
+    "Deadline": "05-12-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Ghulam Ishaq Khan  Institute Of Engineering Sciences & Technology",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 695000,
+    "Deadline": "30-05-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Hitec University",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 220000,
+    "Deadline": "30-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Wah",
+    "City": "Wah Cantt",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 204000,
+    "Deadline": "20-09-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Abbotabad Campus )",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "04-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Attock Campus )",
+    "City": "Attock",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "11-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Engineering & Technology ( Bannu Campus )",
+    "City": "Bannu",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "19-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Engineering And Technology[fiasalabad Campus]",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Rachna College Of Engineering And Technology",
+    "City": "Gujranwala",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Universtiy Of Engineering And Technology (sub Campus)",
+    "City": "Kala Shah Kaku",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "11-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Bahria University ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 121550,
+    "Deadline": "17-11-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Mehran University Of Engineering And Technology ( Szab Campus, Khair Pur )",
+    "City": "Khair Pur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "18-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Engineering & Technology Peshawar ( Kohat Campus )",
+    "City": "Kohat",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "19-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Comsats University Islamabad( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "17-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Science And Technology, Larkana Campus",
+    "City": "Larkana",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-06-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Engineering & Technology (narowal Campus)",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Engineering & Technology Peshawar ( Jalozai Campus )",
+    "City": "Pabbi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "19-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Sahiwal Campus )",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "15-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Wah Campus )",
+    "City": "Wah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "01-08-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Faisalabad Campus )",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "18-10-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-02-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Hamdard University - Islamabad Campus",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 163400,
+    "Deadline": "15-07-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "The University Of Lahore ( Islamabad Campus )",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 190000,
+    "Deadline": "06-09-2019",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Air University, Aerospace & Aviation Campus Kamra",
+    "City": "Kamra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112050,
+    "Deadline": "15-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Air University, Karachi Campus",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Isra University [khi]",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 260000,
+    "Deadline": "09-11-2018",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Lahore )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 119800,
+    "Deadline": "15-01-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Peshawar Campus )",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Foundation University Islamabad (sub Campus)",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 200000,
+    "Deadline": "01-08-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Riphah International University ( Rawalpindi Campus )",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-09-2018",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "University Of Management And Technology, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Pak- Austria Fachhuochschule, Institute Of Applied Sciences And Technology",
+    "City": "Haripur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Pakistan Navy Engineering College",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Ali Ahmad Shah University College Of Engineering  & Tech.",
+    "City": "Mir Pur (ajk)",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "College Of Electrical And Mechenical Engineering",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Chenab College Of Engineering & Technology",
+    "City": "Gujranwala",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2019",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Pimsat - Institute Of Higher Education",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-02-2017",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Grand Charter College",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 50000,
+    "Deadline": "02-08-2018",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Rise Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2015",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Sharif College Of Engineering & Technology",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 144000,
+    "Deadline": "04-09-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Namal College",
+    "City": "Mianwali",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-06-2019",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Quaid-e-azam College Of Engineering & Technology",
+    "City": "Pattoki",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-11-2016",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Brave College Of Technology",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-11-2013",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Peshawar College Of Engineering",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2016",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Swedish College  Of Engineering And Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Army Public College Of Management & Sciences",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-08-2020",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Iuse School Of Engineering And Management Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-10-2017",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Quaid-e-azam College Of Engineering And Technology",
+    "City": "Sahiwal",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Islam College Of Engineering & Management Sciences",
+    "City": "Sialkot",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2021",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Swedish College  Of Engineering And Technology[wah  Cantt Campus]",
+    "City": "Wah Cantt",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2022",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Fertilizer Research",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 45000,
+    "Deadline": "22-07-2025",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Fertilizer Research",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-07-2019",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Centre For Emerging Sciences, Engineering And Technology",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2016",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Islamabad Institute Of Arts And Applied Sciences",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-09-2016",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Emaan Institute Of Management & Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 96000,
+    "Deadline": "20-07-2024",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Pakistan Institute Of Engineering And Technology",
+    "City": "Multan",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-08-2019",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Gandhara Institute Of Sceince & Technology  Pgs Engineering College",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2019",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Ata Institute Of Engineering & Technology",
+    "City": "Wazirabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-11-2017",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Ss-care School Of Engineering",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Electrical"
+  },
+  {
+    "Institute": "Grafton College",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 97950,
+    "Deadline": "05-12-2022",
+    "Subject": "Electrical"
+  }
+]

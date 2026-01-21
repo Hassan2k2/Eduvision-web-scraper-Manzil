@@ -1,0 +1,515 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 53415,
+    "Deadline": "30-06-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Air University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 99600,
+    "Deadline": "25-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts Science & Technology Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 75000,
+    "Deadline": "15-02-2007",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 99900,
+    "Deadline": "30-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 68000,
+    "Deadline": "09-12-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "National University Of Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 115000,
+    "Deadline": "12-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "10-05-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Dawood University Of Engineering And Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "15-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Information Technology University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 206000,
+    "Deadline": "18-06-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "University Of Engineering & Technology ,mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51013,
+    "Deadline": "13-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 74300,
+    "Deadline": "15-08-2024",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 43650,
+    "Deadline": "18-08-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Sciences & Technology",
+    "City": "Nawab Shah",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-05-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "University Of Technology, Nowshera",
+    "City": "Nowshera",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27610,
+    "Deadline": "04-09-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Peshawar",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "19-08-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48415,
+    "Deadline": "20-08-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "20-06-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-09-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "University Of Engineering And Applied Sciences",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "University Of Engineering &  Technology, Taxila",
+    "City": "Taxila",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 102400,
+    "Deadline": "22-03-2026",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Al-khair University [ajk]",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Capital University Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Hours",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Sir Syed Case Institute Of Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-08-2024",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Dha Suffa University(main Campus)",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Habib University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 1106500,
+    "Deadline": "31-01-2023",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Sir Syed University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 172800,
+    "Deadline": "19-07-2024",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 288000,
+    "Deadline": "14-09-2024",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-02-2026",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Cecos University Of Information Tech. & Emerging Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Ghulam Ishaq Khan  Institute Of Engineering Sciences & Technology",
+    "City": "Swabi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 695000,
+    "Deadline": "30-05-2024",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Hitec University",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 220000,
+    "Deadline": "30-08-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "University Of Wah",
+    "City": "Wah Cantt",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2023",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Abbotabad Campus )",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "04-08-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Attock Campus )",
+    "City": "Attock",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "11-08-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "University Of Engineering And Technology[fiasalabad Campus]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Rachna College Of Engineering And Technology",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Universtiy Of Engineering And Technology (sub Campus)",
+    "City": "Kala Shah Kaku",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "02-06-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Bahria University ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 115008,
+    "Deadline": "22-05-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "17-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "University Of Engineering & Technology (narowal Campus)",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Wah Campus )",
+    "City": "Wah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "30-11--0001",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Faisalabad Campus )",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Bahria University, H-11 Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 115008,
+    "Deadline": "24-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Peshawar Campus )",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Foundation University Islamabad (sub Campus)",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 200000,
+    "Deadline": "01-08-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Pak- Austria Fachhuochschule, Institute Of Applied Sciences And Technology",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-07-2024",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "College Of Electrical And Mechenical Engineering",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Wah Engineering College",
+    "City": "Taxila",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2011",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Dr. A.q. Khan Institute Of Computer Sciences & Information Technology",
+    "City": "Kahuta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 110500,
+    "Deadline": "30-06-2025",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Biztek Institute Of Business & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2012",
+    "Subject": "Computer Engineering"
+  },
+  {
+    "Institute": "Fast Institute Of Computer Science",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Computer Engineering"
+  }
+]

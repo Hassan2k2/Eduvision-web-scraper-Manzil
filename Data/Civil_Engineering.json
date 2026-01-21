@@ -1,0 +1,749 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 53415,
+    "Deadline": "30-06-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 130500,
+    "Deadline": "30-07-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "National University Of Science & Technology",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "National University Of Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 115000,
+    "Deadline": "12-07-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "18-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Balochistan University Of Engineering & Technology",
+    "City": "Khuzdar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 16000,
+    "Deadline": "17-10-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "The University Of Larkano",
+    "City": "Larkana",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Lasbela University Of Agriculture, Water And Marine Sciences, Uthal",
+    "City": "Lasbela",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33000,
+    "Deadline": "20-10-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Engineering & Technology ,mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51013,
+    "Deadline": "15-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 74300,
+    "Deadline": "15-08-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 45850,
+    "Deadline": "18-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Engineering And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40300,
+    "Deadline": "15-09-2023",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Technology",
+    "City": "Multan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 81800,
+    "Deadline": "01-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Sciences & Technology",
+    "City": "Nawab Shah",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-05-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Peshawar",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "19-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48415,
+    "Deadline": "20-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "05-01-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Aror University Of Art, Architecture, Design And Heritage",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "14-01-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Engineering &  Technology, Taxila",
+    "City": "Taxila",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 102400,
+    "Deadline": "22-03-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Qurtuba University Of Science & Technology [di Khan]",
+    "City": "D.i. Khan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 249750,
+    "Deadline": "07-10-2023",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Isra University/hospital",
+    "City": "Hyderabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 260000,
+    "Deadline": "13-07-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Capital University Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 374000,
+    "Deadline": "02-09-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Ibadat International University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 148000,
+    "Deadline": "10-09-2023",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 299200,
+    "Deadline": "29-10-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BS(TECHNOLOGY)",
+    "Duration": "4 Years",
+    "Fee": 76000,
+    "Deadline": "13-07-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Sir Syed University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 172800,
+    "Deadline": "19-07-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 176000,
+    "Deadline": "26-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Imperial College Of Business Studies",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 329000,
+    "Deadline": "21-08-2023",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Lahore Leads University ( Faculty Of Engineering )",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 196000,
+    "Deadline": "20-11-2022",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 205000,
+    "Deadline": "03-01-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 376563,
+    "Deadline": "10-10-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 399750,
+    "Deadline": "31-07-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Institute Of Southern Punjab",
+    "City": "Multan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 221000,
+    "Deadline": "01-02-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Cecos University Of Information Tech. & Emerging Sciences",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 410000,
+    "Deadline": "28-07-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "City University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "15-10-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Iqra National University",
+    "City": "Peshawar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 124320,
+    "Deadline": "30-09-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 68000,
+    "Deadline": "05-12-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Ghulam Ishaq Khan  Institute Of Engineering Sciences & Technology",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 695000,
+    "Deadline": "30-05-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Hitec University",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 220000,
+    "Deadline": "30-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Wah",
+    "City": "Wah Cantt",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 214000,
+    "Deadline": "20-09-2023",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Abbotabad Campus )",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "04-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Engineering & Technology ( Bannu Campus )",
+    "City": "Bannu",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "19-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Mehran University Of Engineering And Technology ( Szab Campus, Khair Pur )",
+    "City": "Khair Pur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "18-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Science And Technology, Larkana Campus",
+    "City": "Larkana",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-06-2023",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Engineering & Technology (narowal Campus)",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "University Of Engineering & Technology Peshawar ( Jalozai Campus )",
+    "City": "Pabbi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "19-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "National University Of Science And Technology, Quetta Campus",
+    "City": "Quetta",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Sahiwal Campus )",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "15-08-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Wah Campus )",
+    "City": "Wah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "01-08-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-12-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Isra University [isb]]",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-09-2021",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "The University Of Lahore ( Islamabad Campus )",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 188000,
+    "Deadline": "06-09-2019",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Isra University [khi]",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 260000,
+    "Deadline": "09-11-2018",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Lahore )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Thar Institute Of Engineering, Science & Technology",
+    "City": "Mithi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-05-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Military College Of Signals",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Military Collage Of Engineering",
+    "City": "Risalpur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Chenab College Of Engineering & Technology",
+    "City": "Gujranwala",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2019",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Pimsat - Institute Of Higher Education",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-02-2017",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Rise Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2015",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "The Limit College Of Engineering & Technology",
+    "City": "Lahore",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "The Limit College Of Engineering & Technology [okara]",
+    "City": "Okara",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Quaid-e-azam College Of Engineering & Technology",
+    "City": "Pattoki",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-11-2016",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Brave College Of Technology",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-11-2013",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Swedish College  Of Engineering And Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Army Public College Of Management & Sciences",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-08-2020",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Quaid-e-azam College Of Engineering And Technology",
+    "City": "Sahiwal",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "The Limit College Of Engineering & Technology [sahiwal]",
+    "City": "Sahiwal",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Islam College Of Engineering & Management Sciences",
+    "City": "Sialkot",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2021",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Swedish College  Of Engineering And Technology[wah  Cantt Campus]",
+    "City": "Wah Cantt",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2022",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Fertilizer Research",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 45000,
+    "Deadline": "22-07-2025",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Fertilizer Research",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-07-2019",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Emaan Institute Of Management & Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 96000,
+    "Deadline": "20-07-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Pakistan Institute Of Engineering And Technology",
+    "City": "Multan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-08-2019",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Brains Institute",
+    "City": "Peshawar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2024",
+    "Subject": "Civil"
+  },
+  {
+    "Institute": "Gandhara Institute Of Sceince & Technology  Pgs Engineering College",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2019",
+    "Subject": "Civil"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 53415,
+    "Deadline": "30-06-2025",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Uit University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-07-2025",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Balochistan University Of Engineering & Technology",
+    "City": "Khuzdar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 16000,
+    "Deadline": "17-10-2025",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Sukkur Iba University",
+    "City": "Sukkur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "07-02-2026",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 90000,
+    "Deadline": "30-07-2025",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 138600,
+    "Deadline": "15-03-2025",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Karachi Institute Of Economics & Technology",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 117600,
+    "Deadline": "06-01-2024",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Muhammad Ali Jinnah University",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 166250,
+    "Deadline": "22-07-2024",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 117000,
+    "Deadline": "18-10-2025",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2026",
+    "Subject": "Computer System"
+  },
+  {
+    "Institute": "Usman Institute Of Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 215200,
+    "Deadline": "22-09-2021",
+    "Subject": "Computer System"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Air University",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 112050,
+    "Deadline": "25-07-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Liaquat University Of Medical And Health Sciences",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 55000,
+    "Deadline": "10-10-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "10-05-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "5 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Balochistan University Of Engineering & Technology",
+    "City": "Khuzdar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Sciences & Technology",
+    "City": "Nawab Shah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-05-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 165000,
+    "Deadline": "30-07-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-03-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Salim Habib University",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 239000,
+    "Deadline": "10-01-2023",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Sir Syed University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 83000,
+    "Deadline": "19-07-2024",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "26-08-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Hitec University",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 220000,
+    "Deadline": "30-08-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Universtiy Of Engineering And Technology (sub Campus)",
+    "City": "Kala Shah Kaku",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "11-07-2025",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "University Of Engineering & Technology (narowal Campus)",
+    "City": "Narowal",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Bio Medical"
+  },
+  {
+    "Institute": "Quaid-e-azam College Of Engineering And Technology",
+    "City": "Sahiwal",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Bio Medical"
+  }
+]
