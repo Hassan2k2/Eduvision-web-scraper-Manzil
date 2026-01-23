@@ -1,0 +1,659 @@
+[
+  {
+    "Institute": "Women University Azad Jammu & Kashmir",
+    "City": "Bagh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51660,
+    "Deadline": "01-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "The University Of Buner",
+    "City": "Buner",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48829,
+    "Deadline": "26-01-2026",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Medical University, Pims",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-10-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 140000,
+    "Deadline": "20-12-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "King Edward Medical University / Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Nishtar Medical College / Nishter Hospital",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-01-2026",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "The University Of Agriculture",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Bolan University Of Medical & Health Sciences",
+    "City": "Quetta",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "20-01-2026",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "The University Of Veterinary & Animal Sciences",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 18000,
+    "Deadline": "30-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 124875,
+    "Deadline": "07-10-2023",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Nur International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155278,
+    "Deadline": "18-01-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Rashid Latif Khan University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-11-2024",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Northern University",
+    "City": "Nowshera",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30250,
+    "Deadline": "16-02-2026",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-02-2026",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Cecos University Of Information Tech. & Emerging Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "City University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-11-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Gandhara University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Iqra National University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80903,
+    "Deadline": "07-02-2026",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 66000,
+    "Deadline": "05-12-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, G. I. Khan Campus",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Kohat",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Hazara",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences, Kurram",
+    "City": "Para Chinar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Iqra University, Chak Shahzad Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 111180,
+    "Deadline": "29-02-2024",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-01-2024",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Iqra National Univesity, Swat Campus",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 77231,
+    "Deadline": "30-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Bacha Khan Medical College",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Al- Qassar Institute Of Health Sciences",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2020",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Al Wateen Institute Of Medical Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-02-2019",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Capital College Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2022",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "College Of Medical Technology/pims",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Professional College Of Medical Science, Karak Campus",
+    "City": "Karak",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-12-2019",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Fmh College Of Medicine & Dentistry",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2022",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Rashid Latif Medical College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2024",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Bakhtawar Amin Medical And Dental College",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Ahmad Medical Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-11-2019",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Ghazali Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Hafeez Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-12-2021",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Hallmark College Of Pharmacy",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-01-2021",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Hefa Foundation",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-11-2020",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-01-2022",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Khyber Pakhtunkhwa Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-01-2022",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "National College Of Nursing",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "P E F University College",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Al Wateen Institute Of Medical Sciences, Rawalpindi Campus",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2019",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Health Services Academy",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Medical Sciences",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2024",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "The Childrens Hospital & The Institute Of Child Health",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-11-2024",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Vertex Institute Of Science & Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-04-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Dr. Ihsanullah Khan Medical Institute",
+    "City": "Charsadda",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 136000,
+    "Deadline": "02-10-2022",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Bashir Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-03-2023",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Fmh Institute Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-11-2023",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Global Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2024",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "National Institute Of Health And Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Premier Institute Of Health And Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2024",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Rehman Medical Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2025",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "Seena Institute Of Medical Sciences",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2022",
+    "Subject": "Dental Technology"
+  },
+  {
+    "Institute": "School Of Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2020",
+    "Subject": "Dental Technology"
+  }
+]

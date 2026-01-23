@@ -1,0 +1,866 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "2 Hours",
+    "Fee": 0,
+    "Deadline": "26-08-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Cholistan University Of  Veterinary & Animal Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 37500,
+    "Deadline": "15-08-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Bacha Khan University",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 37000,
+    "Deadline": "22-09-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21300,
+    "Deadline": "15-08-2023",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 36800,
+    "Deadline": "24-06-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41900,
+    "Deadline": "10-08-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49929,
+    "Deadline": "26-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BCS",
+    "Duration": "4 Years",
+    "Fee": 43950,
+    "Deadline": "10-02-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "National University Of Science & Technology",
+    "City": "Islamabad",
+    "Degree": "BSC (AGRI.) HON",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "15-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25500,
+    "Deadline": "10-10-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 39700,
+    "Deadline": "15-09-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Loralai",
+    "City": "Loralai",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 11300,
+    "Deadline": "12-08-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Women University Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41400,
+    "Deadline": "10-09-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 27150,
+    "Deadline": "18-08-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Agriculture",
+    "City": "Multan",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 40000,
+    "Deadline": "30-11--0001",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29513,
+    "Deadline": "31-01-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "The University Of Agriculture",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47000,
+    "Deadline": "09-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Bolan University Of Medical & Health Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Sardar Bahadur Khan Women University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 8040,
+    "Deadline": "26-08-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "05-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "15-12-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "DND",
+    "Duration": "5 Years",
+    "Fee": 160000,
+    "Deadline": "01-03-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Sindh Agriculture University",
+    "City": "Tando Jam",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "30-09-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Chakwal",
+    "City": "Chakwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Ibadat International University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 90700,
+    "Deadline": "10-09-2023",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "2 Years",
+    "Fee": 114000,
+    "Deadline": "30-07-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 84700,
+    "Deadline": "15-03-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Jinnah University For Women",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 65000,
+    "Deadline": "15-10-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 172800,
+    "Deadline": "26-08-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Lahore University Of Biological & Applied Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-05-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Qarshi University (lhr)",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-07-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Rashid Latif Khan University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 169800,
+    "Deadline": "31-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "10-10-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "National University Of Medical Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 300000,
+    "Deadline": "16-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Pir Mehr Ali Shah Arid Agriculture University Rawalpindi, Sub Campus",
+    "City": "Attock",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Agriculture Faisalabad, Sub Campu",
+    "City": "Burewala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Government College University Faisalabad (layyah Campus)",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "The Islamic University Of Bahawalpur[rahimyar Khan Campus]",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "25-12-2023",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Government College University Faisalabad, Sahiwal Campus",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "The University Of Agriculture, Swat",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Agriculture Faisal Abad[toba Tek Singh Campus]",
+    "City": "Toba Tek Singh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 114000,
+    "Deadline": "18-10-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-12-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Hamdard University - Islamabad Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-07-2023",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Iqra University, Chak Shahzad Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121890,
+    "Deadline": "29-02-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "The University Of Lahore, Sub Campus",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-02-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Pak- Austria Fachhuochschule, Institute Of Applied Sciences And Technology",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "University Of Home Economics",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Sutlej College Of Allied Health Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-01-2021",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Layallpur Institute Of Management & Sciences ( Lims )",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-10-2017",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Ahmed College Of Pharmacy & Institute Of Allied Medical Sciences",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2018",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Royal Gorup Of Colleges",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Allied College Of Health Sciences",
+    "City": "Khanewal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2021",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "A C E Institute Of Medical And Emerging Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-11-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Gulab Devi Educational Complex",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Hussain College Of Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Informatics Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Yashfeen College Of Pharmacy",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Dr Yahya Institute Of Medical Sciences",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-12-2021",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Allied College Of Health Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-11-2022",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Islamic International Institute Of Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-11-2018",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Center Of Advanced Studies In Health & Technology",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2023",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Comand College",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2019",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Pir Abdul Qadir Shah Jeelani Institute Of Medical Sciences",
+    "City": "Gambat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-03-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Health Services Academy",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "The Childrens Hospital & The Institute Of Child Health",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-11-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Barani Institute Of Management Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Faisal Institute Of Health Sciences",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "International Institute Of Science, Arts And Technology",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2025",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Abu Zafar Institute Of Medical Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2018",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Afro-asian Institute",
+    "City": "Lahore",
+    "Degree": "DND",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-08-2023",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Gulab Devi Post Graduate Medical Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Johar Institute Of Professional Studies",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2024",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Punjab Institute Of Professional Studies",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-03-2021",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Laeeque Rafique Institute Of Medical Sciences & Nursing School",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2021",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Royal Institute Of Medical Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2022",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Sargodha Institute Of Health Sciences",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Human Diet Nutrition"
+  },
+  {
+    "Institute": "Times Institute",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "18-08-2025",
+    "Subject": "Human Diet Nutrition"
+  }
+]

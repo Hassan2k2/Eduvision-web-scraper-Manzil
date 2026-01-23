@@ -1,0 +1,2216 @@
+[
+  {
+    "Institute": "The Government Sadiq College Women University",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-06-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 69965,
+    "Deadline": "30-06-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kalam Bibi International Women Institute",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Air University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Medical University, Pims",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Liaquat University Of Medical And Health Sciences",
+    "City": "Jamshoro",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 28000,
+    "Deadline": "10-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 140000,
+    "Deadline": "16-12-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 79400,
+    "Deadline": "15-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "King Edward Medical University / Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 54000,
+    "Deadline": "16-11-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Shaheed Mohtarma Benazir Bhutto Medical University",
+    "City": "Larkana",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 37500,
+    "Deadline": "09-01-2026",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2026",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33700,
+    "Deadline": "13-12-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Peoples University Of Medical And Health Sciences For Women",
+    "City": "Nawab Shah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 16000,
+    "Deadline": "31-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Bolan Medical College / Bolan Hospital",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-04-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Bolan Medical College / Bolan Hospital",
+    "City": "Quetta",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Bolan University Of Medical & Health Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-01-2026",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 180000,
+    "Deadline": "07-10-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "The University Of Chenab",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Isra University/hospital",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 140000,
+    "Deadline": "15-12-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Foundation University",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 140000,
+    "Deadline": "15-11-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Foundation University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 130000,
+    "Deadline": "15-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Ibadat International University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 99400,
+    "Deadline": "10-09-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 128000,
+    "Deadline": "30-07-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Aga Khan University",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 363000,
+    "Deadline": "27-04-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Bahria University Medical & Dental College",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 140274,
+    "Deadline": "10-02-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Baqai Medical University",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 125000,
+    "Deadline": "18-10-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 138600,
+    "Deadline": "15-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Indus University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 202272,
+    "Deadline": "26-08-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nur International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155278,
+    "Deadline": "11-01-2026",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Rashid Latif Khan University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "B.NURS",
+    "Duration": "2 Years",
+    "Fee": 142100,
+    "Deadline": "03-01-2026",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Northern University",
+    "City": "Nowshera",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30250,
+    "Deadline": "16-02-2026",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-02-2026",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Cecos University Of Information Tech. & Emerging Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "City University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Iqra National University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 125766,
+    "Deadline": "30-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, G. I. Khan Campus",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Bahria University ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 140274,
+    "Deadline": "09-01-2026",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Kohat",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Hazara",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Dir Upper",
+    "City": "Upper Dir",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Isra University [isb]]",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 130000,
+    "Deadline": "05-09-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Isra University [khi]",
+    "City": "Karachi",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 140000,
+    "Deadline": "06-05-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Zia Ud Din University, Sukkur Campus",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-08-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Iqra National Univesity, Swat Campus",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 125766,
+    "Deadline": "30-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Government College Of Nursing, Ayub Teaching Hospital",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Government College Of Nursing",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Government College Of Nursing",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nursing College / Community Midwifery School",
+    "City": "Gwadar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Pakistan Institute Of Medical Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2016",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Female",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-12-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Government College Of Nursing",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Allama Iqbal Medical College / Jinnah Hospital",
+    "City": "Lahore",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-11-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Allama Iqbal Medical College / Jinnah Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "24-06-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "School Of Nursing & Midwifery Sir Ganga Ram Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "06-11-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "School Of Nursing, Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "06-11-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Female",
+    "City": "Larkana",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Male",
+    "City": "Larkana",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Government College Of Nursing",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Mti College Of Nursing",
+    "City": "Mardan",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "16-09-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nursing College / Community Midwifery School",
+    "City": "Nasirabad Balochistan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Female",
+    "City": "Nawab Shah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Government College Of Nursing, Hayatabad Medical Complex",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-11-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Government College Of Nursing, Khyber Teaching Hospital",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-11-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Government College Of Nursing, Lady Reading Hospital",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-11-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Post Graduate College Of Nursing",
+    "City": "Peshawar",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Collegeof Nursing(sandiman Provincial Hospital)",
+    "City": "Quetta",
+    "Degree": "BMS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "29-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing Armed Forces Post Graduate Medical Institute",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2017",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Female",
+    "City": "Shikar Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "School Of Nursing, Allama Iqbal Hospital",
+    "City": "Sialkot",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "06-11-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Government College Of Nursing",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Frontier Institute Of Medical Sciences [abbottabad]",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-04-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nims College Of Medical Imaging Sciences",
+    "City": "Abbottabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Vertex College Of Science & Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Vist College Of Nursing",
+    "City": "Abbottabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "22-03-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Bahawalpur College Of Nursing",
+    "City": "Bahawal Pur",
+    "Degree": "B.NURS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2020",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Bahawalpur Institute Of Medical Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-02-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Barikot College Of Nursing",
+    "City": "Barikot",
+    "Degree": "CERT",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-04-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Farabi College Of Nursing & Health Sciences",
+    "City": "Batkhela",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Medix College Of Health, Management Sciences & Institute Of Nursing",
+    "City": "Chakdara",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-08-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Gulf College Of Nursing",
+    "City": "D.g.khan",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Aziz Fatimah Nursing College",
+    "City": "Faisalabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Independent College Of Nursing",
+    "City": "Faisalabad",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Jinnah Institute Of Medical Sciences",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Lyallpur Institute Of Advance Studies",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Al Wateen Institute Of Medical Sciences",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-02-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Edworld College Of Nursing & Allied Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-01-2020",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Hbs Medical And Dental College",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Health Aid College Of Nursing",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Islamabad Medical & Dental College",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-02-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Pak Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "17-01-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Shifa College Of Nursing",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 165000,
+    "Deadline": "26-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Aga Khan University",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 363000,
+    "Deadline": "08-05-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "(imht) Indus College Of Nursing & Midwifery",
+    "City": "Karachi",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-08-2016",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "(imht) Indus College Of Nursing & Midwifery",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "05-08-2016",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Al Nimrah College Of Nursing And Health Sciences",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Al-tibri College Of Nursing",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Allied Institute Of Nursing And Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Altamash  Institute Of Dental Medicine",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Horizon School Of Nursing & Health Sciences",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2020",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Indus College Of Nursing And Midwifery, The Indus Hospital",
+    "City": "Karachi",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Jinnah Medical & Dental College",
+    "City": "Karachi",
+    "Degree": "B.NURS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Liaquat College Of Medicine & Dentistry",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-11-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Liaquat National College Of Nursing",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Liaquat National Medical College",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "12-11-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Liaquat National Medical College",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-11-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Murshid Hospital And Health Care Centre",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "New Life K K College Of Nursing",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-03-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Pakistan Rangers College Of Nursing",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-03-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Pakistan Rangers College Of Nursing",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "26-03-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Sindh Institute Of Medical And Allied Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Suvastu School Of Nursing & Health Sciences",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Rehman College Of Nursing & Allied Health Sciences",
+    "City": "Khanewal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-02-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Akhtar Saeed Medical And Dental College",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Al- Aleem Medical College, Gulab Devi Educational Complex",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "Hours",
+    "Fee": 0,
+    "Deadline": "21-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Cmh Lahore Medical College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Gulab Devi Educational Complex",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Gulfreen Nursing College",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-03-2017",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Ittifaq College Of Nusing",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "New Advance College Of Nursing",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Rashid Latif Nursing College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-11-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Sacon Institute Of Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Saida Waheed Fmh College Of Nursing",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Shalamar Nursing College",
+    "City": "Lahore",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Sharif College Of Nursing",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Elizabeth Rani College Of Nusing",
+    "City": "Mardan",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2020",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Elizabeth Rani College Of Nusing",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2020",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Himalaya College Of Nursing And Allied Health Sciences",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Khushal College Of Nursing",
+    "City": "Mardan",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "07-03-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Khushal College Of Nursing",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-03-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Zia Nursing College",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-12-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Mohi-ud-din Institute Of Nursing & Allied Sciences",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-04-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Cmh Multan Institute Of Medical Sciences",
+    "City": "Multan",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Farrukh Mukhtar College Of Nursing",
+    "City": "Multan",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-10-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Medicare College Of Nursing",
+    "City": "Multan",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "16-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Multan Medical And Dental College",
+    "City": "Multan",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "16-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Ghazali Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Ghazali Institute Of Medical Sciences ( Girls Campus )",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-01-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "P E F University College",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Pak International Nursing College",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Reflex College Of Nursing And Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-02-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Rufaidah Nursing College",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Rufaidah Nursing College",
+    "City": "Peshawar",
+    "Degree": "B.NURS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "22-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "The Universe College Of Nursing",
+    "City": "Peshawar",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-12-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Quetta Institute Of Medical Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Al Wateen Institute Of Medical Sciences, Rawalpindi Campus",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kings Institute Of Nursing And Allied Health Sciences",
+    "City": "Saidu Sharif",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-11-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Swat College Of Nursing",
+    "City": "Saidu Sharif",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-11-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Shahid College Of Nursing",
+    "City": "Shabqadar",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-11-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Swabi College Of Nursing And Health Sciences",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-02-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Royal College Of Nursing",
+    "City": "Swat",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2018",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Lady Lamp College Of Nursing & Health Sciences",
+    "City": "Timergara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2020",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "National Institute Of Education, Khema",
+    "City": "Timergara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Zeb College Of Nursing",
+    "City": "Timergara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Med Tech College Of Nursing",
+    "City": "Upper Dir",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-04-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Al- Rehman College Of Nursing & Allied Health Sciences",
+    "City": "Vehari",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "10-11-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Wah Medical College",
+    "City": "Wah",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing / Pims",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Health Services Academy",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Ayaz Samoon Nursing Training Institute, Liyari",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-12-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Patel Institute Of Nursing And Allied Health Sciences",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "22-09-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Cmh Kharian Medical College",
+    "City": "Kharian",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kmu Institute Of Medical Sciences",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Combined Military Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2017",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Shalamar Hospital",
+    "City": "Lahore",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2014",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Shalamar Hospital",
+    "City": "Lahore",
+    "Degree": "B.NURS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2014",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Sheikh Zayed Federal Postgraduate Medical Institute / Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-11-2012",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Sheikha Fatima Institute Of Nursing & Health Sciences",
+    "City": "Lahore",
+    "Degree": "B.NURS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Combined Military Hospital",
+    "City": "Multan",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2017",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Postgraduate Medical Institute Leady Reading Hospital",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Postgrauate Medical Institue ( Hayatabad Medical Complex)",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Combined Military Hospital",
+    "City": "Quetta",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2017",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Armed Forces Postgraduate Medical Institute",
+    "City": "Rawalpindi",
+    "Degree": "BS (HONS)",
+    "Duration": "4",
+    "Fee": 55000,
+    "Deadline": "22-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing And Medwifery, Holy Family Hospital",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "06-11-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Liaquat Institute Of Medical & Health Sciences",
+    "City": "Thatta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nursing College / Training & Rehabiliation Centre",
+    "City": "Zhob",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Vertex Institute Of Science & Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-04-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Liaquat Institute Of Medical Sciences",
+    "City": "Batkhela",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-02-2019",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Jeejal Maau Institution Of Physiotherapy And Rehabilitation Sciences",
+    "City": "Hyderabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "02-03-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Aman Medical Institute",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Bashir Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Bashir Institute Of Nursing",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2020",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Prime Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Prime Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Rawal Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Hamza Institute Of Nursing & Health Sciences",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2018",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Karachi Institute Of Medical Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Memon Medical Institute Hospital",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nmc Institute Of Nursing",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-09-2011",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Sachal Sarmast Institute Of Nursing",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2016",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Saifee Burhani School Of Nursing",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "South City Institute Of Nursing",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2018",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Universal Health Institute Of Nursing",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Pakistan Kidney And Liver Institute And Research Center",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Pakistan Kidney And Liver Institute And Research Center",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Global Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-05-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Northwest Institute Of Healths Ciences",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Premier Institute Of Health And Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Rehman Medical Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Civil Hospital",
+    "City": "Badin",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Sir C. J. Institute Of Psychiatry",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing & Midwifery, Government Hospital Liaquatabad",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing & Midwifery, Government Qatar Hospital Orangi Town",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, (male), Sindh Government Hospital Korang No.5",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, (male), Sindh Government Liyari General Hospital",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-08-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, ‏‎dr Ruth Pfau Civil Hospital",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Civil Hospital",
+    "City": "Khair Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "School Of Nursing, Jinnah Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "06-11-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Civil Hospital",
+    "City": "Mir Pur Khas",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "School Of Nursing, Nishtar Hospital",
+    "City": "Multan",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "School Of Nursing And Midwifery",
+    "City": "Muzafargarh",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "06-11-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Civil Hospital",
+    "City": "Sanghar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Civil Hospital",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "College Of Nursing, Civil Hospital",
+    "City": "Thatta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Baich Wood School Of Nursing (mail]",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-02-2024",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Life Saving School Of Nursing",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "S.t. Jams School Of Nursing",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2014",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "St. James School Of Nursing",
+    "City": "Karachi",
+    "Degree": "B.NURS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "05-12-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Provincial Health Services Academy",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2022",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Shaukat Khanam Memorial Cancer Hospital & Research Center",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nursing College / Jam Ghulam Qadir Hospital",
+    "City": "Hub",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nursing College / D H Q Hospital",
+    "City": "Kharan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nursing College / District Health Development Center",
+    "City": "Khuzdar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-04-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nursing College / D H Q Hospital",
+    "City": "Loralai",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-04-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nursing College / D H Q Hospital",
+    "City": "Panjgur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "D H Q Hospital",
+    "City": "Pishin",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-04-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Sandeman Provincial Hospital",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-03-2020",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Sheikh Zayed Hospital",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-04-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nursing College / D H Q Hospital",
+    "City": "Sibi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2021",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Nursing College / District Health Development Center",
+    "City": "Turbat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-04-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Chiniot General Hospital",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-01-2023",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Kharadar General Hospital",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Jamshoro College Of Nursing",
+    "City": "Jamshoro",
+    "Degree": "B.NURS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing"
+  },
+  {
+    "Institute": "Al-tibri Medical College",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 140000,
+    "Deadline": "15-10-2019",
+    "Subject": "Nursing"
+  }
+]

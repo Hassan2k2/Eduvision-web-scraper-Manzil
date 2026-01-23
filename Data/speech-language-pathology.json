@@ -1,0 +1,263 @@
+[
+  {
+    "Institute": "University Of Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-10-2025",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Bolan University Of Medical & Health Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-01-2026",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Ibadat International University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49800,
+    "Deadline": "10-09-2023",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 111500,
+    "Deadline": "30-07-2025",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 188000,
+    "Deadline": "02-08-2022",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Nur International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155278,
+    "Deadline": "30-09-2024",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Rashid Latif Khan University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 128000,
+    "Deadline": "03-01-2026",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-11-2024",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-02-2026",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "University Of Health Sciences, Kala Shah Kaku Campus",
+    "City": "Kala Shah Kaku",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-11-2025",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2025",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Isra University [isb]]",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 170000,
+    "Deadline": "05-09-2022",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2026",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Riphah International University ( Rawalpindi Campus )",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2020",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "National Institute Of Modern Studies",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-02-2022",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Yusra Medical & Dental College",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Fmh College Of Medicine & Dentistry",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2022",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Psrd College Of Rehabilitation Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Rashid Latif Medical College",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2024",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Bakhtawar Amin Medical And Dental College",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-2025",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Multan Medical And Dental College",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-08-2024",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Health Services Academy",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "The Childrens Hospital & The Institute Of Child Health",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-11-2024",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Armed Forces Institute Of Rehabilitation Medicine",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Fmh Institute Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-11-2023",
+    "Subject": "Speech Language Pathology"
+  },
+  {
+    "Institute": "Rehman Medical Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2025",
+    "Subject": "Speech Language Pathology"
+  }
+]

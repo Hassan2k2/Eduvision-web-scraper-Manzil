@@ -1,0 +1,110 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33100,
+    "Deadline": "31-07-2025",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 140000,
+    "Deadline": "20-12-2025",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "18-08-2025",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "20-06-2025",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "University Of Swat",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 19730,
+    "Deadline": "12-10-2023",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "The University Of Modern Sciences",
+    "City": "Tando Muhammad Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-12-2024",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Sheringal",
+    "City": "Upper Dir",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30010,
+    "Deadline": "10-10-2025",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "Lahore University Of Biological & Applied Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Forensic Studies"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Forensic Studies"
+  }
+]

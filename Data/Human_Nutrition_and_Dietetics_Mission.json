@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Government College Women University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33100,
+    "Deadline": "31-07-2025",
+    "Subject": "Human Nutrition Dietetics Mission"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 51700,
+    "Deadline": "28-07-2025",
+    "Subject": "Human Nutrition Dietetics Mission"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 45650,
+    "Deadline": "08-08-2025",
+    "Subject": "Human Nutrition Dietetics Mission"
+  }
+]

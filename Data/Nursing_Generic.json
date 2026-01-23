@@ -1,0 +1,1109 @@
+[
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 100000,
+    "Deadline": "14-11-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "The University Of Modern Sciences",
+    "City": "Tando Muhammad Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-11-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Metropolitan University Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-04-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Attock",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing Dhq Hospital",
+    "City": "Bhakkar",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Chakwal",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Civil Hospital, Community Midwifery School",
+    "City": "Dadu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-11-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Allied Hospital",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Gambat College Of Nursing",
+    "City": "Gambat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Eye Cum General Hospital",
+    "City": "Gojra",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Dakson Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-03-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Shaheed Muhtrama Benazir Bhutto Medical College, Lyari",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-08-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Khanewal",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Khushab",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Allied Health Sciences School, Lahore General Hospital",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-03-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Ameer Ud Din Medical College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "College Of Nursing, Government Teaching Hospital, Shahdara",
+    "City": "Lahore",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Postgraduate College Of Nursing",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing & Midwifery Sir Ganga Ram Hospital",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing Services Hospital",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Bacha Khan Medical College",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Mti College Of Nursing",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-11-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing Dhq Hospital [mianwali]",
+    "City": "Mianwali",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "State College Of Nursing",
+    "City": "Mir Pur (ajk)",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2024",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing Dhq Hospital [okara]",
+    "City": "Okara",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Pak Pattan",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Sheikh Zayed  Hospital",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Rajanpur",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "College Of Nursing, Christian Hospital",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Allama Iqbal Hospital",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Nigar College Of Nursing",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Toba Tek Singh",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Abbottabad College Of Nursing",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2023",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Jinnah School Of Nursing",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "Hours",
+    "Fee": 0,
+    "Deadline": "16-01-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Nims College Of Medical Imaging Sciences",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-01-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Vist College Of Nursing",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-03-2019",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Farabi College Of Nursing & Health Sciences",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-02-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Pace Group Of Colleges",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-11-2020",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Madina Teaching Hospital",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Global Institute Of Medical & Allied Health Sciences",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "National Institute Of Modern Studies",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-02-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Pak Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-01-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Al Nimrah College Of Nursing And Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2023",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "All Saints Institute Of Nrsing & Allied Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Jesus & Mary Institute Of Nursing & Allied Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-12-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Karachi Institute Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Karachi Institute Of Nursing And Allied Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-02-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Oxford College Of Nursing And Allied Health Science",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-10-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Pakistan Institute Of Nursing & Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Crescent College Of Nursing And Allied Health Sciences",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-04-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Ali Garh College Of Nursing",
+    "City": "Lahore",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Bahria Town School Of Nursing",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-11-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Continental Institute Of Nursing",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-11-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Doctors Hospital College Of Nursing",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-11-2023",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "International College Of Nursing & Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-04-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Ittifaq College Of Nusing",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Lahore Medical & Dental College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "National Hospital & Medical Center",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-11-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "P S E College Of Nursing",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Ali Fatima Hospital",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Mardan Institute Of Nursing And Allied Medical Sciences",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Obaid Noor Institute Of Medical Sciences",
+    "City": "Mianwali",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-02-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "New Life Institute Of Nursing",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-10-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Siddique Institute Of Nursing And Allied Health Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Al-shifa Institute Of Health Sciences",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Khyber Institute Of Nursing & Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-02-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Khyber Pakhtunkhwa Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-04-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "National College Of Nursing",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Premier Institute Of Nursing Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-11-2024",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Razi Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-10-2023",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "The Health Care Institute Of Nursing",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-11-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Sina Institute Of Medical Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Armed Forces Medical College",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 55000,
+    "Deadline": "01-01-1970",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "S M K Institute Of Nursing",
+    "City": "Shikar Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Blessing Institute Of Medical Sciences",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Indus College Of Nursing",
+    "City": "Tando Muhammad Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-11-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Musarrat Shaukat College Of Nursing",
+    "City": "Timergara",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Thar Institute Of Nursing And Allied Health Sciences",
+    "City": "Umerkot",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Al- Rehman College Of Nursing & Allied Health Sciences",
+    "City": "Vehari",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-11-2022",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Pir Abdul Qadir Shah Jeelani Institute Of Medical Sciences",
+    "City": "Gambat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-03-2024",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing/pims",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-11-2023",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Jinnah Postgraduate Medical Centre/hospital",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-12-2024",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "National Institute Of Child Health",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2024",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Sindh Institute Of Urology And Transplantation",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Sheikha Fatima Institute Of Nursing & Health Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "The Childrens Hospital & The Institute Of Child Health",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "College Of Nursing And Medwifery, Holy Family Hospital",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Women Institute Of Learning",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-11-2023",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Cmh Institute Of Medical Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Hyderabad Institute Of Medical & Allied Sciences",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-03-2023",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Advance Health Sciences Institute Of Nursing",
+    "City": "Karachi",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-10-2020",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Rehman Institute Of Paramedics",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-09-2021",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Farkhunda Institute Of Nursing And Public Health",
+    "City": "Peshawar",
+    "Degree": "B.NURS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "National Institute Of Health And Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Udhyana Institute Of Medical Sciences",
+    "City": "Saidu Sharif",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2023",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Dhq Hospital",
+    "City": "Bahawal Nagar",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "General Nursing Midwifery School, Bahawal Victoria  Hospital",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Faisalabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing And Midwifery , Dhq/teaching Hospital",
+    "City": "Gujranwala",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "General Nursing And Midwifery School Aziz Bhatti Shaheed Teaching Hospital",
+    "City": "Gujrat",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "General Nursing School, D H Q Hospital",
+    "City": "Hafizabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Federal Government Poly Clinic",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "College Of Nursing",
+    "City": "Jaccobabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "General Nursing School, D H Q Hospital",
+    "City": "Jhang",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing And Midwifery, D H Q Hospital",
+    "City": "Jhelum",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Kasur",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Jinnah Hospital",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Layyah",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "General Nursing Midwifery School, D H Q Hospital",
+    "City": "Lodhran",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, Nishtar Hospital",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing And Midwifery",
+    "City": "Muzafargarh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing Midwifery, D H Q Hospital",
+    "City": "Narowal",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing",
+    "City": "Sahiwal",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "General Nursing School, D H Q Teaching Hospital",
+    "City": "Sargodha",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Sheikhupura",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing, D H Q Hospital",
+    "City": "Vehari",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "Blessing School Of Paramedics",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2025",
+    "Subject": "Nursing Generic"
+  },
+  {
+    "Institute": "School Of Nursing/midwifery",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nursing Generic"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "Institute": "Cholistan University Of  Veterinary & Animal Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 41500,
+    "Deadline": "15-08-2024",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 69965,
+    "Deadline": "30-06-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Azad Jammu & Kashmir University Of Bhimber",
+    "City": "Bhimber",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2024",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 52220,
+    "Deadline": "31-07-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 60500,
+    "Deadline": "28-07-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "University Of Veterinary And Animal Sciences",
+    "City": "Lahore",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 45500,
+    "Deadline": "01-08-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Lasbela University Of Agriculture, Water And Marine Sciences, Uthal",
+    "City": "Lasbela",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 21500,
+    "Deadline": "20-10-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "DVM",
+    "Duration": "4 Years",
+    "Fee": 75000,
+    "Deadline": "18-08-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 41450,
+    "Deadline": "18-08-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2026",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "The University Of Agriculture",
+    "City": "Peshawar",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 47000,
+    "Deadline": "15-08-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 70000,
+    "Deadline": "20-08-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 45650,
+    "Deadline": "08-08-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto  International University Of Veterinary And Animal Sciences",
+    "City": "Sakrand",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 9300,
+    "Deadline": "19-12-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "The University Of Veterinary & Animal Sciences",
+    "City": "Swat",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 18000,
+    "Deadline": "30-09-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Sindh Agriculture University",
+    "City": "Tando Jam",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 30000,
+    "Deadline": "30-09-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "26-08-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Mirpur University Of Science & Technology, Bhimber Campus",
+    "City": "Bhimber",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2023",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "College Of Veterinary And Animal Sciences",
+    "City": "Jhang",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 45500,
+    "Deadline": "12-09-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "University Of Veterinary And Animal Sciences [ Ravi Campus]",
+    "City": "Pattoki",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 45500,
+    "Deadline": "01-08-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 198000,
+    "Deadline": "25-01-2026",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Khan Bahadur Chaudhary Mushtaq Ahmad College Of Veterinary And Animal Sciences",
+    "City": "Narowal",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 45500,
+    "Deadline": "12-09-2025",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Riphah College Of Veterinary Sciences",
+    "City": "Lahore",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "18-01-2026",
+    "Subject": "Veterinary Medicine"
+  },
+  {
+    "Institute": "Khyber Institute Of Veterinary Sciences",
+    "City": "Peshawar",
+    "Degree": "DVM",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "16-09-2017",
+    "Subject": "Veterinary Medicine"
+  }
+]

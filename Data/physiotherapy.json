@@ -1,0 +1,722 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 47800,
+    "Deadline": "26-08-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 50800,
+    "Deadline": "24-06-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Liaquat University Of Medical And Health Sciences",
+    "City": "Jamshoro",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 90000,
+    "Deadline": "10-10-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 103000,
+    "Deadline": "13-12-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "King Edward Medical University / Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 54000,
+    "Deadline": "10-12-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Peoples University Of Medical And Health Sciences For Women",
+    "City": "Nawab Shah",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 50000,
+    "Deadline": "31-10-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40000,
+    "Deadline": "05-01-2026",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Rawalpindi Medical University",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "15-01-2026",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 74220,
+    "Deadline": "11-07-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 360000,
+    "Deadline": "07-10-2023",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Isra University/hospital",
+    "City": "Hyderabad",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 250000,
+    "Deadline": "15-12-2023",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 277000,
+    "Deadline": "30-07-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "DPT",
+    "Duration": "4 Years",
+    "Fee": 290000,
+    "Deadline": "02-08-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Baqai Medical University",
+    "City": "Karachi",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 150000,
+    "Deadline": "18-10-2024",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Dewan University",
+    "City": "Karachi",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 146000,
+    "Deadline": "15-02-2026",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 228000,
+    "Deadline": "31-01-2026",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 245500,
+    "Deadline": "03-01-2026",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 337250,
+    "Deadline": "16-11-2024",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "University Of South Asia",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 198000,
+    "Deadline": "05-11-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 88500,
+    "Deadline": "05-12-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "University Of Sargodha (lyallpur Campus)",
+    "City": "Faisalabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "13-11-2017",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "University Of Sargodha ( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2017",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Government College University Faisalabad (layyah Campus)",
+    "City": "Layyah",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "The University Of Lahore ( Chanab Campus)",
+    "City": "Gujrat",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2019",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Isra University [isb]]",
+    "City": "Islamabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 530000,
+    "Deadline": "05-09-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "4 Years",
+    "Fee": 299998,
+    "Deadline": "25-01-2026",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "University Of Management And Technology, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Allama Iqbal Medical College / Jinnah Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-02-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Sheikh Zayed Medical College/hospital",
+    "City": "Rahim Yar Khan",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Frontier Institute Of Medical Sciences [abbottabad]",
+    "City": "Abbottabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "12-04-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Grace College Of Health Sciences",
+    "City": "Chakwal",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-12-2014",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Royal Gorup Of Colleges",
+    "City": "Gujranwala",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2020",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "National Institute Of Physiotherapy & Rehabilitation Medicine",
+    "City": "Hyderabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2021",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Islamabad Federal College F-10",
+    "City": "Islamabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2018",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Vertex College Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "02-11-2018",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Yusra Medical & Dental College",
+    "City": "Islamabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 723000,
+    "Deadline": "30-11--0001",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Angel Institute Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "24-04-2021",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Khairpur Institute Of Physiotherapy & Rehabilitation Sciences",
+    "City": "Khair Pur",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Allied College Of Health Sciences",
+    "City": "Khanewal",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2021",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Aiman Institute Of Medical Sciences",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2017",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Allama Iqbal College Of Physiotherapy",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2023",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Lahore College Of Pharmaceutical Sciences",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 185000,
+    "Deadline": "02-02-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Lahore Medical & Dental College",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Rashid Latif Medical College",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2024",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Shaaf Institute Of Medical And Modern Sciences",
+    "City": "Larkana",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "08-03-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Vertex Institute Of Science & Technology, Mirpur Campus",
+    "City": "Mir Pur (ajk)",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "04-01-2023",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Meher Institute Of Physical Medicine & Rehabilitation",
+    "City": "Mir Pur Khas",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "07-02-2019",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Allied College Of Health Sciences",
+    "City": "Multan",
+    "Degree": "DPT",
+    "Duration": "G5 Years",
+    "Fee": 0,
+    "Deadline": "26-11-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Islamic International Institute Of Sciences",
+    "City": "Multan",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "29-11-2018",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Multan College Of Physiotherapy",
+    "City": "Multan",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Ghazali Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Mehboob Medical Institute",
+    "City": "Peshawar",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "14-12-2024",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Sina Institute Of Medical Sciences",
+    "City": "Quetta",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "09-03-2024",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Islamabad College Of Physiotherapy",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-09-2014",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Islam College Of Pharmacy",
+    "City": "Sialkot",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "10-02-2016",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Royal Institute Of Physiotherapy & Rehabilitation Sciences, Hidayat Campus",
+    "City": "Sukkur",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "26-11-2021",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Suleman Roshan College Of Physiotherapy & Rehabilitation Sciences",
+    "City": "Tando Adam",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "10-01-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Indus College Of Nursing",
+    "City": "Tando Muhammad Khan",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "11-03-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Thar Institute Of Nursing And Allied Health Sciences",
+    "City": "Umerkot",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "13-02-2021",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Gulab Devi Chest Hospital",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-12-2013",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "School Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "The Childrens Hospital & The Institute Of Child Health",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "29-11-2024",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Women Institute Of Learning",
+    "City": "Abbottabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "02-11-2023",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Women Institute Of Rehabilitation Sciences",
+    "City": "Abbottabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Grace Institute Of Science & Technology",
+    "City": "Attock",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2014",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Grace Institute Of Science & Technology",
+    "City": "Chakwal",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2014",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Gujranwala Institute Of Rehabilitation Sciences",
+    "City": "Gujranwala",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "19-02-2022",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Al-biruni Institute Of Physical Therapy & Rehabilitation Sciences",
+    "City": "Hyderabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2021",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Jeejal Maau Institution Of Physiotherapy And Rehabilitation Sciences",
+    "City": "Hyderabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "03-02-2023",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Bashir Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "08-03-2023",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Institute Of Health & Management Sciences",
+    "City": "Islamabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "13-03-2021",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Islamabad Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "29-12-2020",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Abu Zafar Institute Of Medical Sciences",
+    "City": "Karachi",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2018",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Hayat Institute Of Emerging Sciences",
+    "City": "Karachi",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-03-2018",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Liaquat National School Of Physiotherapy",
+    "City": "Karachi",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2025",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Federal Institute Of Health Sciences",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "17-01-2021",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Gulab Devi Post Graduate Medical Institute",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Johar Institute Of Professional Studies",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2024",
+    "Subject": "Physiotherapy"
+  },
+  {
+    "Institute": "Mars Institute Of Health Sciences(women)",
+    "City": "Lahore",
+    "Degree": "DPT",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2017",
+    "Subject": "Physiotherapy"
+  }
+]

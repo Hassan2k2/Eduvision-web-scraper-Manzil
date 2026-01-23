@@ -1,0 +1,101 @@
+[
+  {
+    "Institute": "King Edward Medical University / Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "10-12-2025",
+    "Subject": "Audiology"
+  },
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Audiology"
+  },
+  {
+    "Institute": "Ibadat International University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49800,
+    "Deadline": "10-09-2023",
+    "Subject": "Audiology"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 188000,
+    "Deadline": "02-08-2022",
+    "Subject": "Audiology"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 128000,
+    "Deadline": "03-01-2026",
+    "Subject": "Audiology"
+  },
+  {
+    "Institute": "Bahawal Pur Medical & Dental College",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-01-2021",
+    "Subject": "Audiology"
+  },
+  {
+    "Institute": "Fmh College Of Medicine & Dentistry",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2022",
+    "Subject": "Audiology"
+  },
+  {
+    "Institute": "Pir Abdul Qadir Shah Jeelani Institute Of Medical Sciences",
+    "City": "Gambat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-03-2025",
+    "Subject": "Audiology"
+  },
+  {
+    "Institute": "Pakistan Institute Of Rehabilitation Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-03-2022",
+    "Subject": "Audiology"
+  },
+  {
+    "Institute": "Fmh Institute Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-11-2023",
+    "Subject": "Audiology"
+  },
+  {
+    "Institute": "Hamza Foundation Academy For The Deaf",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2023",
+    "Subject": "Audiology"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "University Of Loralai",
+    "City": "Loralai",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 11300,
+    "Deadline": "12-08-2024",
+    "Subject": "Surgery"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Surgery"
+  },
+  {
+    "Institute": "Barikot College Of Nursing",
+    "City": "Barikot",
+    "Degree": "CERT",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-04-2025",
+    "Subject": "Surgery"
+  }
+]

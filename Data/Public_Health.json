@@ -1,0 +1,425 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47800,
+    "Deadline": "26-08-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 69965,
+    "Deadline": "30-06-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49929,
+    "Deadline": "26-01-2026",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Bahria University, E-8 Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 116025,
+    "Deadline": "18-12-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 184000,
+    "Deadline": "20-12-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21000,
+    "Deadline": "07-11-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32940,
+    "Deadline": "25-09-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "University Of Loralai",
+    "City": "Loralai",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 11300,
+    "Deadline": "12-08-2024",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27150,
+    "Deadline": "02-01-2026",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Agriculture",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "29-09-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "The Women University",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 34750,
+    "Deadline": "23-09-2024",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Peoples University Of Medical And Health Sciences For Women",
+    "City": "Nawab Shah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "31-10-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "The University Of Agriculture",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Women University Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 42460,
+    "Deadline": "12-09-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Indus University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 147000,
+    "Deadline": "31-10-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 88060,
+    "Deadline": "12-02-2026",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-08-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 106400,
+    "Deadline": "03-01-2026",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 56500,
+    "Deadline": "16-05-2023",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Al- Hamd Islamic University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2024",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "National University Of Medical Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 300000,
+    "Deadline": "16-01-2026",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "University Of Health Sciences, Kala Shah Kaku Campus",
+    "City": "Kala Shah Kaku",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-01-2020",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Bahria University ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 116025,
+    "Deadline": "09-01-2026",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Zia Ud Din University, Sukkur Campus",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-08-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "University Of Home Economics",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Frontier Institute Of Medical Sciences [abbottabad]",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-04-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Capital College Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2022",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Health Aid College Of Nursing",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-09-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Islamabad Federal College F-10",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-03-2018",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Nisa Institute Of Science & Arts",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-09-2024",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Health Services Academy",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Prime Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Hayat Institute Of Emerging Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-03-2018",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Rehman Medical Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Pakistan Institute Of Opthamology,al-shifa Trust Eye Hopital",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Indus Hospital (school Of Nursing) Children Cancer Hospital",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-01-2023",
+    "Subject": "Public Health"
+  },
+  {
+    "Institute": "Times Institute",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "15-11-2022",
+    "Subject": "Public Health"
+  }
+]

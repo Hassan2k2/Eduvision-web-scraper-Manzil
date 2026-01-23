@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "King Edward Medical University / Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "10-12-2025",
+    "Subject": "Anaesthesia Technician"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Anaesthesia Technician"
+  },
+  {
+    "Institute": "Northwest Institute Of Healths Ciences",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2025",
+    "Subject": "Anaesthesia Technician"
+  },
+  {
+    "Institute": "School Of Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2020",
+    "Subject": "Anaesthesia Technician"
+  }
+]

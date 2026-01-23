@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Food Science Nutrition"
+  },
+  {
+    "Institute": "Women University Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 77000,
+    "Deadline": "12-09-2025",
+    "Subject": "Food Science Nutrition"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Sahiwal Campus )",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "16-01-2026",
+    "Subject": "Food Science Nutrition"
+  }
+]

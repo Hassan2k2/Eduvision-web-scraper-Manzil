@@ -1,0 +1,182 @@
+[
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41940,
+    "Deadline": "25-09-2025",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "University Of Veterinary And Animal Sciences",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 45500,
+    "Deadline": "12-09-2025",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BBS",
+    "Duration": "2 Years",
+    "Fee": 36000,
+    "Deadline": "11-08-2025",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "DND",
+    "Duration": "5 Years",
+    "Fee": 280000,
+    "Deadline": "07-10-2023",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "The University Of Chenab",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-07-2023",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 88060,
+    "Deadline": "12-02-2026",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "B.ED",
+    "Duration": "4 Years",
+    "Fee": 56500,
+    "Deadline": "05-12-2025",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Institute Of Health Sciences, Kurram",
+    "City": "Para Chinar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "The University Of Lahore ( Islamabad Campus )",
+    "City": "Islamabad",
+    "Degree": "DND",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "11-10-2019",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Government Dyal Singh College[laxmi Chowk]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2022",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "King College Of Health Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "DND",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "16-09-2017",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Central Park College Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-11-2025",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Cmh Lahore Medical College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2025",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Nisa Institute Of Science & Arts",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-09-2024",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Kings College Of Health Sciences",
+    "City": "Sahiwal",
+    "Degree": "DND",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "16-09-2017",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Armed Forces Institute Of Rehabilitation Medicine",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Nutrition Dietetics"
+  },
+  {
+    "Institute": "Comwave Institute Of Information Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-11-2023",
+    "Subject": "Nutrition Dietetics"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "Nur International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 216320,
+    "Deadline": "18-01-2025",
+    "Subject": "Nutritional Sciences"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "DND",
+    "Duration": "5 Years",
+    "Fee": 249750,
+    "Deadline": "16-11-2024",
+    "Subject": "Nutritional Sciences"
+  },
+  {
+    "Institute": "University Of Management And Technology, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Nutritional Sciences"
+  },
+  {
+    "Institute": "Ithm College",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "Years",
+    "Fee": 0,
+    "Deadline": "31-08-2021",
+    "Subject": "Nutritional Sciences"
+  }
+]
