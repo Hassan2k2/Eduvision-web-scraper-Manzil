@@ -1,0 +1,47 @@
+[
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 337250,
+    "Deadline": "31-07-2024",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Air University, Aerospace & Aviation Campus Kamra",
+    "City": "Kamra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 102080,
+    "Deadline": "15-07-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Beaconhouse Informatics",
+    "City": "Islamabad",
+    "Degree": "BBIT",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Informatics Computer Institute",
+    "City": "Rawalpindi",
+    "Degree": "BBIT",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Beaconhouse Business School",
+    "City": "Islamabad",
+    "Degree": "BBIT",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Information Technology"
+  }
+]

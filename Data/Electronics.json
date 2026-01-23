@@ -1,0 +1,524 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 53415,
+    "Deadline": "30-06-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "The University Of Buner",
+    "City": "Buner",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Fata University",
+    "City": "Darra Adam Khail",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-08-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Air University",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 112050,
+    "Deadline": "25-07-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Comsats University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "17-12-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 68000,
+    "Deadline": "04-12-2024",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54565,
+    "Deadline": "29-07-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "18-08-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "17-09-2024",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Dawood University Of Engineering And Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "15-07-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Shah Abdul Latif University",
+    "City": "Khair Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 28000,
+    "Deadline": "22-09-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Balochistan University Of Engineering & Technology",
+    "City": "Khuzdar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 16000,
+    "Deadline": "17-10-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 90000,
+    "Deadline": "08-08-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "The University Of Larkano",
+    "City": "Larkana",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Sciences & Technology",
+    "City": "Nawab Shah",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-05-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Islamia College University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62000,
+    "Deadline": "16-09-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 73800,
+    "Deadline": "23-09-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48415,
+    "Deadline": "26-01-2026",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "University Of Sahiwal",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 31440,
+    "Deadline": "22-07-2024",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Sukkur Iba University",
+    "City": "Sukkur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "07-02-2026",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "University Of Engineering &  Technology, Taxila",
+    "City": "Taxila",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 102400,
+    "Deadline": "22-03-2026",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "University Of Chakwal",
+    "City": "Chakwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Al-khair University [ajk]",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-02-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Karachi Institute Of Economics & Technology",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 111300,
+    "Deadline": "06-01-2024",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Sir Syed University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 172800,
+    "Deadline": "19-07-2024",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 329125,
+    "Deadline": "10-10-2024",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 99000,
+    "Deadline": "17-03-2023",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 79000,
+    "Deadline": "16-05-2023",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Ghulam Ishaq Khan  Institute Of Engineering Sciences & Technology",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 695000,
+    "Deadline": "30-05-2024",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Abbotabad Campus )",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "04-08-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "University Of Engineering & Technology ( Abbotabad Campus )",
+    "City": "Abbottabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "19-08-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "University Of Engineering & Technology,taxila, ( Chakwal Campus )",
+    "City": "Chakwal",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 10430,
+    "Deadline": "27-06-2021",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts  Science & Technology, Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 23150,
+    "Deadline": "10-01-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Mehran University Of Engineering And Technology ( Szab Campus, Khair Pur )",
+    "City": "Khair Pur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "10-05-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Comsats University Islamabad( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "29-12-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Science And Technology, Larkana Campus",
+    "City": "Larkana",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-06-2023",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Rawalpindi Campus",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 68000,
+    "Deadline": "28-07-2023",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 84000,
+    "Deadline": "18-10-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Bahria University, H-11 Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121550,
+    "Deadline": "24-07-2025",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Isra University [isb]]",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 76000,
+    "Deadline": "28-09-2021",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Isra University [isb]]",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 168000,
+    "Deadline": "05-09-2022",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Isra University [khi]",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 260000,
+    "Deadline": "09-11-2018",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Preston University [lhr]",
+    "City": "Lahore",
+    "Degree": "BIS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-06-2016",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2013",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2018",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "The Limit College Of Engineering & Technology",
+    "City": "Lahore",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "The Limit College Of Engineering & Technology [okara]",
+    "City": "Okara",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Centre For Emerging Sciences, Engineering & Technology",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "The Limit College Of Engineering & Technology [sahiwal]",
+    "City": "Sahiwal",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Wah Engineering College",
+    "City": "Taxila",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2011",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Biztek Institute Of Business & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2012",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Usman Institute Of Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 215200,
+    "Deadline": "22-09-2021",
+    "Subject": "Electronics"
+  },
+  {
+    "Institute": "Buraq Institute Of Technology",
+    "City": "Rawalpindi",
+    "Degree": "DAE",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Electronics"
+  }
+]

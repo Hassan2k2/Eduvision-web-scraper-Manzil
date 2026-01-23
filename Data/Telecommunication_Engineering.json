@@ -1,0 +1,290 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 53415,
+    "Deadline": "30-06-2025",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 44300,
+    "Deadline": "23-08-2019",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 63400,
+    "Deadline": "18-09-2024",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Air University",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 112050,
+    "Deadline": "25-07-2025",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "18-08-2025",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "14-09-2025",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Dawood University Of Engineering And Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "31-07-2024",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 41300,
+    "Deadline": "01-09-2025",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "University Of Engineering & Technology ,mardan",
+    "City": "Mardan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 48825,
+    "Deadline": "15-08-2025",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Sciences & Technology",
+    "City": "Nawab Shah",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-05-2025",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48415,
+    "Deadline": "20-08-2025",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Sukkur Iba University",
+    "City": "Sukkur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "07-02-2026",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "University Of Engineering &  Technology, Taxila",
+    "City": "Taxila",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 102400,
+    "Deadline": "22-03-2026",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Al-khair University [ajk]",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Karachi Institute Of Economics & Technology",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 117600,
+    "Deadline": "06-01-2024",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Sir Syed University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 96000,
+    "Deadline": "19-07-2024",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Pimsat Institute Of Higher Education [lhr]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Preston University [pesh]",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-06-2016",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Bahria University, H-11 Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121550,
+    "Deadline": "24-07-2025",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Isra University [khi]",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "09-11-2018",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Preston University [lhr]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-06-2016",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics, Layyah Capmus",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2014",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Pimsat - Institute Of Higher Education",
+    "City": "Karachi",
+    "Degree": "BS(TECHNOLOGY)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-02-2016",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Army Public College Of Management & Sciences",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-08-2015",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Institute Of Advance Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "National Institute Of Information Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Sir Syed Institute Of Technology",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Biztek Institute Of Business & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2012",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Fast Institute Of Computer Science",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Usman Institute Of Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 215200,
+    "Deadline": "22-09-2021",
+    "Subject": "Telecommunication"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Lahore Campus",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "30-11--0001",
+    "Subject": "Telecommunication"
+  }
+]

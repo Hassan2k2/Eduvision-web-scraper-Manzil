@@ -1,0 +1,65 @@
+[
+  {
+    "Institute": "National University Of Science & Technology",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Metallurgy Materials"
+  },
+  {
+    "Institute": "Pakistan Institute Of Engineering & Applied Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112000,
+    "Deadline": "28-03-2025",
+    "Subject": "Metallurgy Materials"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "10-05-2025",
+    "Subject": "Metallurgy Materials"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Metallurgy Materials"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Metallurgy Materials"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 47540,
+    "Deadline": "25-09-2025",
+    "Subject": "Metallurgy Materials"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 43650,
+    "Deadline": "26-09-2024",
+    "Subject": "Metallurgy Materials"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "The University Of Buner",
+    "City": "Buner",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Electronics Communication"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 152000,
+    "Deadline": "19-09-2018",
+    "Subject": "Electronics Communication"
+  },
+  {
+    "Institute": "The University Of Lahore ( Islamabad Campus )",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 127200,
+    "Deadline": "23-03-2019",
+    "Subject": "Electronics Communication"
+  }
+]

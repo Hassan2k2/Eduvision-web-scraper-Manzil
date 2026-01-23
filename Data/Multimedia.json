@@ -1,0 +1,92 @@
+[
+  {
+    "Institute": "University Of Malakand",
+    "City": "Chakdara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-07-2025",
+    "Subject": "Multimedia"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 71690,
+    "Deadline": "13-09-2024",
+    "Subject": "Multimedia"
+  },
+  {
+    "Institute": "Uit University",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2024",
+    "Subject": "Multimedia"
+  },
+  {
+    "Institute": "National College Of Arts",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 127320,
+    "Deadline": "12-08-2025",
+    "Subject": "Multimedia"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "20-06-2025",
+    "Subject": "Multimedia"
+  },
+  {
+    "Institute": "Aror University Of Art, Architecture, Design And Heritage",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "14-01-2026",
+    "Subject": "Multimedia"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-05-2024",
+    "Subject": "Multimedia"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2025",
+    "Subject": "Multimedia"
+  },
+  {
+    "Institute": "Oriental College Of Arts",
+    "City": "Lahore",
+    "Degree": "BMM (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Multimedia"
+  },
+  {
+    "Institute": "Institute Of Textile  Multimedia & Fashion",
+    "City": "Islamabad",
+    "Degree": "BMM (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Multimedia"
+  }
+]

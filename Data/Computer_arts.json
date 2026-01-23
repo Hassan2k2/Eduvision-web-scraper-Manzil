@@ -1,0 +1,74 @@
+[
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "BCA",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Computer Arts"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 97000,
+    "Deadline": "30-07-2025",
+    "Subject": "Computer Arts"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BCA",
+    "Duration": "2 Years",
+    "Fee": 81400,
+    "Deadline": "15-07-2023",
+    "Subject": "Computer Arts"
+  },
+  {
+    "Institute": "Karachi Institute Of Economics & Technology",
+    "City": "Karachi",
+    "Degree": "BCA",
+    "Duration": "4 Years",
+    "Fee": 130200,
+    "Deadline": "06-01-2024",
+    "Subject": "Computer Arts"
+  },
+  {
+    "Institute": "University Of Rawalpindi",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 55000,
+    "Deadline": "14-09-2024",
+    "Subject": "Computer Arts"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BCA",
+    "Duration": "2 Years",
+    "Fee": 80000,
+    "Deadline": "18-10-2025",
+    "Subject": "Computer Arts"
+  },
+  {
+    "Institute": "Hamdard University - Islamabad Campus",
+    "City": "Islamabad",
+    "Degree": "BCA",
+    "Duration": "4 Years",
+    "Fee": 68000,
+    "Deadline": "15-07-2023",
+    "Subject": "Computer Arts"
+  },
+  {
+    "Institute": "Foundation University Islamabad (sub Campus)",
+    "City": "Rawalpindi",
+    "Degree": "BCA",
+    "Duration": "4 Years",
+    "Fee": 130000,
+    "Deadline": "08-01-2026",
+    "Subject": "Computer Arts"
+  }
+]

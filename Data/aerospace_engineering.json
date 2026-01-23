@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Institute Of Space Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 147659,
+    "Deadline": "31-07-2025",
+    "Subject": "Aerospace Engineering"
+  },
+  {
+    "Institute": "College Of Aeronautical Engineering",
+    "City": "Risalpur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Aerospace Engineering"
+  },
+  {
+    "Institute": "Aeroline Institute Of Aviation Studies",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-04-2018",
+    "Subject": "Aerospace Engineering"
+  }
+]

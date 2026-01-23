@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Telecom Networking"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 53358,
+    "Deadline": "26-01-2026",
+    "Subject": "Telecom Networking"
+  },
+  {
+    "Institute": "Lahore Garrison University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 174635,
+    "Deadline": "30-11--0001",
+    "Subject": "Telecom Networking"
+  },
+  {
+    "Institute": "Brains Institute",
+    "City": "Peshawar",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2022",
+    "Subject": "Telecom Networking"
+  }
+]

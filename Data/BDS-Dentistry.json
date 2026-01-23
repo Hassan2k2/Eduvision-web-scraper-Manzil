@@ -1,0 +1,614 @@
+[
+  {
+    "Institute": "Liaquat University Of Medical And Health Sciences",
+    "City": "Jamshoro",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 31900,
+    "Deadline": "17-05-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 175000,
+    "Deadline": "15-01-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Shaheed Mohtarma Benazir Bhutto Medical University",
+    "City": "Larkana",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 27000,
+    "Deadline": "18-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Nishtar Medical College / Nishter Hospital",
+    "City": "Multan",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 15650,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Peoples University Of Medical And Health Sciences For Women",
+    "City": "Nawab Shah",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 16000,
+    "Deadline": "15-01-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Bolan Medical College / Bolan Hospital",
+    "City": "Quetta",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 70000,
+    "Deadline": "31-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Isra University/hospital",
+    "City": "Hyderabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1250000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Bahria University Medical & Dental College",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1500000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Baqai Medical University",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 806000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1280000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1660000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "University College Of Medicine And Dentistry",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1640000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Ayub Medical College / Ayub Hospital",
+    "City": "Abbottabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 600000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Punjab Medical College / Allied Hospital",
+    "City": "Faisalabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 15650,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Federal Medical And Dental College",
+    "City": "Islamabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 24000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Dow Medical College (dmc Campus)",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "30-11--0001",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Dr Ishrat Ul Ebad Institute Of Oral Health Sciences (smc Campus)",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "15-01-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Karachi Medical & Dental College / Abbasi Shaheed Hospital",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "15-01-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "De'montmorency College Of Dentistry / Dental Hospital",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 15650,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Bacha Khan Medical College",
+    "City": "Mardan",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Bhitai Dental And Medical College",
+    "City": "Mir Pur Khas",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1000000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Khyber College Of Dentistry / Khyber Hospital",
+    "City": "Peshawar",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 110000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Army Medical College / Cmh",
+    "City": "Rawalpindi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 220000,
+    "Deadline": "28-07-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Abbottabad International Medical College",
+    "City": "Abbottabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1500000,
+    "Deadline": "08-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Frontier Medical College",
+    "City": "Abbottabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1400000,
+    "Deadline": "08-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Women Medical And Dental College",
+    "City": "Abbottabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1300000,
+    "Deadline": "08-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "University Medical & Dental College",
+    "City": "Faisalabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1700000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Hbs Medical And Dental College",
+    "City": "Islamabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1640000,
+    "Deadline": "10-02-2022",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Islamabad Medical & Dental College",
+    "City": "Islamabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1317000,
+    "Deadline": "21-02-2022",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Islamic International Dental College/hospital",
+    "City": "Islamabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1261000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Shifa College Of Medicine/hospital",
+    "City": "Islamabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1450000,
+    "Deadline": "01-09-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Altamash  Institute Of Dental Medicine",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1175000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Fatima Jinnah Dental College",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1150000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Jinnah Medical & Dental College",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1470000,
+    "Deadline": "12-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Liaquat College Of Medicine & Dentistry",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1300000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Mohammad Bin Qasim Medical And Dental College",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-11-2022",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Sir Syed College Of Medical Sciences For Girls",
+    "City": "Karachi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1320000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Akhtar Saeed Medical And Dental College",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1750000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Avicenna Medical College",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1300000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Azra Naheed Medical College",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1390000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Cmh Lahore Medical College",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1600000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Fmh College Of Medicine & Dentistry",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1520000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Lahore Medical & Dental College",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1750000,
+    "Deadline": "15-01-2026",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Rahbar Medical And Dental College",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1608000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Rashid Latif Medical College",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1500000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Shalamar Medical & Dental College",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1640000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Sharif Medical & Dental College",
+    "City": "Lahore",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1500000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Shahida Islam Medical College",
+    "City": "Lodhran",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1500000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Muhammad Medical College",
+    "City": "Mir Pur Khas",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1400000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Bakhtawar Amin Medical And Dental College",
+    "City": "Multan",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1875000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Cmh Multan Institute Of Medical Sciences",
+    "City": "Multan",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Multan Medical And Dental College",
+    "City": "Multan",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1717000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Peshawar Medical And Dental College",
+    "City": "Peshawar",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1500000,
+    "Deadline": "08-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Rehman Medical College",
+    "City": "Peshawar",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1300000,
+    "Deadline": "08-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Sardar Begum Dental College",
+    "City": "Peshawar",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1250000,
+    "Deadline": "08-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Quetta Institute Of Medical Sciences",
+    "City": "Quetta",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Watim Dental College",
+    "City": "Rawalpindi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1260000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Niazi Medical And Dental College",
+    "City": "Sargodha",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Amna Inayat Medical College",
+    "City": "Sheikhupura",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1427000,
+    "Deadline": "28-02-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Faryal Dental College",
+    "City": "Sheikhupura",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1400000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Islam Medical College",
+    "City": "Sialkot",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1217000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Kmu Institute Of Medical Sciences",
+    "City": "Kohat",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 110000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "School Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Nishtar Institute Of Dentistry",
+    "City": "Multan",
+    "Degree": "MBBS",
+    "Duration": "4 Years",
+    "Fee": 15650,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Hitech Institute Of Medical Sciences",
+    "City": "Taxila",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1340000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Rawal Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1200000,
+    "Deadline": "12-11-2022",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Margalla Institute Of Health Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1300000,
+    "Deadline": "21-11-2025",
+    "Subject": "Dentistry"
+  },
+  {
+    "Institute": "Foundation University Madical College",
+    "City": "Islamabad",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 1300000,
+    "Deadline": "10-12-2025",
+    "Subject": "Dentistry"
+  }
+]

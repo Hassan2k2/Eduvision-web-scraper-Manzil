@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "National Textile University",
+    "City": "Faisalabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "31-07-2023",
+    "Subject": "Polymer"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Polymer"
+  },
+  {
+    "Institute": "National Textile University Faisalabad, Sub Campus",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 87600,
+    "Deadline": "15-09-2023",
+    "Subject": "Polymer"
+  },
+  {
+    "Institute": "Plastic Technology Center",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2015",
+    "Subject": "Polymer"
+  }
+]

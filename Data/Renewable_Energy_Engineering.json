@@ -1,0 +1,56 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 53415,
+    "Deadline": "30-06-2025",
+    "Subject": "Renewable Energy Engineering"
+  },
+  {
+    "Institute": "Mir Chakar Khan Rind University Of Technology",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Renewable Energy Engineering"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Renewable Energy Engineering"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 60500,
+    "Deadline": "05-09-2025",
+    "Subject": "Renewable Energy Engineering"
+  },
+  {
+    "Institute": "Khushal Khan Khattak University",
+    "City": "Karak",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 34000,
+    "Deadline": "19-01-2026",
+    "Subject": "Renewable Energy Engineering"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 36000,
+    "Deadline": "11-08-2025",
+    "Subject": "Renewable Energy Engineering"
+  }
+]

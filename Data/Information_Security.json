@@ -1,0 +1,92 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Information Security"
+  },
+  {
+    "Institute": "Dawood University Of Engineering And Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "15-07-2025",
+    "Subject": "Information Security"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 140000,
+    "Deadline": "08-08-2025",
+    "Subject": "Information Security"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Peshawar",
+    "City": "Peshawar",
+    "Degree": "B.TECH",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2025",
+    "Subject": "Information Security"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41500,
+    "Deadline": "05-12-2025",
+    "Subject": "Information Security"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Ahmadpur East Campus",
+    "City": "Ahmadpur East",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2024",
+    "Subject": "Information Security"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur[sub Campus]",
+    "City": "Bahawal Nagar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Information Security"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Liaqatpur Campus",
+    "City": "Liaqatpur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Information Security"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2025",
+    "Subject": "Information Security"
+  },
+  {
+    "Institute": "College Of Electrical And Mechenical Engineering",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Information Security"
+  }
+]

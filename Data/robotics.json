@@ -1,0 +1,47 @@
+[
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Robotics"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2024",
+    "Subject": "Robotics"
+  },
+  {
+    "Institute": "Hitec University",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 162000,
+    "Deadline": "30-08-2025",
+    "Subject": "Robotics"
+  },
+  {
+    "Institute": "The University Of Lahore, Sub Campus",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-02-2025",
+    "Subject": "Robotics"
+  },
+  {
+    "Institute": "Pak- Austria Fachhuochschule, Institute Of Applied Sciences And Technology",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2025",
+    "Subject": "Robotics"
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "B.DES",
+    "Duration": "4 Years",
+    "Fee": 46565,
+    "Deadline": "30-06-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Mir Chakar Khan Rind University Of Technology",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 36700,
+    "Deadline": "24-06-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BFA",
+    "Duration": "4 Years",
+    "Fee": 36700,
+    "Deadline": "24-06-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "BFA",
+    "Duration": "4 Years",
+    "Fee": 48000,
+    "Deadline": "24-09-2023",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 56790,
+    "Deadline": "25-09-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "University Of Education",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15374,
+    "Deadline": "02-09-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BFA",
+    "Duration": "4 Years",
+    "Fee": 41940,
+    "Deadline": "25-09-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27150,
+    "Deadline": "18-08-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "The Women University",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 34750,
+    "Deadline": "07-01-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Baba Guru Nanak University",
+    "City": "Nankana Sahib",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 31250,
+    "Deadline": "19-09-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "B.DES",
+    "Duration": "4 Years",
+    "Fee": 36000,
+    "Deadline": "15-12-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121000,
+    "Deadline": "01-11-2024",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 121000,
+    "Deadline": "01-11-2024",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "07-10-2023",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 350000,
+    "Deadline": "07-10-2023",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Gift University",
+    "City": "Gujranwala",
+    "Degree": "B.DES",
+    "Duration": "4 Years",
+    "Fee": 148720,
+    "Deadline": "01-02-2026",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Jinnah University For Women",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 65000,
+    "Deadline": "15-10-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics, Lahore",
+    "City": "Lahore",
+    "Degree": "B.DES",
+    "Duration": "4 Years",
+    "Fee": 144000,
+    "Deadline": "26-02-2023",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 224750,
+    "Deadline": "31-07-2024",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Institute Of Southern Punjab",
+    "City": "Multan",
+    "Degree": "BFA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Comsats Institute Of Information Technology (virtual Campus)",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-09-2014",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Government College University Lahore, Kala Shah Kaku Campus",
+    "City": "Kala Shah Kaku",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics ( Bahwal Pur Campus )",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics ( Multan Campus )",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "University Of Management And Technology, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Federal Government College Of Home Economics And Management Sciences,f-7/2",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "07-09-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Government Queen Marry College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-07-2024",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "University Of Home Economics",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Hunerkada",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-10-2015",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Hunerkada College Of Visual & Performing Arts",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Lahore School Of Fashion Design",
+    "City": "Lahore",
+    "Degree": "B.DES",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-05-2018",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics (front Lane Campus)",
+    "City": "Lahore",
+    "Degree": "B.DES",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2018",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "International Institute Of Science, Arts And Technology",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Islamabad Institute Of Arts And Applied Sciences",
+    "City": "Islamabad",
+    "Degree": "BFA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-09-2016",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Aawaz Institute Of Media And Management Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2022",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Institute For Art And Culture",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-09-2025",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Institute Of Art, Design & Management",
+    "City": "Lahore",
+    "Degree": "BA [PASS]",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2017",
+    "Subject": "Graphic Designing"
+  },
+  {
+    "Institute": "Ata Institute Of Engineering & Technology",
+    "City": "Wazirabad",
+    "Degree": "BFAD",
+    "Duration": "4 Hours",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Graphic Designing"
+  }
+]

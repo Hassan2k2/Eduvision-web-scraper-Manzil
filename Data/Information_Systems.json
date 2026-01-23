@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Information Systems"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "20-06-2025",
+    "Subject": "Information Systems"
+  },
+  {
+    "Institute": "Al-khair University",
+    "City": "Bhimber",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-01-2013",
+    "Subject": "Information Systems"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2025",
+    "Subject": "Information Systems"
+  }
+]

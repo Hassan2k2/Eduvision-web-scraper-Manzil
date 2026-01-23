@@ -1,0 +1,74 @@
+[
+  {
+    "Institute": "National Skills University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40600,
+    "Deadline": "13-09-2025",
+    "Subject": "Financial Technology"
+  },
+  {
+    "Institute": "Information Technology University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 206000,
+    "Deadline": "18-06-2025",
+    "Subject": "Financial Technology"
+  },
+  {
+    "Institute": "Baba Guru Nanak University",
+    "City": "Nankana Sahib",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29000,
+    "Deadline": "19-09-2025",
+    "Subject": "Financial Technology"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2025",
+    "Subject": "Financial Technology"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Financial Technology"
+  },
+  {
+    "Institute": "Northern University",
+    "City": "Nowshera",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30250,
+    "Deadline": "16-02-2026",
+    "Subject": "Financial Technology"
+  },
+  {
+    "Institute": "Air University, Multan Campus",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 108460,
+    "Deadline": "18-08-2025",
+    "Subject": "Financial Technology"
+  },
+  {
+    "Institute": "Foundation University Islamabad (sub Campus)",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 110000,
+    "Deadline": "08-01-2026",
+    "Subject": "Financial Technology"
+  }
+]

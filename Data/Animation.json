@@ -1,0 +1,74 @@
+[
+  {
+    "Institute": "National Textile University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 86000,
+    "Deadline": "31-07-2023",
+    "Subject": "Animation"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Animation"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-03-2026",
+    "Subject": "Animation"
+  },
+  {
+    "Institute": "Baba Guru Nanak University",
+    "City": "Nankana Sahib",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30150,
+    "Deadline": "19-09-2025",
+    "Subject": "Animation"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-09-2024",
+    "Subject": "Animation"
+  },
+  {
+    "Institute": "Iqra University, H-9 Campus",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "10-09-2025",
+    "Subject": "Animation"
+  },
+  {
+    "Institute": "Pak- Austria Fachhuochschule, Institute Of Applied Sciences And Technology",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Animation"
+  },
+  {
+    "Institute": "Institute For Art And Culture",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-09-2025",
+    "Subject": "Animation"
+  }
+]

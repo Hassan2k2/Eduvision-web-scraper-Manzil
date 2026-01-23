@@ -1,0 +1,65 @@
+[
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "10-05-2025",
+    "Subject": "Industrial Engineering"
+  },
+  {
+    "Institute": "Dawood University Of Engineering And Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "15-07-2025",
+    "Subject": "Industrial Engineering"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Peshawar",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "19-08-2025",
+    "Subject": "Industrial Engineering"
+  },
+  {
+    "Institute": "University Of Engineering &  Technology, Taxila",
+    "City": "Taxila",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 102400,
+    "Deadline": "22-03-2026",
+    "Subject": "Industrial Engineering"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 299750,
+    "Deadline": "08-04-2023",
+    "Subject": "Industrial Engineering"
+  },
+  {
+    "Institute": "University Of Engineering & Technology Peshawar ( Jalozai Campus )",
+    "City": "Pabbi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "19-08-2025",
+    "Subject": "Industrial Engineering"
+  },
+  {
+    "Institute": "Infinity Institute Of Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-07-2023",
+    "Subject": "Industrial Engineering"
+  }
+]

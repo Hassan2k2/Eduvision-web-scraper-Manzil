@@ -1,0 +1,47 @@
+[
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 222750,
+    "Deadline": "30-09-2022",
+    "Subject": "Internet Of Things"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Internet Of Things"
+  },
+  {
+    "Institute": "Hitec University",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 162000,
+    "Deadline": "30-08-2025",
+    "Subject": "Internet Of Things"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur[sub Campus]",
+    "City": "Bahawal Nagar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "10-02-2022",
+    "Subject": "Internet Of Things"
+  },
+  {
+    "Institute": "The Islamic University Of Bahawalpur[rahimyar Khan Campus]",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "28-07-2023",
+    "Subject": "Internet Of Things"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS(TECHNOLOGY)",
+    "Duration": "4 Years",
+    "Fee": 34000,
+    "Deadline": "16-05-2023",
+    "Subject": "Electronics Telecom"
+  },
+  {
+    "Institute": "Comwave Institute Of Information Technology [abt]",
+    "City": "Abbottabad",
+    "Degree": "B.TECH",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-09-2018",
+    "Subject": "Electronics Telecom"
+  },
+  {
+    "Institute": "Comwave Institute Of Information Technology [haripur]",
+    "City": "Haripur",
+    "Degree": "B.TECH",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-09-2018",
+    "Subject": "Electronics Telecom"
+  }
+]

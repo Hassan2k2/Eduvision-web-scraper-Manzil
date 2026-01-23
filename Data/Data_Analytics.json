@@ -1,0 +1,92 @@
+[
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-07-2025",
+    "Subject": "Data Analytics"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47400,
+    "Deadline": "24-06-2025",
+    "Subject": "Data Analytics"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Data Analytics"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41559,
+    "Deadline": "26-01-2026",
+    "Subject": "Data Analytics"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-02-2026",
+    "Subject": "Data Analytics"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54650,
+    "Deadline": "25-09-2025",
+    "Subject": "Data Analytics"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Data Analytics"
+  },
+  {
+    "Institute": "University Of Mianwali",
+    "City": "Mianwali",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2026",
+    "Subject": "Data Analytics"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Data Analytics"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Data Analytics"
+  }
+]

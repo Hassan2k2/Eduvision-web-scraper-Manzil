@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Virtual University Of Pakistan",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 21800,
+    "Deadline": "30-09-2025",
+    "Subject": "Web Designing Development"
+  },
+  {
+    "Institute": "Informatics Group Of Colleges",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 36000,
+    "Deadline": "07-01-2023",
+    "Subject": "Web Designing Development"
+  },
+  {
+    "Institute": "Emaan Institute Of Management & Sciences",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 96000,
+    "Deadline": "20-07-2024",
+    "Subject": "Web Designing Development"
+  }
+]

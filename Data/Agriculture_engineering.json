@@ -1,0 +1,74 @@
+[
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 60500,
+    "Deadline": "28-07-2025",
+    "Subject": "Agriculture Engineering"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 25150,
+    "Deadline": "18-08-2025",
+    "Subject": "Agriculture Engineering"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Agriculture",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25200,
+    "Deadline": "29-09-2025",
+    "Subject": "Agriculture Engineering"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Peshawar",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "19-08-2025",
+    "Subject": "Agriculture Engineering"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "05-01-2026",
+    "Subject": "Agriculture Engineering"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "08-08-2025",
+    "Subject": "Agriculture Engineering"
+  },
+  {
+    "Institute": "Sindh Agriculture University",
+    "City": "Tando Jam",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "30-09-2025",
+    "Subject": "Agriculture Engineering"
+  },
+  {
+    "Institute": "Khairpur College Of Agricultural Engineering And Technology",
+    "City": "Khair Pur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2025",
+    "Subject": "Agriculture Engineering"
+  }
+]

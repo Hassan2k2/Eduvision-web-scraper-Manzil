@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-03-2025",
+    "Subject": "Cloud Computing"
+  },
+  {
+    "Institute": "Sir Syed University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 172800,
+    "Deadline": "19-07-2024",
+    "Subject": "Cloud Computing"
+  }
+]

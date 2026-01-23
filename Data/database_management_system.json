@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Virtual University Of Pakistan",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 21800,
+    "Deadline": "30-09-2025",
+    "Subject": "Database Management Systems"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Database Management Systems"
+  }
+]

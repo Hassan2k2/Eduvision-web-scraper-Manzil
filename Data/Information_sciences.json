@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "Preston University [fdb]",
+    "City": "Faisalabad",
+    "Degree": "BIS",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Information Sciences"
+  },
+  {
+    "Institute": "Preston University [guj]",
+    "City": "Gujranwala",
+    "Degree": "BIS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Information Sciences"
+  },
+  {
+    "Institute": "Preston University [mut]",
+    "City": "Multan",
+    "Degree": "BIS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Information Sciences"
+  },
+  {
+    "Institute": "Preston University [qut]",
+    "City": "Quetta",
+    "Degree": "BIS",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Information Sciences"
+  }
+]

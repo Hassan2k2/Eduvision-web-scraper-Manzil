@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "18-05-2024",
+    "Subject": "Web Designing"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics, Lahore",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "26-02-2023",
+    "Subject": "Web Designing"
+  }
+]

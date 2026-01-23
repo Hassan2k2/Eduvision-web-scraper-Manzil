@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32940,
+    "Deadline": "25-09-2025",
+    "Subject": "Water Resource Management"
+  },
+  {
+    "Institute": "Lasbela University Of Agriculture, Water And Marine Sciences, Uthal",
+    "City": "Lasbela",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21500,
+    "Deadline": "20-10-2025",
+    "Subject": "Water Resource Management"
+  }
+]

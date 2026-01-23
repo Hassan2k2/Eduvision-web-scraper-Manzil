@@ -1,0 +1,83 @@
+[
+  {
+    "Institute": "National Textile University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "31-07-2023",
+    "Subject": "Textile Engineering"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "18-08-2025",
+    "Subject": "Textile Engineering"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Textile Engineering"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 43650,
+    "Deadline": "18-08-2025",
+    "Subject": "Textile Engineering"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48415,
+    "Deadline": "26-01-2026",
+    "Subject": "Textile Engineering"
+  },
+  {
+    "Institute": "Hamdard University-faisalabad",
+    "City": "Faisalabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Textile Engineering"
+  },
+  {
+    "Institute": "University Of Engineering And Technology[fiasalabad Campus]",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Textile Engineering"
+  },
+  {
+    "Institute": "National Textile University Faisalabad, Sub Campus",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 66000,
+    "Deadline": "15-09-2023",
+    "Subject": "Textile Engineering"
+  },
+  {
+    "Institute": "Synthetic Fibre Development & Application Centre",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-11-2013",
+    "Subject": "Textile Engineering"
+  }
+]

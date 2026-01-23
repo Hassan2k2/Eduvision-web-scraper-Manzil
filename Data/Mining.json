@@ -1,0 +1,47 @@
+[
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 55100,
+    "Deadline": "10-08-2025",
+    "Subject": "Mining"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "10-05-2025",
+    "Subject": "Mining"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Mining"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Peshawar",
+    "City": "Peshawar",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "19-08-2025",
+    "Subject": "Mining"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48415,
+    "Deadline": "26-01-2026",
+    "Subject": "Mining"
+  }
+]

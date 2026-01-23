@@ -1,0 +1,1235 @@
+[
+  {
+    "Institute": "Liaquat University Of Medical And Health Sciences",
+    "City": "Jamshoro",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 31900,
+    "Deadline": "17-05-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 31900,
+    "Deadline": "15-01-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Fatima Jinnah Medical University",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "King Edward Medical University / Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Shaheed Mohtarma Benazir Bhutto Medical University",
+    "City": "Larkana",
+    "Degree": "BDS",
+    "Duration": "4 Years",
+    "Fee": 27000,
+    "Deadline": "18-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Nishtar Medical College / Nishter Hospital",
+    "City": "Multan",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Peoples University Of Medical And Health Sciences For Women",
+    "City": "Nawab Shah",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 16000,
+    "Deadline": "15-01-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Bolan Medical College / Bolan Hospital",
+    "City": "Quetta",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 70000,
+    "Deadline": "31-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Rawalpindi Medical University",
+    "City": "Rawalpindi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 23000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "The University Of Modern Sciences",
+    "City": "Tando Muhammad Khan",
+    "Degree": "MBBS",
+    "Duration": "5 Hours",
+    "Fee": 0,
+    "Deadline": "30-11-2022",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Isra University/hospital",
+    "City": "Hyderabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1300000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Bahria University Medical & Dental College",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1600000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Baqai Medical University",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 914000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1375000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1660000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "University College Of Medicine And Dentistry",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1640000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Ayub Medical College / Ayub Hospital",
+    "City": "Abbottabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 200000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Quaid-e-azam Medical College / Victoria Hospital",
+    "City": "Bahawal Pur",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Bannu Medical College",
+    "City": "Bannu",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "D. G. Khan Medical College",
+    "City": "D.g.khan",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Gomal Medical College",
+    "City": "D.i. Khan",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 28655,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Abwa Medical College",
+    "City": "Faisalabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1600000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Punjab Medical College / Allied Hospital",
+    "City": "Faisalabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Gujranwala Medical College",
+    "City": "Gujranwala",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Nawaz Sharif Medical College [gujrat]",
+    "City": "Gujrat",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 63696,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Fazaia Medical College",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1700000,
+    "Deadline": "08-11-2024",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Federal Medical And Dental College",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 24000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Foundation University Medical College",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 630000,
+    "Deadline": "30-11--0001",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Bilawal Medical College",
+    "City": "Jamshoro",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Dow International Medical College (ojha Campus)",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 31900,
+    "Deadline": "29-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Dow Medical College (dmc Campus)",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 31900,
+    "Deadline": "15-01-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Karachi Medical & Dental College / Abbasi Shaheed Hospital",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 32000,
+    "Deadline": "15-01-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Shaheed Muhtrama Benazir Bhutto Medical College, Lyari",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 31900,
+    "Deadline": "15-01-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Sindh Medical College / Jinnah Hospital",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 29000,
+    "Deadline": "15-01-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Khairpur Medical College",
+    "City": "Khair Pur",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 38900,
+    "Deadline": "15-01-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Jhalawan Medical College",
+    "City": "Khuzdar",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Allama Iqbal Medical College / Jinnah Hospital",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Ameer Ud Din Medical College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Services Institute Of Medical Sciences",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Shaikh Khalifa Bin Zayed Al-nahayan Medical & Dental College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 35780,
+    "Deadline": "20-01-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Chandka Medical College / Dhq Hospital",
+    "City": "Larkana",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 31900,
+    "Deadline": "15-01-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Loralai Medical College",
+    "City": "Loralai",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Bacha Khan Medical College",
+    "City": "Mardan",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 38950,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Mohtarma Benazir Bhutto Shaheed Medical College",
+    "City": "Mir Pur (ajk)",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "05-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Azad Jammu And Kashmir Medical College",
+    "City": "Muzaffarabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 37000,
+    "Deadline": "05-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Nawab Shah  Medical College For Women",
+    "City": "Nawab Shah",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Nowshera Medical College",
+    "City": "Nowshera",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Khyber Girls Medical College",
+    "City": "Peshawar",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 110000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Khyber Medical College / Khyber Teaching Hospital",
+    "City": "Peshawar",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 110000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Sheikh Zayed Medical College/hospital",
+    "City": "Rahim Yar Khan",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "31-01-2026",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Poonch Medical College",
+    "City": "Rawala Kot",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "05-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Army Medical College / Cmh",
+    "City": "Rawalpindi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 220000,
+    "Deadline": "28-07-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Sahiwal Medical College",
+    "City": "Sahiwal",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Saidu Medical College",
+    "City": "Saidu Sharif",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Sargodha Medical College",
+    "City": "Sargodha",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 73720,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Khawaja Muhammad Safdar Medical College",
+    "City": "Sialkot",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 15630,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Gajju Khan Medical College",
+    "City": "Swabi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Makran Medical College",
+    "City": "Turbat",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Abbottabad International Medical College",
+    "City": "Abbottabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1500000,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Frontier Medical College",
+    "City": "Abbottabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1400000,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Women Medical And Dental College",
+    "City": "Abbottabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1250000,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Bahawal Pur Medical & Dental College",
+    "City": "Bahawal Pur",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "23-01-2023",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Aziz Fatimah Medical And Dental College",
+    "City": "Faisalabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1428000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Independent Medical College",
+    "City": "Faisalabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1500000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "University Medical & Dental College",
+    "City": "Faisalabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1700000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "M. Islam Medical & Dental College",
+    "City": "Gujranwala",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1225000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Al-nafees Medical College & Hospital",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1310000,
+    "Deadline": "12-11-2022",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Bahria University Medical College, Islamabad",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Hbs Medical And Dental College",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1640000,
+    "Deadline": "15-12-2021",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Islamabad Medical & Dental College",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1317000,
+    "Deadline": "21-02-2022",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Nust School Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Shifa College Of Medicine/hospital",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1450000,
+    "Deadline": "01-09-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Yusra Medical & Dental College",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 723000,
+    "Deadline": "30-11--0001",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Hashmat Medical College",
+    "City": "Jalal Pur Jattan",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "06-11-2020",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Aga Khan University",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1507000,
+    "Deadline": "08-05-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Fazaia Ruth Pfau Medical College",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1700000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Jinnah Medical & Dental College",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1470000,
+    "Deadline": "12-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Liaquat College Of Medicine & Dentistry",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1300000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Liaquat National Medical College",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1300000,
+    "Deadline": "25-01-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Sir Syed College Of Medical Sciences For Girls",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1320000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "United Medical And Dental College",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1750000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Pak Red Crescent Medical And Dental College",
+    "City": "Kasur",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1500000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Abu Umara Medical And Dental College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Akhtar Saeed Medical And Dental College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1750000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Al- Aleem Medical College, Gulab Devi Educational Complex",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1500000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Avicenna Medical College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1300000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Azra Naheed Medical College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1390000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Central Park Medical College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1300000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Cmh Lahore Medical College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1600000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Continental Medical College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1425000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Fmh College Of Medicine & Dentistry",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1590000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Lahore Medical & Dental College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1750000,
+    "Deadline": "15-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Rahbar Medical And Dental College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1608000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Rashid Latif Medical College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1500000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Shalamar Medical & Dental College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1640000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Sharif Medical & Dental College",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1500000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Shahida Islam Medical College",
+    "City": "Lodhran",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1500000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Muhammad Medical College",
+    "City": "Mir Pur Khas",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1400000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Bakhtawar Amin Medical And Dental College",
+    "City": "Multan",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1800000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Cmh Multan Institute Of Medical Sciences",
+    "City": "Multan",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1175000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Multan Medical And Dental College",
+    "City": "Multan",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1717000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Sahara Medical College",
+    "City": "Narowal",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1525000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Jinnah Medical College",
+    "City": "Peshawar",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 850000,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Kabir Medical College",
+    "City": "Peshawar",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1220000,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Muhammad College Of Medicine ( Former Al-razi Medical College)",
+    "City": "Peshawar",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1214000,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "North West School Of Medicine",
+    "City": "Peshawar",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1414000,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Pak International Medical College",
+    "City": "Peshawar",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1220000,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Peshawar Medical And Dental College",
+    "City": "Peshawar",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1500000,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Rehman Medical College",
+    "City": "Peshawar",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1300000,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Quetta Institute Of Medical Sciences",
+    "City": "Quetta",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 883810,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Akhtar Saeed Medical College, Rawalpindi Campus",
+    "City": "Rawalpindi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Watim Dental College",
+    "City": "Rawalpindi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1260000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Niazi Medical And Dental College",
+    "City": "Sargodha",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1500000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Rai Medical College",
+    "City": "Sargodha",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1400000,
+    "Deadline": "31-01-2026",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Amna Inayat Medical College",
+    "City": "Sheikhupura",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1427000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Islam Medical College",
+    "City": "Sialkot",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1217000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Sialkot Medical College",
+    "City": "Sialkot",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1350000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Saidu Medical College Swat",
+    "City": "Swat",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 400000,
+    "Deadline": "12-12-2023",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Swat Medical College",
+    "City": "Swat",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Suleman Roshan Medical College",
+    "City": "Tando Adam",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1240000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Indus Medical College",
+    "City": "Tando Muhammad Khan",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1350000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Wah Medical College",
+    "City": "Wah",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1400000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Pir Abdul Qadir Shah Jeelani Institute Of Medical Sciences",
+    "City": "Gambat",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 31900,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Cmh Kharian Medical College",
+    "City": "Kharian",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1103500,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Kmu Institute Of Medical Sciences",
+    "City": "Kohat",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 110000,
+    "Deadline": "21-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Sheikh Zayed Federal Postgraduate Medical Institute / Hospital",
+    "City": "Lahore",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 450000,
+    "Deadline": "17-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Hitech Institute Of Medical Sciences",
+    "City": "Taxila",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1340000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Liaquat Institute Of Medical & Health Sciences",
+    "City": "Thatta",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "08-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Cmh Institute Of Medical Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 950000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Rawal Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1200000,
+    "Deadline": "12-11-2022",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Karachi Institute Of Medical Sciences",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 950000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Foundation University Madical College",
+    "City": "Islamabad",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1350000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Al-tibri Medical College",
+    "City": "Karachi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1300000,
+    "Deadline": "10-12-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Mohi-ud-din Islamic Medical College",
+    "City": "Mir Pur (ajk)",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1300000,
+    "Deadline": "30-11--0001",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Islamic International Medical College",
+    "City": "Rawalpindi",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 1500000,
+    "Deadline": "30-11-2025",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Amina Inayat Medical College",
+    "City": "Sheikhupura",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 760000,
+    "Deadline": "07-10-2019",
+    "Subject": "Medicine Mbbs"
+  },
+  {
+    "Institute": "Ghulam Muhammad Mahar Medical College",
+    "City": "Sukkur",
+    "Degree": "MBBS",
+    "Duration": "5 Years",
+    "Fee": 31900,
+    "Deadline": "15-01-2025",
+    "Subject": "Medicine Mbbs"
+  }
+]

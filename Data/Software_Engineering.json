@@ -1,0 +1,2360 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47800,
+    "Deadline": "26-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 44300,
+    "Deadline": "20-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Thal University",
+    "City": "Bhakkar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "10-01-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Malakand",
+    "City": "Chakdara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21300,
+    "Deadline": "04-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Mir Chakar Khan Rind University Of Technology",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46600,
+    "Deadline": "31-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47400,
+    "Deadline": "12-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National Textile University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "31-07-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 83600,
+    "Deadline": "28-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 44400,
+    "Deadline": "10-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 68010,
+    "Deadline": "15-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The University Of Sufism  And Modern Sciences",
+    "City": "Hala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 23000,
+    "Deadline": "10-07-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 53358,
+    "Deadline": "26-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Hazara University [havellian Campus]",
+    "City": "Havelian",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2015",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Air University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 93375,
+    "Deadline": "15-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "2 Years",
+    "Fee": 16060,
+    "Deadline": "10-02-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "17-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts Science & Technology Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 75000,
+    "Deadline": "30-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 85500,
+    "Deadline": "15-07-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 104000,
+    "Deadline": "09-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Science & Technology",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 115000,
+    "Deadline": "12-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "10-05-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15950,
+    "Deadline": "14-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sindh Madressatul Islam University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47050,
+    "Deadline": "01-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Uit University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 42500,
+    "Deadline": "28-11-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Shah Abdul Latif University",
+    "City": "Khair Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 14000,
+    "Deadline": "22-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Balochistan University Of Engineering & Technology",
+    "City": "Khuzdar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 16000,
+    "Deadline": "17-10-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35500,
+    "Deadline": "15-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Information Technology University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 206000,
+    "Deadline": "18-06-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46790,
+    "Deadline": "25-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Punjab Tianjin University Of Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25500,
+    "Deadline": "31-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-03-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48650,
+    "Deadline": "25-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Virtual University Of Pakistan",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21800,
+    "Deadline": "30-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The University Of Larkano",
+    "City": "Larkana",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Loralai",
+    "City": "Loralai",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 11300,
+    "Deadline": "12-08-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Punjab University Of Technology  [ Rasul]",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Engineering And Technology (rasul)",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41300,
+    "Deadline": "01-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "BCS (H)",
+    "Duration": "4 Years",
+    "Fee": 65000,
+    "Deadline": "18-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Engineering & Technology ,mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51013,
+    "Deadline": "15-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Mianwali",
+    "City": "Mianwali",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 74300,
+    "Deadline": "15-08-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 79300,
+    "Deadline": "01-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Kohsar University",
+    "City": "Murree",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-02-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Sciences & Technology",
+    "City": "Nawab Shah",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-05-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48000,
+    "Deadline": "18-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Institute Of Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155700,
+    "Deadline": "03-08-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Islamia College University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62000,
+    "Deadline": "16-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29513,
+    "Deadline": "28-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The University Of Agriculture",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 48415,
+    "Deadline": "20-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "20-06-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 52000,
+    "Deadline": "20-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 76000,
+    "Deadline": "18-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 57750,
+    "Deadline": "08-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Sahiwal",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 50220,
+    "Deadline": "31-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43000,
+    "Deadline": "15-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-11-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 129000,
+    "Deadline": "01-11-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Mir Chakar Khan Rind University",
+    "City": "Sibi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sukkur Iba University",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "07-02-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Women University Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 42460,
+    "Deadline": "12-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Engineering And Applied Sciences",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Swat",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24880,
+    "Deadline": "12-10-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sindh Agriculture University",
+    "City": "Tando Jam",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "30-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Engineering &  Technology, Taxila",
+    "City": "Taxila",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 102400,
+    "Deadline": "22-03-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Al-khair University",
+    "City": "Bhimber",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-01-2013",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 222750,
+    "Deadline": "07-10-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Gift University",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 232300,
+    "Deadline": "01-02-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The University Of Chenab",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Isra University/hospital",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "13-07-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Al-khair University [ajk]",
+    "City": "Islamabad",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Capital University Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 292500,
+    "Deadline": "02-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Ibadat International University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 102000,
+    "Deadline": "10-09-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160500,
+    "Deadline": "30-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sir Syed Case Institute Of Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 168000,
+    "Deadline": "10-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Baqai Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 66950,
+    "Deadline": "25-11-2022",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Dha Suffa University(main Campus)",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-06-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Greenwich University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-07-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-07-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Ilma University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 131350,
+    "Deadline": "10-09-2022",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Institute Of Business Management",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155800,
+    "Deadline": "28-07-2022",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Jinnah University For Women",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Karachi Institute Of Economics & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 117600,
+    "Deadline": "06-01-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Kasb [ Khadim Ali Shah Bukhari ]  Institute Of Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2022",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Muhammad Ali Jinnah University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 180500,
+    "Deadline": "22-07-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Nazeer Hussain University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 102500,
+    "Deadline": "17-12-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Newports Institute Of Communications And Economics",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-09-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto City University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 315000,
+    "Deadline": "30-11--0001",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Dewan University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-02-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 156000,
+    "Deadline": "12-02-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sir Syed University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 172800,
+    "Deadline": "19-07-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 142000,
+    "Deadline": "26-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Beaconhouse National University",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 169050,
+    "Deadline": "22-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Hajvery University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 175000,
+    "Deadline": "26-10-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Imperial College Of Business Studies",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 218750,
+    "Deadline": "21-08-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Lahore Garrison University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 154135,
+    "Deadline": "30-11--0001",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 196000,
+    "Deadline": "04-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "18-05-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics, Lahore",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "26-02-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics, Lahore",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 144000,
+    "Deadline": "26-02-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Qarshi University (lhr)",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 149000,
+    "Deadline": "20-08-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 207000,
+    "Deadline": "31-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 268000,
+    "Deadline": "03-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 268750,
+    "Deadline": "10-10-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 362250,
+    "Deadline": "01-10-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of South Asia",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 198000,
+    "Deadline": "05-11-2022",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Institute Of Southern Punjab",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 118800,
+    "Deadline": "01-02-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Cecos University Of Information Tech. & Emerging Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "28-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "City University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "10-11-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Iqra National University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 86785,
+    "Deadline": "30-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41500,
+    "Deadline": "05-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Al- Hamd Islamic University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Rawalpindi",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 100000,
+    "Deadline": "14-09-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Ghulam Ishaq Khan  Institute Of Engineering Sciences & Technology",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 695000,
+    "Deadline": "30-05-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Hitec University",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 162000,
+    "Deadline": "30-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Wah",
+    "City": "Wah Cantt",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Abbotabad Campus )",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "29-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Engineering & Technology ( Abbotabad Campus )",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "19-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Ahmadpur East Campus",
+    "City": "Ahmadpur East",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Attock Campus )",
+    "City": "Attock",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "16-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur[sub Campus]",
+    "City": "Bahawal Nagar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Agriculture Faisalabad, Sub Campu",
+    "City": "Burewala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comsats Institute Of Information Technology (virtual Campus)",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-09-2014",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Faisalabad Campus )",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 97160,
+    "Deadline": "09-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Sargodha ( Women Campus Faisalabad )",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-10-2017",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Universtiy Of Engineering And Technology (sub Campus)",
+    "City": "Kala Shah Kaku",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sukkur Iba University, Kandhkot Campus",
+    "City": "Kandh Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Bahria University ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 115008,
+    "Deadline": "22-05-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Mehran University Of Engineering And Technology ( Szab Campus, Khair Pur )",
+    "City": "Khair Pur",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "10-05-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Arid Institute Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2021",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "29-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Lahore  Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 104000,
+    "Deadline": "09-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Gujrat (lahore Campus)",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Government College University Faisalabad (layyah Campus)",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Liaqatpur Campus",
+    "City": "Liaqatpur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Azad Jammu And Kashmir Campus",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sukkur Iba University ( Mirpur Khas Campus)",
+    "City": "Mir Pur Khas",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Air University, Multan Campus",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 93375,
+    "Deadline": "18-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Computer & Emerging Sciences ( Multan Campus )",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Modern Language ( Multan Campus )",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Peshawar Campus )",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The Islamic University Of Bahawalpur[rahimyar Khan Campus]",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Rawalpindi Campus",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 104000,
+    "Deadline": "09-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Sahiwal Campus )",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "16-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Government College University Faisalabad, Sahiwal Campus",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Gomal University, Tank Campus",
+    "City": "Tank",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Agriculture Faisal Abad[toba Tek Singh Campus]",
+    "City": "Toba Tek Singh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sindh Agriculture University, Umerkot Campus",
+    "City": "Umerkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Vehari Campus )",
+    "City": "Vehari",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "16-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Wah Campus )",
+    "City": "Wah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "12-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics ( Bahwal Pur Campus )",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Riphah International University, Chakdara Campus",
+    "City": "Chakdara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Faisalabad Campus )",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 123000,
+    "Deadline": "18-10-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The University Of Lahore ( Chanab Campus)",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2019",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Shaheed Zulfikar Ali Bhutto Institute Of Science & Technology [hyderabad]",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 120400,
+    "Deadline": "30-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Alhamd Islamic University [ibd]",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-08-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Bahria University, H-11 Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 115008,
+    "Deadline": "24-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Iqra University, Chak Shahzad Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155080,
+    "Deadline": "29-02-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Iqra University, H-9 Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 254240,
+    "Deadline": "10-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Isra University [isb]]",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-09-2021",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121200,
+    "Deadline": "19-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The University Of Lahore ( Islamabad Campus )",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 182000,
+    "Deadline": "11-10-2019",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Air University, Aerospace & Aviation Campus Kamra",
+    "City": "Kamra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 93375,
+    "Deadline": "15-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Air University, Karachi Campus",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Isra University [khi]",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "09-11-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Lahore )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 159800,
+    "Deadline": "20-09-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Sarhad University Of Science And Information Technology, Mardan Campus",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-12-2022",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics ( Multan Campus )",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 156000,
+    "Deadline": "19-10-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The University Of Lahore ( Baba Fareed Campus )",
+    "City": "Pak Pattan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-02-2021",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Peshawar Campus )",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics ( Rahim Yar Khan Campus )",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Foundation University Islamabad (sub Campus)",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 157290,
+    "Deadline": "01-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Riphah International University ( Rawalpindi Campus )",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-09-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The University Of Lahore, Sub Campus",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-02-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Foundation University, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2019",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Management And Technology, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Government Post Graduate College [samanabad]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Uaf Community Collge, Jhang Road",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Pak- Austria Fachhuochschule, Institute Of Applied Sciences And Technology",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Khairpur College Of Agricultural Engineering And Technology",
+    "City": "Khair Pur",
+    "Degree": "BS",
+    "Duration": "4 Hours",
+    "Fee": 0,
+    "Deadline": "30-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics, Layyah Capmus",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2014",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "College Of Electrical And Mechenical Engineering",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Iba Community College",
+    "City": "Dadu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-11-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Ali Fatimah College Of Science & Management",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-10-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Chenab College Of Advance Studies",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2020",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Faisalabad College Of Arts And Sciences",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Royal Gorup Of Colleges",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2020",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Faran Group Of Colleges",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Hyderabad College Of Science And Technology",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-11-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Icon College",
+    "City": "Jaranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2020",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Baqai Institute Of Information Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 66950,
+    "Deadline": "14-02-2020",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Liaquat College Of Management & Sciences (gulshan-e-iqbal Campus)",
+    "City": "Karachi",
+    "Degree": "CERT",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-08-2019",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Al- Bahria Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 39600,
+    "Deadline": "10-10-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Grand Charter College",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "02-08-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Imperial College Of Engineering",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-11-2016",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Jinnah Memorial College Of Information Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2020",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Lahore College Of Pharmaceutical Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-02-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "The Royal College",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2017",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Faran Group Of Colleges",
+    "City": "Lala Musa",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Ansi Degree College",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Al-shifa Institute Of Health Sciences",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "I B A Community College",
+    "City": "Naushero Feroze",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "12-07-2022",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Army Public College Of Management & Sciences",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-08-2020",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Iuse School Of Engineering And Management Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-10-2017",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Raees-ul-ahrar College Of Commerce",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comand College",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2019",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Dir College Of Engineering & Computer Sciences",
+    "City": "Timergara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-09-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comsats Institute Of Information Technology (virtual Campus)",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 34300,
+    "Deadline": "01-01-2016",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Barani Institute Of Management Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "International Institute Of Science, Arts And Technology",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Hyderabad Institute For Technology Management Sciences",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Centre For Emerging Sciences, Engineering And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 100000,
+    "Deadline": "23-09-2016",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Comwave Institute Of Information Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-11-2023",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Imperial Institute Of Information Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Prime Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-12-2020",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Women Institute Of Science & Humanities",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-02-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Aawaz Institute Of Media And Management Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2022",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Biztek Institute Of Business & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2012",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Emaan Institute Of Management & Sciences",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 96000,
+    "Deadline": "20-07-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Emaan Institute Of Management & Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 96000,
+    "Deadline": "20-07-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Hayat Institute Of Emerging Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-03-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Nazar Ali Kalani Institute Of Science And Technology ( Nakist )",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Orasoft Training Institute",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Usman Institute Of Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 226400,
+    "Deadline": "22-09-2021",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Iba-institute Of Emerging Technologies",
+    "City": "Khair Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Afro-asian Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2018",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Aims Institute Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2017",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Institute For Art And Culture",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-07-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Johar Institute Of Professional Studies",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Nastp Institute Of Information Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Pak-canadian Polytechnic Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2016",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Kaims International Institute",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2017",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Brains Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2024",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Barani Institute Of Information Technology",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "26-08-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "School Of Advance Business And Commerce",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-12-2022",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Jamal International Public School & College",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2025",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "University Of Gujrat ( Sialkot Campus)",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2017",
+    "Subject": "Software Engineering"
+  },
+  {
+    "Institute": "Grafton College",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 75300,
+    "Deadline": "24-01-2019",
+    "Subject": "Software Engineering"
+  }
+]

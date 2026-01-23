@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Engg.]",
+    "Duration": "4 Years",
+    "Fee": 60500,
+    "Deadline": "28-07-2025",
+    "Subject": "Energy Systems Engineering"
+  },
+  {
+    "Institute": "Balochistan University Of Engineering & Technology",
+    "City": "Khuzdar",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 16000,
+    "Deadline": "17-10-2025",
+    "Subject": "Energy Systems Engineering"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BE",
+    "Duration": "4 Years",
+    "Fee": 138600,
+    "Deadline": "15-07-2023",
+    "Subject": "Energy Systems Engineering"
+  }
+]

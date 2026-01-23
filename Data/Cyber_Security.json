@@ -1,0 +1,776 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Malakand",
+    "City": "Chakdara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41000,
+    "Deadline": "31-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 44300,
+    "Deadline": "31-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 53358,
+    "Deadline": "26-01-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Air University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112050,
+    "Deadline": "25-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 47300,
+    "Deadline": "10-02-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Comsats University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121150,
+    "Deadline": "17-12-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "National Skills University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40600,
+    "Deadline": "13-09-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "National University Of Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 115000,
+    "Deadline": "12-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "10-05-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Dawood University Of Engineering And Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 70000,
+    "Deadline": "15-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Sindh Madressatul Islam University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47050,
+    "Deadline": "01-12-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "22-03-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-03-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 65000,
+    "Deadline": "18-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Engineering & Technology ,mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51013,
+    "Deadline": "07-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Sciences & Technology",
+    "City": "Nawab Shah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-05-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "The University Of Agriculture",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 85000,
+    "Deadline": "04-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "20-06-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43000,
+    "Deadline": "15-12-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "CERT",
+    "Duration": "4 Years",
+    "Fee": 129000,
+    "Deadline": "01-11-2024",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Aror University Of Art, Architecture, Design And Heritage",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "14-01-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Engineering &  Technology, Taxila",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-03-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Sheringal",
+    "City": "Upper Dir",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30010,
+    "Deadline": "10-10-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Capital University Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 144000,
+    "Deadline": "30-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Sir Syed Case Institute Of Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 173000,
+    "Deadline": "13-01-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Dha Suffa University(main Campus)",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-06-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Greenwich University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-07-2024",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Nazeer Hussain University",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2023",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Dewan University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-02-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 124000,
+    "Deadline": "26-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Qarshi University (lhr)",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 230000,
+    "Deadline": "31-01-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 329125,
+    "Deadline": "10-10-2024",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Institute Of Southern Punjab",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 105000,
+    "Deadline": "01-02-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 56000,
+    "Deadline": "05-12-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Al- Hamd Islamic University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2024",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Ghulam Ishaq Khan  Institute Of Engineering Sciences & Technology",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 695000,
+    "Deadline": "30-05-2024",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Hitec University",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 100000,
+    "Deadline": "30-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Wah",
+    "City": "Wah Cantt",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2023",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "University Of Engineering And Technology[fiasalabad Campus]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-03-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Universtiy Of Engineering And Technology (sub Campus)",
+    "City": "Kala Shah Kaku",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-12-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Air University, Multan Campus",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112050,
+    "Deadline": "18-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "The Islamic University Of Bahawalpur[rahimyar Khan Campus]",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49665,
+    "Deadline": "30-06-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics ( Bahwal Pur Campus )",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 117000,
+    "Deadline": "18-10-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Air University, Aerospace & Aviation Campus Kamra",
+    "City": "Kamra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112050,
+    "Deadline": "15-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Air University, Karachi Campus",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Air University, Kharian Campus",
+    "City": "Kharian",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Lahore )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2026",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics ( Multan Campus )",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Pak- Austria Fachhuochschule, Institute Of Applied Sciences And Technology",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Lyallpur Institute Of Advance Studies",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2024",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Al-shifa Institute Of Health Sciences",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Fertilizer Research",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-07-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Nastp Institute Of Information Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-08-2025",
+    "Subject": "Cyber Security"
+  },
+  {
+    "Institute": "Brains Institute",
+    "City": "Peshawar",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2024",
+    "Subject": "Cyber Security"
+  }
+]
