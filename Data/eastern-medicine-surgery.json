@@ -1,0 +1,146 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 94170,
+    "Deadline": "30-06-2025",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 36800,
+    "Deadline": "12-01-2026",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2026",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40000,
+    "Deadline": "05-01-2026",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 32000,
+    "Deadline": "20-08-2025",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 100100,
+    "Deadline": "15-03-2025",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Jinnah University For Women",
+    "City": "Karachi",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 58000,
+    "Deadline": "04-01-2022",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 184000,
+    "Deadline": "19-08-2023",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Qarshi University (lhr)",
+    "City": "Lahore",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 125000,
+    "Deadline": "12-07-2025",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Qarshi University",
+    "City": "Muridke",
+    "Degree": "BEMS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Hamdard University - Islamabad Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-07-2023",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "Himayat-e-islam Tibbiyah College",
+    "City": "Lahore",
+    "Degree": "BEMS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-10-2022",
+    "Subject": "Eastern Medicine Surgery"
+  },
+  {
+    "Institute": "National Institution Of Management Sciences",
+    "City": "Faisalabad",
+    "Degree": "DIP",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Eastern Medicine Surgery"
+  }
+]

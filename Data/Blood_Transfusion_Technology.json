@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "National University Of Medical Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2026",
+    "Subject": "Blood Transfusion Technology"
+  },
+  {
+    "Institute": "Indus College Of Allied Health",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "22-12-2021",
+    "Subject": "Blood Transfusion Technology"
+  },
+  {
+    "Institute": "Institute Of Allied Health Sciences",
+    "City": "Wah",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-01-2026",
+    "Subject": "Blood Transfusion Technology"
+  }
+]

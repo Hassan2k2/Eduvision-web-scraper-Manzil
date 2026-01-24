@@ -1,0 +1,74 @@
+[
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Neuro Physiology Technology"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2.5 Years",
+    "Fee": 14000,
+    "Deadline": "18-11-2025",
+    "Subject": "Neuro Physiology Technology"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 188000,
+    "Deadline": "18-11-2025",
+    "Subject": "Neuro Physiology Technology"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Neuro Physiology Technology"
+  },
+  {
+    "Institute": "Gandhara University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Neuro Physiology Technology"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-01-2024",
+    "Subject": "Neuro Physiology Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Neuro Physiology Technology"
+  },
+  {
+    "Institute": "The Childrens Hospital & The Institute Of Child Health",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-11-2024",
+    "Subject": "Neuro Physiology Technology"
+  }
+]

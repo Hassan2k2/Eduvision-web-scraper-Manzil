@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 285500,
+    "Deadline": "26-08-2025",
+    "Subject": "Audiology Speech Language Therapy"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "26-08-2025",
+    "Subject": "Audiology Speech Language Therapy"
+  },
+  {
+    "Institute": "Bilawal Medical College",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-06-2023",
+    "Subject": "Audiology Speech Language Therapy"
+  },
+  {
+    "Institute": "Sindh Institute Of Physical Medecine & Rehabilitaion",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Audiology Speech Language Therapy"
+  }
+]

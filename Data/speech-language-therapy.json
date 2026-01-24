@@ -1,0 +1,101 @@
+[
+  {
+    "Institute": "King Edward Medical University / Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "10-12-2025",
+    "Subject": "Speech Language Therapy"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "Speech Language Therapy"
+  },
+  {
+    "Institute": "Lahore University Of Biological & Applied Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-07-2024",
+    "Subject": "Speech Language Therapy"
+  },
+  {
+    "Institute": "Pakistan Institute Of Medical Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2015",
+    "Subject": "Speech Language Therapy"
+  },
+  {
+    "Institute": "Danish Degree College",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-10-2022",
+    "Subject": "Speech Language Therapy"
+  },
+  {
+    "Institute": "Advance Life College Of Medical Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2016",
+    "Subject": "Speech Language Therapy"
+  },
+  {
+    "Institute": "Vertex Institute Of Science & Technology, Mirpur Campus",
+    "City": "Mir Pur (ajk)",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "04-01-2023",
+    "Subject": "Speech Language Therapy"
+  },
+  {
+    "Institute": "Multan College Of Physiotherapy",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2022",
+    "Subject": "Speech Language Therapy"
+  },
+  {
+    "Institute": "School Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Speech Language Therapy"
+  },
+  {
+    "Institute": "Aims Institute Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-11-2016",
+    "Subject": "Speech Language Therapy"
+  },
+  {
+    "Institute": "Multan Institute Of Health Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2016",
+    "Subject": "Speech Language Therapy"
+  }
+]

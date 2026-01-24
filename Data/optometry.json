@@ -1,0 +1,362 @@
+[
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48829,
+    "Deadline": "08-09-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 183000,
+    "Deadline": "20-12-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "King Edward Medical University / Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "11-12-2024",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "University Of Loralai",
+    "City": "Loralai",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 11300,
+    "Deadline": "18-08-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2026",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "18-08-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "05-01-2026",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "OD",
+    "Duration": "5 Years",
+    "Fee": 280000,
+    "Deadline": "07-10-2023",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "The University Of Chenab",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Nur International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155278,
+    "Deadline": "18-01-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "OD",
+    "Duration": "4 Years",
+    "Fee": 169800,
+    "Deadline": "31-01-2026",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 56500,
+    "Deadline": "05-12-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Al- Hamd Islamic University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2024",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, G. I. Khan Campus",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Kohat",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Iqra University, Chak Shahzad Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121890,
+    "Deadline": "29-02-2024",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "College Of Ophthalmology & Allied Vision Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-01-2022",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Al Wateen Institute Of Medical Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-02-2019",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Capital College Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2022",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Hbs Medical And Dental College",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Fmh College Of Medicine & Dentistry",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2022",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Rashid Latif Medical College",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2024",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Hafeez Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-12-2021",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Professional College Of Medical Science",
+    "City": "Peshawar",
+    "Degree": "CERT",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-12-2019",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Nisa Institute Of Science & Arts",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-09-2024",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Al Wateen Institute Of Medical Sciences, Rawalpindi Campus",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2019",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Sindh Institute Of Ophthalmology & Visual Sciences",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "05-08-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Health Services Academy",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Pakistan Institute Of Community Ophthalmology",
+    "City": "Peshawar",
+    "Degree": "OD",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2025",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Bashir Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-03-2023",
+    "Subject": "Optometry"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Optometry"
+  }
+]

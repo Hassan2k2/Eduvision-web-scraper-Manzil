@@ -1,0 +1,515 @@
+[
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "The University Of Buner",
+    "City": "Buner",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 59434,
+    "Deadline": "26-01-2026",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Medical University, Pims",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-10-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "University Of Loralai",
+    "City": "Loralai",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 11300,
+    "Deadline": "18-08-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Nishtar Medical College / Nishter Hospital",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-01-2026",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Peoples University Of Medical And Health Sciences For Women",
+    "City": "Nawab Shah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-12-2024",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Bolan University Of Medical & Health Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-01-2026",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Lahore University Of Biological & Applied Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-11-2024",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Cecos University Of Information Tech. & Emerging Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BBS",
+    "Duration": "2 Years",
+    "Fee": 56500,
+    "Deadline": "05-12-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Al- Hamd Islamic University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2024",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, G. I. Khan Campus",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Kohat",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Hazara",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences, Kurram",
+    "City": "Para Chinar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Alhamd Islamic University [ibd]",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-02-2023",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Iqra University, Chak Shahzad Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 111180,
+    "Deadline": "29-02-2024",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2026",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Iqra National Univesity, Swat Campus",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 73638,
+    "Deadline": "30-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Bacha Khan Medical College",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Khyber Institute Of Medical Sciences",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-12-2022",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Capital College Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2022",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "College Of Medical Technology/pims",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Hbs Medical And Dental College",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Prime Institute Of Health & Management Sciences",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2023",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Ahmad Medical Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2020",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Asian Institute Of Medical & Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2023",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Ghazali Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Hallmark College Of Pharmacy",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-01-2021",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Hefa Foundation",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-11-2020",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-01-2022",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "International College Of Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-11-2022",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Khyber Pakhtunkhwa Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-01-2022",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "National College Of Nursing",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Razi Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-12-2021",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Pir Abdul Qadir Shah Jeelani Institute Of Medical Sciences",
+    "City": "Gambat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-03-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Health Services Academy",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Sindh Institute Of Urology And Transplantation",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Medical Sciences",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2024",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "The Childrens Hospital & The Institute Of Child Health",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-11-2024",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Vertex Institute Of Science & Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4",
+    "Fee": 0,
+    "Deadline": "18-04-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Dr. Ihsanullah Khan Medical Institute",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2022",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Aman Medical Institute",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-2022",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Prime Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Rehman Medical Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2025",
+    "Subject": "Anesthesia Technology"
+  },
+  {
+    "Institute": "Seena Institute Of Medical Sciences",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2022",
+    "Subject": "Anesthesia Technology"
+  }
+]

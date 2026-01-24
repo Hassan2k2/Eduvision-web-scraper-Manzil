@@ -1,0 +1,92 @@
+[
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 135200,
+    "Deadline": "07-10-2023",
+    "Subject": "Medical Laboratory Sciences"
+  },
+  {
+    "Institute": "Baqai Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 100000,
+    "Deadline": "18-10-2024",
+    "Subject": "Medical Laboratory Sciences"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 141600,
+    "Deadline": "31-01-2026",
+    "Subject": "Medical Laboratory Sciences"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 147400,
+    "Deadline": "03-01-2026",
+    "Subject": "Medical Laboratory Sciences"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "16-11-2024",
+    "Subject": "Medical Laboratory Sciences"
+  },
+  {
+    "Institute": "The University Of Lahore ( Islamabad Campus )",
+    "City": "Islamabad",
+    "Degree": "MD",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "11-10-2019",
+    "Subject": "Medical Laboratory Sciences"
+  },
+  {
+    "Institute": "Al Wateen Institute Of Medical Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-02-2019",
+    "Subject": "Medical Laboratory Sciences"
+  },
+  {
+    "Institute": "Vertex College Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "02-11-2018",
+    "Subject": "Medical Laboratory Sciences"
+  },
+  {
+    "Institute": "Hussain College Of Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2025",
+    "Subject": "Medical Laboratory Sciences"
+  },
+  {
+    "Institute": "Zohra Institute Of Health Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 90000,
+    "Deadline": "01-01-2021",
+    "Subject": "Medical Laboratory Sciences"
+  }
+]

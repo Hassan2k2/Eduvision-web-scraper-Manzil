@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2025",
+    "Subject": "Human Development Early Child Development"
+  },
+  {
+    "Institute": "Federal Government College Of Home Economics And Management Sciences,f-7/2",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-09-2025",
+    "Subject": "Human Development Early Child Development"
+  },
+  {
+    "Institute": "University Of Home Economics",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Human Development Early Child Development"
+  },
+  {
+    "Institute": "College Of Home Economics",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-10-2021",
+    "Subject": "Human Development Early Child Development"
+  }
+]

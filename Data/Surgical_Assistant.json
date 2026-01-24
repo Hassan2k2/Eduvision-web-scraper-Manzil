@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "Riphah Community College, Abbotabad Campus",
+    "City": "Abbottabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2023",
+    "Subject": "Surgical Assistant"
+  },
+  {
+    "Institute": "Riphah International College, Bahawlpur",
+    "City": "Bahawal Pur",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2022",
+    "Subject": "Surgical Assistant"
+  },
+  {
+    "Institute": "Riphah International College, Lahore",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-11-2024",
+    "Subject": "Surgical Assistant"
+  },
+  {
+    "Institute": "Riphah International College, Peshawar",
+    "City": "Peshawar",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2023",
+    "Subject": "Surgical Assistant"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Emergency Clinical Medicine Technology"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-11-2024",
+    "Subject": "Emergency Clinical Medicine Technology"
+  },
+  {
+    "Institute": "National University Of Medical Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43000,
+    "Deadline": "16-01-2026",
+    "Subject": "Emergency Clinical Medicine Technology"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Institute": "Faisalabad Medical University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-12-2025",
+    "Subject": "Renal Dialysis Technology"
+  },
+  {
+    "Institute": "King Edward Medical University / Mayo Hospital",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "10-12-2025",
+    "Subject": "Renal Dialysis Technology"
+  },
+  {
+    "Institute": "Nishtar Medical College / Nishter Hospital",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-01-2026",
+    "Subject": "Renal Dialysis Technology"
+  },
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Renal Dialysis Technology"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Renal Dialysis Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2025",
+    "Subject": "Renal Dialysis Technology"
+  },
+  {
+    "Institute": "Pir Abdul Qadir Shah Jeelani Institute Of Medical Sciences",
+    "City": "Gambat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-03-2025",
+    "Subject": "Renal Dialysis Technology"
+  },
+  {
+    "Institute": "Northwest Institute Of Healths Ciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2025",
+    "Subject": "Renal Dialysis Technology"
+  }
+]

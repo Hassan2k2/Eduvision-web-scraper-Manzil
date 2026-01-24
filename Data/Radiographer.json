@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Hussain College Of Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2025",
+    "Subject": "Radiographer"
+  },
+  {
+    "Institute": "Amna Inayat Medical College",
+    "City": "Sheikhupura",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-11-2017",
+    "Subject": "Radiographer"
+  },
+  {
+    "Institute": "Multan Institute Of Health Sciences",
+    "City": "Multan",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2017",
+    "Subject": "Radiographer"
+  }
+]

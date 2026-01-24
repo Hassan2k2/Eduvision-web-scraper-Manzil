@@ -1,0 +1,155 @@
+[
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2025",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-02-2026",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 56500,
+    "Deadline": "05-12-2025",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, G. I. Khan Campus",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Kohat",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Ghazali Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2025",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "International College Of Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-11-2022",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "National College Of Nursing",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Medical Sciences",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2024",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Comwave Institute Of Information Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-11-2023",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Global Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2024",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Premier Institute Of Health And Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2024",
+    "Subject": "Health Technology"
+  },
+  {
+    "Institute": "Rehman Medical Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2025",
+    "Subject": "Health Technology"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Institute": "Faisalabad Medical University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-12-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 100000,
+    "Deadline": "20-12-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Peoples University Of Medical And Health Sciences For Women",
+    "City": "Nawab Shah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-12-2024",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Khyber Medical University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 188000,
+    "Deadline": "18-11-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2.5 Years",
+    "Fee": 14000,
+    "Deadline": "18-11-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Indus University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 114000,
+    "Deadline": "31-10-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Nur International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155278,
+    "Deadline": "30-09-2024",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 131200,
+    "Deadline": "03-01-2026",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Gandhara University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Kohat",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Hazara",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Isra University [isb]]",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "05-09-2022",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Al-nafees Medical College & Hospital",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "07-06-2021",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Gulab Devi Educational Complex",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Bakhtawar Amin Medical And Dental College",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Pir Abdul Qadir Shah Jeelani Institute Of Medical Sciences",
+    "City": "Gambat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-03-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Sindh Institute Of Urology And Transplantation",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-12-2024",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Gulab Devi Post Graduate Medical Institute",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Northwest Institute Of Healths Ciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2025",
+    "Subject": "Respiratory Therapy"
+  },
+  {
+    "Institute": "Rehman Medical Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2025",
+    "Subject": "Respiratory Therapy"
+  }
+]

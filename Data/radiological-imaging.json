@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2025",
+    "Subject": "Radiological Imaging"
+  },
+  {
+    "Institute": "Indus University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 134000,
+    "Deadline": "31-10-2025",
+    "Subject": "Radiological Imaging"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 96500,
+    "Deadline": "26-08-2025",
+    "Subject": "Radiological Imaging"
+  },
+  {
+    "Institute": "Vertex Institute Of Science & Technology, Mirpur Campus",
+    "City": "Mir Pur (ajk)",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "04-01-2023",
+    "Subject": "Radiological Imaging"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2025",
+    "Subject": "Dialysis Technology"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Dialysis Technology"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 188000,
+    "Deadline": "18-11-2025",
+    "Subject": "Dialysis Technology"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2.5 Years",
+    "Fee": 14000,
+    "Deadline": "18-11-2025",
+    "Subject": "Dialysis Technology"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Dialysis Technology"
+  },
+  {
+    "Institute": "Capital College Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2022",
+    "Subject": "Dialysis Technology"
+  },
+  {
+    "Institute": "Liaquat National Medical College",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Dialysis Technology"
+  },
+  {
+    "Institute": "Hafeez Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-12-2021",
+    "Subject": "Dialysis Technology"
+  },
+  {
+    "Institute": "Sindh Institute Of Urology And Transplantation",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2025",
+    "Subject": "Dialysis Technology"
+  }
+]

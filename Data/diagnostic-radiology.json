@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "Women University Azad Jammu & Kashmir",
+    "City": "Bagh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51660,
+    "Deadline": "01-09-2025",
+    "Subject": "Diagnostic Radiology"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Diagnostic Radiology"
+  },
+  {
+    "Institute": "Liaquat National Medical College",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Diagnostic Radiology"
+  },
+  {
+    "Institute": "Sindh Institute Of Urology And Transplantation",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2025",
+    "Subject": "Diagnostic Radiology"
+  }
+]

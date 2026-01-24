@@ -1,0 +1,101 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 69965,
+    "Deadline": "30-06-2025",
+    "Subject": "Physiology"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 28200,
+    "Deadline": "12-01-2026",
+    "Subject": "Physiology"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "Physiology"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21000,
+    "Deadline": "28-11-2025",
+    "Subject": "Physiology"
+  },
+  {
+    "Institute": "Islamabad Model College For Girls, Humak",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2024",
+    "Subject": "Physiology"
+  },
+  {
+    "Institute": "Royal Gorup Of Colleges",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Physiology"
+  },
+  {
+    "Institute": "Advance Life College Of Medical Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2016",
+    "Subject": "Physiology"
+  },
+  {
+    "Institute": "Central Park College Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2019",
+    "Subject": "Physiology"
+  },
+  {
+    "Institute": "Sialkot Medical College",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2018",
+    "Subject": "Physiology"
+  },
+  {
+    "Institute": "Afro-asian Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2018",
+    "Subject": "Physiology"
+  },
+  {
+    "Institute": "Gulab Devi Post Graduate Medical Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physiology"
+  }
+]

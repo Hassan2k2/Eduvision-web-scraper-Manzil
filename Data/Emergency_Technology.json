@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Emergency Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Kohat",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Emergency Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences, Kurram",
+    "City": "Para Chinar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Emergency Technology"
+  }
+]

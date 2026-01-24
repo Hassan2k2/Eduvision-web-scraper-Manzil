@@ -1,0 +1,128 @@
+[
+  {
+    "Institute": "Women University Azad Jammu & Kashmir",
+    "City": "Bagh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51660,
+    "Deadline": "01-09-2025",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 100000,
+    "Deadline": "20-12-2025",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2025",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "Women University Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 77000,
+    "Deadline": "06-02-2023",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "Indus University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 134000,
+    "Deadline": "31-10-2025",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 86000,
+    "Deadline": "26-08-2025",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "National Institute Of Physical Therapy And Rehabilitation Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2020",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "Indus College Of Allied Health",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-01-2023",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "Liaquat National Medical College",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2026",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "Sindh Institute Of Medical And Allied Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-02-2023",
+    "Subject": "Clinical Laboratory Sciences"
+  },
+  {
+    "Institute": "Sindh Institute Of Urology And Transplantation",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2025",
+    "Subject": "Clinical Laboratory Sciences"
+  }
+]

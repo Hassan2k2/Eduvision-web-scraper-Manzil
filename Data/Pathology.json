@@ -1,0 +1,47 @@
+[
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "12-07-2024",
+    "Subject": "Pathology"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Pathology"
+  },
+  {
+    "Institute": "Ghazali Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2024",
+    "Subject": "Pathology"
+  },
+  {
+    "Institute": "Hefa Foundation",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-11-2020",
+    "Subject": "Pathology"
+  },
+  {
+    "Institute": "National Institute Of Health And Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2025",
+    "Subject": "Pathology"
+  }
+]

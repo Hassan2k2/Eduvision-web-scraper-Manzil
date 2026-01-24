@@ -1,0 +1,110 @@
+[
+  {
+    "Institute": "Women University Azad Jammu & Kashmir",
+    "City": "Bagh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51660,
+    "Deadline": "01-09-2025",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Hours",
+    "Fee": 0,
+    "Deadline": "17-12-2025",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "Indus University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 114000,
+    "Deadline": "31-10-2025",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 131200,
+    "Deadline": "03-01-2026",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "Indus College Of Allied Health",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-01-2023",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "Liaquat National Medical College",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "Sindh Institute Of Urology And Transplantation",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Hours",
+    "Fee": 0,
+    "Deadline": "03-12-2025",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "Faisal Institute Of Health Sciences",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "Prime Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2025",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "Abu Zafar Institute Of Medical Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2018",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "Tabba Heart Institute",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2017",
+    "Subject": "Operation Theatre Sciences"
+  },
+  {
+    "Institute": "Afro-asian Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-08-2023",
+    "Subject": "Operation Theatre Sciences"
+  }
+]

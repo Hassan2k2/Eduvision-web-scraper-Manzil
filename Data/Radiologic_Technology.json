@@ -1,0 +1,281 @@
+[
+  {
+    "Institute": "Kalam Bibi International Women Institute",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Liaquat University Of Medical And Health Sciences",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 50000,
+    "Deadline": "10-10-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 100000,
+    "Deadline": "20-12-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "The University Of Modern Sciences",
+    "City": "Tando Muhammad Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-11-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "City University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "B.TECH",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "10-11-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Iqra National University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 68391,
+    "Deadline": "30-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, G. I. Khan Campus",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Kohat",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences, Hazara",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences, Kurram",
+    "City": "Para Chinar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Iqra University, Chak Shahzad Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 111180,
+    "Deadline": "29-02-2024",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Iqra National Univesity, Swat Campus",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 65466,
+    "Deadline": "30-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Bacha Khan Medical College",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Al- Qassar Institute Of Health Sciences",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2020",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Prime Institute Of Health & Management Sciences",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2023",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Asian Institute Of Medical & Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2023",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "International College Of Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-11-2022",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "National College Of Nursing",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Pakistan Institute Of Medical And Management Sciencse",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-11-2022",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Dr. Ihsanullah Khan Medical Institute",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2022",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Aman Medical Institute",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-11-2021",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Bashir Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-03-2023",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Prime Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Kmu Institute Of Health Sciences",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "Rehman Medical Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2025",
+    "Subject": "Radiologic Technology"
+  },
+  {
+    "Institute": "School Of Health Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2020",
+    "Subject": "Radiologic Technology"
+  }
+]

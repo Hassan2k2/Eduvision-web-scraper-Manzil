@@ -1,0 +1,155 @@
+[
+  {
+    "Institute": "The University Of Buner",
+    "City": "Buner",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Mir Chakar Khan Rind University Of Technology",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Al- Hamd Islamic University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-02-2023",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Alhamd Islamic University [ibd]",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-02-2023",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "The University Of Lahore, Sub Campus",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-02-2025",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Riphah International College, Bahawlpur",
+    "City": "Bahawal Pur",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2022",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "College Of Medical Technology/pims",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Hbs Medical And Dental College",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2025",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Indus College Of Allied Health",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-01-2023",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Allied College Of Health Sciences",
+    "City": "Khanewal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2021",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Riphah International College, Lahore",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-11-2024",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Allied College Of Health Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2021",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Hafeez Institute Of Medical Sciences",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-12-2021",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Faisal Institute Of Health Sciences",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Royal Institute Of Medical Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2022",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Zohra Institute Of Health Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 90000,
+    "Deadline": "01-01-2021",
+    "Subject": "Radiology Imaging Technology"
+  },
+  {
+    "Institute": "Times Institute",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "29-01-2024",
+    "Subject": "Radiology Imaging Technology"
+  }
+]

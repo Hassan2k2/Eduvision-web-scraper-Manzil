@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 16500,
+    "Deadline": "28-11-2025",
+    "Subject": "Audiology Speech Pathology"
+  },
+  {
+    "Institute": "Liaquat National Medical College",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2025",
+    "Subject": "Audiology Speech Pathology"
+  }
+]

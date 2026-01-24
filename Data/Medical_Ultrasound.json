@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "Ibadat International University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 96000,
+    "Deadline": "10-09-2023",
+    "Subject": "Medical Ultrasound"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Medical Ultrasound"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 144200,
+    "Deadline": "03-01-2026",
+    "Subject": "Medical Ultrasound"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2024",
+    "Subject": "Medical Ultrasound"
+  }
+]
