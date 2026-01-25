@@ -1,0 +1,353 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 27500,
+    "Deadline": "26-08-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Kalam Bibi International Women Institute",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Bahauddin Zakria University,multan[d.g.khan Campus]",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-01-2015",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40000,
+    "Deadline": "31-07-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Fata University",
+    "City": "Darra Adam Khail",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 22000,
+    "Deadline": "02-10-2024",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 28200,
+    "Deadline": "12-01-2026",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30200,
+    "Deadline": "31-07-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 46200,
+    "Deadline": "28-07-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 56050,
+    "Deadline": "25-09-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 39250,
+    "Deadline": "15-08-2024",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Agriculture",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25200,
+    "Deadline": "29-09-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29513,
+    "Deadline": "20-09-2024",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 71000,
+    "Deadline": "23-09-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 74220,
+    "Deadline": "15-12-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Gift University",
+    "City": "Gujranwala",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 121000,
+    "Deadline": "01-02-2026",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Gift University",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121000,
+    "Deadline": "01-02-2026",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Lahore Garrison University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 174635,
+    "Deadline": "30-11--0001",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "University Of Science And Technology, Women Campus",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32800,
+    "Deadline": "10-09-2021",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University Peshawar, Sub Campus",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2014",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "University Of Swat ( Women Campus )",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 19730,
+    "Deadline": "12-10-2023",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 100000,
+    "Deadline": "18-10-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government College For Women [madina Town]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government Home Economics College",
+    "City": "Gujranwala",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government Dr. I.h. Zuberi Girls College Of Home Economics",
+    "City": "Hyderabad",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Federal Government College Of Home Economics And Management Sciences,f-7/2",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-09-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government College For Women[korangi No.4]",
+    "City": "Karachi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Rana Liaquat Ali Khan Government College",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government Degree College For Women",
+    "City": "Khair Pur",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government College For Women [gulberg]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-05-2024",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government College For Women[gulberg]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-10-2022",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government Post Graduate College For Women [samanabad]",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-10-2021",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government Queen Marry College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-07-2024",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "University Of Home Economics",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Hours",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government College For Women [katchery]",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Government Home Economics College Nowshera",
+    "City": "Nowshera",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2019",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "College Of Home Economics",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "22-08-2019",
+    "Subject": "Home Economics"
+  },
+  {
+    "Institute": "Nisa Girls College",
+    "City": "Sialkot",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "08-01-2022",
+    "Subject": "Home Economics"
+  }
+]

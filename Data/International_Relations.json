@@ -1,0 +1,974 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27500,
+    "Deadline": "26-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Women University Azad Jammu & Kashmir",
+    "City": "Bagh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 36260,
+    "Deadline": "01-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Thal University",
+    "City": "Bhakkar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "10-01-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21300,
+    "Deadline": "04-07-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24300,
+    "Deadline": "24-06-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30200,
+    "Deadline": "31-07-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33400,
+    "Deadline": "10-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 66590,
+    "Deadline": "15-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 18648,
+    "Deadline": "26-01-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 13750,
+    "Deadline": "10-02-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Bahria University, E-8 Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 123520,
+    "Deadline": "18-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Comsats University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "17-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts Science & Technology Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 50000,
+    "Deadline": "30-01-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts Science & Technology Islamabad",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 50000,
+    "Deadline": "30-01-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 50400,
+    "Deadline": "31-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "National Defence University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 88507,
+    "Deadline": "31-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 84580,
+    "Deadline": "09-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 56355,
+    "Deadline": "29-07-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 152000,
+    "Deadline": "14-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Benazir Bhutto Shaheed University, Lyari",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24600,
+    "Deadline": "17-11-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 16500,
+    "Deadline": "28-11-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Shah Abdul Latif University",
+    "City": "Khair Pur",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 14000,
+    "Deadline": "22-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48000,
+    "Deadline": "08-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Kinnaird College For Women",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 88200,
+    "Deadline": "04-07-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46790,
+    "Deadline": "25-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29940,
+    "Deadline": "25-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Lasbela University Of Agriculture, Water And Marine Sciences, Uthal",
+    "City": "Lasbela",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 16000,
+    "Deadline": "20-10-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Layyah",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-07-2023",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Loralai",
+    "City": "Loralai",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 11300,
+    "Deadline": "12-08-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Punjab University Of Technology  [ Rasul]",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 45000,
+    "Deadline": "18-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Mianwali",
+    "City": "Mianwali",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-02-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20150,
+    "Deadline": "15-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 68400,
+    "Deadline": "23-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 39410,
+    "Deadline": "20-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "11-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "20-06-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "15-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21000,
+    "Deadline": "22-01-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 95000,
+    "Deadline": "01-11-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Chakwal",
+    "City": "Chakwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Qurtuba University Of Science & Technology [di Khan]",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 135000,
+    "Deadline": "07-10-2023",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Gift University",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 83800,
+    "Deadline": "01-02-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 87890,
+    "Deadline": "29-10-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 69000,
+    "Deadline": "30-07-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Dha Suffa University(main Campus)",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Dha Suffa University(main Campus)",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Institute Of Business Management",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155800,
+    "Deadline": "28-07-2022",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Jinnah University For Women",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Hours",
+    "Fee": 27500,
+    "Deadline": "15-10-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-02-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-11-2023",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Lahore Garrison University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 174635,
+    "Deadline": "30-11--0001",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 140000,
+    "Deadline": "04-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 93750,
+    "Deadline": "18-05-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics, Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 144000,
+    "Deadline": "26-02-2023",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 182250,
+    "Deadline": "10-10-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 199750,
+    "Deadline": "31-07-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-02-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Iqra National University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-03-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Preston University [pesh]",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-06-2016",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Al- Hamd Islamic University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Faisalabad Campus )",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 67400,
+    "Deadline": "09-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts  Science & Technology, Karachi",
+    "City": "Karachi",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 20600,
+    "Deadline": "10-01-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Gujrat (lahore Campus)",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2018",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Air University, Multan Campus",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 57420,
+    "Deadline": "18-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "National University Of Modern Language ( Multan Campus )",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology ( Pallandri Campus)",
+    "City": "Pallandri",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Makran",
+    "City": "Panjgur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Peshawar Campus )",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 84580,
+    "Deadline": "04-12-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Rawalpindi Campus",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 84580,
+    "Deadline": "09-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "18-10-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Air University, H-11 Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-12-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Iqra University, Chak Shahzad Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 115320,
+    "Deadline": "29-02-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Iqra University, H-9 Campus",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "10-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Iqra University, H-9 Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 202040,
+    "Deadline": "10-09-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Preston University [isb]",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121200,
+    "Deadline": "19-08-2023",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Preston University [lhr]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-06-2016",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Qurtuba University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-11-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Management And Technology, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Government Postgraduate College ( Mandian)",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "F. G. Girls Degree College, Madrissa Road",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-10-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "F.g Boys Degree College",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-10-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Government Post Graduate College[asghar Mall ]",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Government Postgraduate College For Women[satellite Town]",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Universal College Islamabad",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2018",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "P S E College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2019",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Nisa Institute Of Science & Arts",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-09-2024",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Bilquis College Of Eduacton For Women [chaklala]",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-01-2026",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Garrison Degree College",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-08-2018",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Fertilizer Research",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-07-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "International Institute Of Science, Arts And Technology",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2025",
+    "Subject": "International Relations"
+  },
+  {
+    "Institute": "University Of Gujrat ( Sialkot Campus)",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2017",
+    "Subject": "International Relations"
+  }
+]

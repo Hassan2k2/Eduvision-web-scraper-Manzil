@@ -1,0 +1,893 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 28500,
+    "Deadline": "26-08-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Cholistan University Of  Veterinary & Animal Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 37500,
+    "Deadline": "15-08-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The Government Sadiq College Women University",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-01-2026",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Malakand",
+    "City": "Chakdara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21300,
+    "Deadline": "04-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 28200,
+    "Deadline": "24-06-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33100,
+    "Deadline": "31-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "28-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41900,
+    "Deadline": "10-08-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20113,
+    "Deadline": "26-01-2026",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Government College University Hyderabad",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 45100,
+    "Deadline": "10-02-2026",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 89685,
+    "Deadline": "31-12-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54565,
+    "Deadline": "29-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Jhang",
+    "City": "Jhang",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21000,
+    "Deadline": "28-11-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Shah Abdul Latif University",
+    "City": "Khair Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 12150,
+    "Deadline": "22-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27900,
+    "Deadline": "15-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Kinnaird College For Women",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 90200,
+    "Deadline": "01-12-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41940,
+    "Deadline": "25-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Veterinary And Animal Sciences",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 45500,
+    "Deadline": "12-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Punjab University Of Technology  [ Rasul]",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "18-08-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Women University Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41400,
+    "Deadline": "28-01-2026",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27150,
+    "Deadline": "02-01-2026",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Agriculture",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25200,
+    "Deadline": "29-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The Women University",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25750,
+    "Deadline": "07-01-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Narowal",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "19-02-2026",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29513,
+    "Deadline": "28-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The University Of Agriculture",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47000,
+    "Deadline": "15-08-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 39410,
+    "Deadline": "16-08-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Sardar Bahadur Khan Women University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 8040,
+    "Deadline": "28-02-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 36000,
+    "Deadline": "11-08-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "05-01-2026",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 45650,
+    "Deadline": "08-08-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto  International University Of Veterinary And Animal Sciences",
+    "City": "Sakrand",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 9300,
+    "Deadline": "19-12-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "15-12-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "18-09-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-11-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121000,
+    "Deadline": "01-11-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Women University Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 42460,
+    "Deadline": "12-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The University Of Veterinary & Animal Sciences",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 18000,
+    "Deadline": "30-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The University Of Modern Sciences",
+    "City": "Tando Muhammad Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-12-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Turbat",
+    "City": "Turbat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24000,
+    "Deadline": "21-10-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112500,
+    "Deadline": "07-10-2023",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Capital University Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 262000,
+    "Deadline": "02-09-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Jinnah University For Women",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 42000,
+    "Deadline": "15-10-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Lahore Garrison University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 174635,
+    "Deadline": "30-11--0001",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Lahore University Of Biological & Applied Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-07-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Rashid Latif Khan University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 197500,
+    "Deadline": "20-09-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 212250,
+    "Deadline": "18-10-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Ahmadpur East Campus",
+    "City": "Ahmadpur East",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2024",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur[sub Campus]",
+    "City": "Bahawal Nagar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts  Science & Technology, Karachi",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 34400,
+    "Deadline": "10-01-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Liaqatpur Campus",
+    "City": "Liaqatpur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "The Islamic University Of Bahawalpur[rahimyar Khan Campus]",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Agriculture Faisal Abad[toba Tek Singh Campus]",
+    "City": "Toba Tek Singh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 92000,
+    "Deadline": "18-10-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Management And Technology, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Uaf Community Collge, Jhang Road",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "University Of Home Economics",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "King College Of Health Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-09-2017",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Layallpur Institute Of Management & Sciences ( Lims )",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-10-2017",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Advance Life College Of Medical Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2016",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Central Park College Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2019",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Gulab Devi Educational Complex",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Kasur Institute Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-12-2022",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Islamic International Institute Of Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-11-2018",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Al-shifa Institute Of Health Sciences",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-12-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Kings College Of Health Sciences",
+    "City": "Sahiwal",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-09-2017",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Amna Inayat Medical College",
+    "City": "Sheikhupura",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-11-2017",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Sialkot Medical College",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2018",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Fertilizer Research",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Health Services Academy",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "International Institute Of Science, Arts And Technology",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2025",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Afro-asian Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-08-2023",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Federal Institute Of Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2017",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Gulab Devi Post Graduate Medical Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Nasjon Institute Of Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2020",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Federal Institute Of Health Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2017",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Kaims International Institute",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2019",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Laeeque Rafique Institute Of Medical Sciences & Nursing School",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2021",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Muhammad Institute Of Medical & Allied Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2020",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Multan Institute Of Health Sciences",
+    "City": "Multan",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2017",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Fedral Institute Of Health Sciences",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2017",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Sargodha Institute Of Health Sciences",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Biochemistry"
+  },
+  {
+    "Institute": "Abdul Wali Khan University ( Shankar Campus )",
+    "City": "Mardan",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "30-11--0001",
+    "Subject": "Biochemistry"
+  }
+]

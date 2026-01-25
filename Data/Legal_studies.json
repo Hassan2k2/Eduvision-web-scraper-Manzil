@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Punjab Law College",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2015",
+    "Subject": "Legal Studies"
+  },
+  {
+    "Institute": "Punjab Law College",
+    "City": "Rawalpindi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2014",
+    "Subject": "Legal Studies"
+  }
+]

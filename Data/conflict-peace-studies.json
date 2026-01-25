@@ -1,0 +1,47 @@
+[
+  {
+    "Institute": "Fata University",
+    "City": "Darra Adam Khail",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 22000,
+    "Deadline": "02-10-2024",
+    "Subject": "Conflict Peace Studies"
+  },
+  {
+    "Institute": "National Defence University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 88507,
+    "Deadline": "31-12-2025",
+    "Subject": "Conflict Peace Studies"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 79580,
+    "Deadline": "08-07-2025",
+    "Subject": "Conflict Peace Studies"
+  },
+  {
+    "Institute": "Shah Abdul Latif University",
+    "City": "Khair Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-09-2025",
+    "Subject": "Conflict Peace Studies"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 71000,
+    "Deadline": "23-09-2025",
+    "Subject": "Conflict Peace Studies"
+  }
+]

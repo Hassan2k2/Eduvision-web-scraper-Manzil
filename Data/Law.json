@@ -1,0 +1,2342 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 43015,
+    "Deadline": "15-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Malakand",
+    "City": "Chakdara",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 14000,
+    "Deadline": "15-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Bahauddin Zakria University,multan[d.g.khan Campus]",
+    "City": "D.g.khan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 22460,
+    "Deadline": "31-01-2015",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 43000,
+    "Deadline": "31-07-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 36600,
+    "Deadline": "24-06-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 66590,
+    "Deadline": "15-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The University Of Sufism  And Modern Sciences",
+    "City": "Hala",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 23000,
+    "Deadline": "10-07-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 59434,
+    "Deadline": "26-01-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Bahria University, E-8 Campus",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 127075,
+    "Deadline": "18-12-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 88900,
+    "Deadline": "31-12-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "National University Of Science & Technology",
+    "City": "Islamabad",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 253080,
+    "Deadline": "25-01-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 56355,
+    "Deadline": "29-07-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 40000,
+    "Deadline": "14-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto, University Of Law, Clifton",
+    "City": "Karachi",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 40000,
+    "Deadline": "20-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 44000,
+    "Deadline": "07-11-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 44000,
+    "Deadline": "07-11-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Shah Abdul Latif University",
+    "City": "Khair Pur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 49080,
+    "Deadline": "22-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 36500,
+    "Deadline": "15-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The University Of Management Sciences & Information Technology",
+    "City": "Kotli",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "10-09-2016",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Kinnaird College For Women",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 116100,
+    "Deadline": "04-07-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 47540,
+    "Deadline": "18-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Loralai",
+    "City": "Loralai",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 11300,
+    "Deadline": "18-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Punjab University Of Technology  [ Rasul]",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 69211,
+    "Deadline": "01-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 75000,
+    "Deadline": "18-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 36250,
+    "Deadline": "15-08-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 27150,
+    "Deadline": "18-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Nawab Shah",
+    "City": "Nawab Shah",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 18000,
+    "Deadline": "06-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 54000,
+    "Deadline": "18-07-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Islamia College University",
+    "City": "Peshawar",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 62000,
+    "Deadline": "16-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 29513,
+    "Deadline": "28-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 84400,
+    "Deadline": "11-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 48415,
+    "Deadline": "20-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 36000,
+    "Deadline": "31-01-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 40250,
+    "Deadline": "20-06-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 52050,
+    "Deadline": "15-08-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Sahiwal",
+    "City": "Sahiwal",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 34440,
+    "Deadline": "31-07-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 71000,
+    "Deadline": "11-07-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 165000,
+    "Deadline": "01-11-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Mir Chakar Khan Rind University",
+    "City": "Sibi",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Women University Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 42460,
+    "Deadline": "12-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Swat",
+    "City": "Swat",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 19730,
+    "Deadline": "12-10-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Turbat",
+    "City": "Turbat",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 43520,
+    "Deadline": "21-10-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Sheringal",
+    "City": "Upper Dir",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 30010,
+    "Deadline": "10-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Chakwal",
+    "City": "Chakwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Qurtuba University Of Science & Technology [di Khan]",
+    "City": "D.i. Khan",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 288000,
+    "Deadline": "07-10-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The University Of Chenab",
+    "City": "Gujrat",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of East",
+    "City": "Hyderabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Capital University Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Ibadat International University Islamabad",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 92400,
+    "Deadline": "10-09-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Dadabhoy Institute Of Higher Education",
+    "City": "Karachi",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 100450,
+    "Deadline": "31-01-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BA [PASS]",
+    "Duration": "5 Years",
+    "Fee": 110000,
+    "Deadline": "15-03-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science & Technology",
+    "City": "Karachi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "12-02-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 442000,
+    "Deadline": "26-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Lahore University Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 680400,
+    "Deadline": "10-03-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Rashid Latif Khan University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 195400,
+    "Deadline": "31-01-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 341000,
+    "Deadline": "10-10-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 374750,
+    "Deadline": "31-07-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of South Asia",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 140000,
+    "Deadline": "05-11-2022",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Mohi-ud-din Islamic University",
+    "City": "Mir Pur (ajk)",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 52000,
+    "Deadline": "13-07-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Institute Of Southern Punjab",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur[sub Campus]",
+    "City": "Bahawal Nagar",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Punjab, Pothohar Campus",
+    "City": "Gujar Khan",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of The Punjab [ Gujranwala Campus ]",
+    "City": "Gujranwala",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 18210,
+    "Deadline": "18-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Sindh, Elsa Kazi Campus",
+    "City": "Hyderabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "14-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of The Punjab (jhelum Campus)",
+    "City": "Jhelum",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts  Science & Technology, Karachi",
+    "City": "Karachi",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "26-12-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Kotli",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Balochistan, (sub-campus Pishin )",
+    "City": "Pishin",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 36000,
+    "Deadline": "05-01-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Islamic University Of Bahawalpur[rahimyar Khan Campus]",
+    "City": "Rahim Yar Khan",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University Peshawar, Sub Campus",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2013",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 170000,
+    "Deadline": "25-01-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The University Of Lahore ( Baba Fareed Campus )",
+    "City": "Pak Pattan",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2015",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government Pir Illahi Bux Law College",
+    "City": "Dadu",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Muhammad Ali Jinnah Law College",
+    "City": "Gujranwala",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government Hyderabad Sindh Law College",
+    "City": "Hyderabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government Jinnah Law College",
+    "City": "Hyderabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "S D K Law College",
+    "City": "Jaccobabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "20-03-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "F.g Urdu College",
+    "City": "Karachi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Sindh Muslim Law College",
+    "City": "Karachi",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government Law College",
+    "City": "Khair Pur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "20-03-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University College Lahore",
+    "City": "Lahore",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2014",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "24-11-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government Law College",
+    "City": "Larkana",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "20-03-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Law College",
+    "City": "Quetta",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "28-01-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government Degree College For Women [dhoke Ratta]",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Haji Maula Bakhsh Government Law College",
+    "City": "Shikar Pur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "20-03-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government Agha Badare Alam Durrani Law College",
+    "City": "Sukkur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "20-03-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "05-09-2015",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Abbot Law Colelge",
+    "City": "Abbottabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Abbot Law Colelge",
+    "City": "Abbottabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "12-11-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "College Of Legal And Ethical Studies",
+    "City": "Abbottabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "16-12-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Islamia Modern School & College",
+    "City": "Abbottabad",
+    "Degree": "LLB",
+    "Duration": "3-5 Years",
+    "Fee": 0,
+    "Deadline": "27-07-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Justice Law College",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Women Law College",
+    "City": "Abbottabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Jinnah Law College",
+    "City": "Bahawal Pur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "22-02-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Zain College",
+    "City": "Bhakkar",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "22-09-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Askari Law College",
+    "City": "Burewala",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-05-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Indus Law College",
+    "City": "D.g.khan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "11-01-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Ghousia College",
+    "City": "Depal Pur",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Alley Group Of Colleges",
+    "City": "Faisalabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-03-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Faisalabad College Of Law",
+    "City": "Faisalabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-12-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Fortune Institute Of Advance Studies",
+    "City": "Faisalabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Kingston College Of Science And Commerce",
+    "City": "Faisalabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Lyallpur Law College",
+    "City": "Faisalabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Punjab Law College",
+    "City": "Faisalabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Sandal Bar Law College",
+    "City": "Faisalabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "06-10-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Western Punjab College Of Law",
+    "City": "Faisalabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Law College",
+    "City": "Ghotki",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "20-03-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Premier Law Collge",
+    "City": "Gujranwala",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "09-03-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Gujrat Law College",
+    "City": "Gujrat",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Farabee Law College",
+    "City": "Hafizabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "17-11-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Ayub Law College",
+    "City": "Haripur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Ayub Law College",
+    "City": "Haripur",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "East & West Law College",
+    "City": "Haripur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Sani Islamia Law College",
+    "City": "Haripur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "02-11-2022",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "East & West Law Caollege",
+    "City": "Hassanabdal",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Everest College Of Law",
+    "City": "Hyderabad",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Indus College Of Law",
+    "City": "Hyderabad",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "East & West Law College",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "18-11-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Islamabad Law College",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "21-05-2016",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "National Institute Of Modern Studies",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "06-02-2022",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Newport College Islamabad",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Leads College",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "19-12-2015",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Millennium University College",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Universal College Islamabad",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2022",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Jinnah Law College",
+    "City": "Jhelum",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "04-12-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Government Islamia Law College",
+    "City": "Karachi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Law College",
+    "City": "Karachi",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-12-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Quaid-e-azam Law College",
+    "City": "Kasur",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Kohat Law College",
+    "City": "Kohat",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "12-09-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Alley Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "12-08-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Amna Inayat Medical & Educational Campus",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "05-01-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Asian Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3/5 Years",
+    "Fee": 0,
+    "Deadline": "18-01-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "City Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "05-12-2015",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Global Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3/5 Years",
+    "Fee": 0,
+    "Deadline": "21-12-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Hamayat Islam Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "14-10-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Himayat-e-islam Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Himayat-i-islam Degree College For Women",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Ivy College Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Lahore Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Lahore School Of Law",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Leads Law College, Township",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-03-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Lords Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "National Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "P S E College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Pak Vision College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "07-01-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Pakistan College Of Law",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "24-08-2016",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Punjab Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2015",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Punjab Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2015",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Quaid-e-azam Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Ravi Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "21-01-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Riphah College Of Veterinary Sciences",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-01-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "School Of Law",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "15-12-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Shams Tabrez Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "20-01-2022",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Superior College Of Law",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-10-2022",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Future College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-03-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Institute Of Legal Studies",
+    "City": "Lahore",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Limit Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 35000,
+    "Deadline": "07-03-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Millennium University College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "07-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Toppers Law College",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Toppers Law College",
+    "City": "Lahore",
+    "Degree": "BA [PASS]",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Liccs Law College",
+    "City": "Layyah",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Abbot Law College",
+    "City": "Mansehra",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "10-09-2016",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Abbot Law College",
+    "City": "Mansehra",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "12-11-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Mardan Law College",
+    "City": "Mardan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Kashmir Law College",
+    "City": "Mir Pur (ajk)",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Brains College",
+    "City": "Mir Pur (ajk)",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "06-09-2014",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Law College Mirpurkhas",
+    "City": "Mir Pur Khas",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "18-01-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Allama Iqbal Law College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2014",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Ayan Law Colege",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "25-11-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Central Law College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-11-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Kaims International Law College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Muhammadan Law College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Multan Law College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-05-2022",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Noor Law College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Professional College Of Commerce & Computer Sciences",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "29-04-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Southern Punjab Law College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "15-12-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Supreme Law College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "15-11-2014",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Future Law College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2016",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Next College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "01-01-2022",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Toppers Law College",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2015",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Kashmir Law College",
+    "City": "Muzaffarabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Salu Law College",
+    "City": "Naushero Feroze",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "20-03-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Quaid-e-azam Law College",
+    "City": "Nawab Shah",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Quaid-e-azam Law College",
+    "City": "Okara",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Edwardes College",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "24-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Frontier Law College",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "26-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Islamia Law College",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "17-11-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Jinnah Law College",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "P E F University College",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "04-11-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Peshawar Law College",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Supreme Law College",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "National Law College",
+    "City": "Quetta",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "27-04-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "National Law College",
+    "City": "Quetta",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "20-01-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Quetta Law College",
+    "City": "Quetta",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "06-01-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Zarghoona Law College",
+    "City": "Quetta",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "04-03-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Ali Law College",
+    "City": "Rahim Yar Khan",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 50000,
+    "Deadline": "30-04-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Citi Law College",
+    "City": "Rawala Kot",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "21-03-2023",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Al-maizan Law College",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Capital Law College",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "02-12-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Citi College",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Muslim Law College",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "16-03-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Punjab Law College",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2014",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Punjab Law College",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2014",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Rawalpind College Of Commerce[301, Peshawar Road]",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "05-08-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Rawalpindi College Of Commerce [murree Road]",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "05-08-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Rawalpindi Law College",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "14-01-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Best Law College",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "3/5 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2024",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Command Law College",
+    "City": "Sahiwal",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "02-02-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Montgomery Sahiwal Law College",
+    "City": "Sahiwal",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "22-01-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Muhammadan Law College",
+    "City": "Sahiwal",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Multan Law College",
+    "City": "Sahiwal",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Quaid-e-azam Law College",
+    "City": "Sahiwal",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Limit Law College",
+    "City": "Sahiwal",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "25-02-2022",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Muslim Law College",
+    "City": "Saidu Sharif",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Muhammadan Law Colelge",
+    "City": "Sargodha",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2017",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Quaid-e-azam Law Collge",
+    "City": "Sargodha",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Muhammadan Law College",
+    "City": "Sheikhupura",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Allama Iqbal Law College",
+    "City": "Sialkot",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Swabi Law College",
+    "City": "Swabi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "National Institute Of Legal Studies",
+    "City": "Attock",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Imperial Institute",
+    "City": "Faisalabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "International Institute Of Science, Arts And Technology",
+    "City": "Gujranwala",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Al-meezan Institute Of Legal Studies",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-09-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Institute Of Legal Studies, Islamabad Campus",
+    "City": "Islamabad",
+    "Degree": "LLB [HONS]",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Sindh Mehran Institute Of Law",
+    "City": "Jamshoro",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "07-12-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Institute Of Law",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2020",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Wise Institute Of Law & Judicial Academy",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2015",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Kaims International Institute",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "The Institute Of Legal Studies, Multan Campus",
+    "City": "Multan",
+    "Degree": "LLB [HONS]",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Quaid-e-azam Institue Of Legal Studies",
+    "City": "Nowshera",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Centre For Study Law And Democracy",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Institute Of Legal Studies",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Institute Of Legal Studies",
+    "City": "Peshawar",
+    "Degree": "LLB [HONS]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "P.e.f Post Graduate College",
+    "City": "Peshawar",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "16-10-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Jinnah Institute Of Informatics, Science & Commerce",
+    "City": "Rawalpindi",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2016",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Islamabad School Of Law",
+    "City": "Islamabad",
+    "Degree": "LLB [HONS]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Times Institute",
+    "City": "Multan",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 60000,
+    "Deadline": "18-08-2025",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "City School Of Law",
+    "City": "Quetta",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "25-06-2021",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "University Of Balochistan, (sub-campus Kharan)",
+    "City": "Kharan",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 36000,
+    "Deadline": "05-01-2026",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Lahore Campus",
+    "City": "Lahore",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 32000,
+    "Deadline": "30-11--0001",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Lahore Campus",
+    "City": "Lahore",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 32000,
+    "Deadline": "30-11--0001",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Abdul Wali Khan University ( Riffat Mahal Campus )",
+    "City": "Mardan",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 75000,
+    "Deadline": "30-11--0001",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Jinnah Muslim Law College",
+    "City": "Islamabad",
+    "Degree": "LLB",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "04-01-2018",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Sardar Noor Mohammad Khan Bijaranai Law College",
+    "City": "Kandh Kot",
+    "Degree": "LLB",
+    "Duration": "5 Years",
+    "Fee": 0,
+    "Deadline": "20-03-2019",
+    "Subject": "Law"
+  },
+  {
+    "Institute": "Bahauddin Zakria University,sahiwal Campus",
+    "City": "Sahiwal",
+    "Degree": "LLB [HONS]",
+    "Duration": "5 Years",
+    "Fee": 22460,
+    "Deadline": "02-10-2015",
+    "Subject": "Law"
+  }
+]

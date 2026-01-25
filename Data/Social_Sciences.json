@@ -1,0 +1,146 @@
+[
+  {
+    "Institute": "Institute Of Management Sciences",
+    "City": "Peshawar",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 155700,
+    "Deadline": "03-08-2023",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Greenwich University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 132110,
+    "Deadline": "18-07-2019",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Beaconhouse National University",
+    "City": "Lahore",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 169050,
+    "Deadline": "22-08-2025",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Lahore School Of Economics",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 341000,
+    "Deadline": "28-06-2025",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 133600,
+    "Deadline": "31-01-2026",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "City University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-02-2023",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Bahria University ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 98175,
+    "Deadline": "17-11-2025",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Shaheed Zulfikar Ali Bhutto Institute Of Science & Technology [hyderabad]",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 149600,
+    "Deadline": "30-12-2025",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 170280,
+    "Deadline": "19-12-2025",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "The University Of Lahore, Sub Campus",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-02-2025",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Islamabad Model College For Boys Sihala",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "29-08-2023",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Islamabad Model College For Boys, F-10/4",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "29-08-2023",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Islamabad Model College For Boys, H-9",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "29-08-2023",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Islamabad Model College For Girls Humak",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "29-08-2023",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Edison College",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-08-2017",
+    "Subject": "Social Sciences"
+  },
+  {
+    "Institute": "Brains Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-09-2022",
+    "Subject": "Social Sciences"
+  }
+]

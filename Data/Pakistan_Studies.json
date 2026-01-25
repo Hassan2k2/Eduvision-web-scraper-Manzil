@@ -1,0 +1,524 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27500,
+    "Deadline": "26-08-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 16400,
+    "Deadline": "20-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "The University Of Buner",
+    "City": "Buner",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21300,
+    "Deadline": "04-07-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40000,
+    "Deadline": "09-01-2026",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Fata University",
+    "City": "Darra Adam Khail",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 22000,
+    "Deadline": "02-10-2024",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24300,
+    "Deadline": "12-01-2026",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 18648,
+    "Deadline": "26-01-2026",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 16060,
+    "Deadline": "10-02-2026",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 50400,
+    "Deadline": "31-12-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48610,
+    "Deadline": "09-12-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54565,
+    "Deadline": "29-07-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15000,
+    "Deadline": "07-11-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Shah Abdul Latif University",
+    "City": "Khair Pur",
+    "Degree": "CERT",
+    "Duration": "4 Years",
+    "Fee": 14000,
+    "Deadline": "22-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24100,
+    "Deadline": "15-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46790,
+    "Deadline": "25-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Education",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20214,
+    "Deadline": "02-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Loralai",
+    "City": "Loralai",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 11300,
+    "Deadline": "12-08-2024",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "18-08-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20150,
+    "Deadline": "02-01-2026",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "The Women University",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24250,
+    "Deadline": "07-01-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Islamia College University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62000,
+    "Deadline": "16-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29513,
+    "Deadline": "28-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 71000,
+    "Deadline": "12-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Sardar Bahadur Khan Women University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 6760,
+    "Deadline": "15-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "11-08-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35250,
+    "Deadline": "20-06-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2022",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "15-12-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Aror University Of Art, Architecture, Design And Heritage",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "14-01-2026",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Women University Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 42460,
+    "Deadline": "12-09-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "University Of Swat",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 19730,
+    "Deadline": "12-10-2023",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Sheringal",
+    "City": "Upper Dir",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30010,
+    "Deadline": "10-10-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Imperial College Of Business Studies",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-08-2023",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 93750,
+    "Deadline": "18-05-2024",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Ahmadpur East Campus",
+    "City": "Ahmadpur East",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2024",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur[sub Campus]",
+    "City": "Bahawal Nagar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts  Science & Technology, Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20600,
+    "Deadline": "29-11-2024",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Liaqatpur Campus",
+    "City": "Liaqatpur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "National University Of Modern Language ( Multan Campus )",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "The Islamic University Of Bahawalpur[rahimyar Khan Campus]",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Gomal University, Tank Campus",
+    "City": "Tank",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2013",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2018",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Government Islamia Post Graduate College For Women [cooper Road]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2023",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-08-2015",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Government Superior Science College",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2016",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Government Degree College",
+    "City": "Timergara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-10-2021",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Royal Gorup Of Colleges",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2020",
+    "Subject": "Pakistan Studies"
+  },
+  {
+    "Institute": "Marshal Degree College For Women",
+    "City": "Wah",
+    "Degree": "BS",
+    "Duration": "4 u",
+    "Fee": 0,
+    "Deadline": "14-09-2011",
+    "Subject": "Pakistan Studies"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Aga Khan University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 978500,
+    "Deadline": "30-09-2024",
+    "Subject": "Asian Studies"
+  },
+  {
+    "Institute": "Aga Khan University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2024",
+    "Subject": "Asian Studies"
+  }
+]

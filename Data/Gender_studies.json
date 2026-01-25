@@ -1,0 +1,110 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54565,
+    "Deadline": "29-07-2025",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "University Of Jhang",
+    "City": "Jhang",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2023",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29940,
+    "Deadline": "25-09-2025",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27150,
+    "Deadline": "02-01-2026",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 68400,
+    "Deadline": "23-09-2025",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 124750,
+    "Deadline": "31-07-2024",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "Government Fatima Jinnah College For Women",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2020",
+    "Subject": "Gender Studies"
+  },
+  {
+    "Institute": "University Of Home Economics",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Gender Studies"
+  }
+]

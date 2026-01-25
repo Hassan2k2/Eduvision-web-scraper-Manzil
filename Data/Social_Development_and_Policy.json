@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "Aga Khan University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 978500,
+    "Deadline": "30-09-2024",
+    "Subject": "Social Development Policy"
+  },
+  {
+    "Institute": "Habib University",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 1106500,
+    "Deadline": "31-01-2023",
+    "Subject": "Social Development Policy"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 285500,
+    "Deadline": "26-08-2024",
+    "Subject": "Social Development Policy"
+  },
+  {
+    "Institute": "Aga Khan University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-12-2024",
+    "Subject": "Social Development Policy"
+  }
+]

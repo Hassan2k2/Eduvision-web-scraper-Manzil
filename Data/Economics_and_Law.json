@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Institute Of Business Management",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155800,
+    "Deadline": "28-07-2022",
+    "Subject": "Economics Law"
+  },
+  {
+    "Institute": "Superior Group Of Colleges, Ravi Campus Shahdara",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2016",
+    "Subject": "Economics Law"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Peace Conflict Resolution"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Peace Conflict Resolution"
+  },
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33400,
+    "Deadline": "03-08-2023",
+    "Subject": "Peace Conflict Resolution"
+  }
+]

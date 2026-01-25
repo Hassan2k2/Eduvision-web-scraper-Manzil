@@ -1,0 +1,974 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 27500,
+    "Deadline": "26-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Women University Azad Jammu & Kashmir",
+    "City": "Bagh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 36260,
+    "Deadline": "30-09-2024",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Kalam Bibi International Women Institute",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 16400,
+    "Deadline": "20-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Thal University",
+    "City": "Bhakkar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "10-01-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Malakand",
+    "City": "Chakdara",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 14000,
+    "Deadline": "31-07-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Bacha Khan University",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32950,
+    "Deadline": "22-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Chitral",
+    "City": "Chitral",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2023",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Bahauddin Zakria University,multan[d.g.khan Campus]",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2015",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21300,
+    "Deadline": "04-07-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Fata University",
+    "City": "Darra Adam Khail",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 22000,
+    "Deadline": "16-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24300,
+    "Deadline": "24-06-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30200,
+    "Deadline": "31-07-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33400,
+    "Deadline": "10-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 66590,
+    "Deadline": "15-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 13750,
+    "Deadline": "10-02-2026",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 50400,
+    "Deadline": "31-12-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54565,
+    "Deadline": "29-07-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Jhang",
+    "City": "Jhang",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Sindh Madressatul Islam University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 36500,
+    "Deadline": "01-12-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 16500,
+    "Deadline": "28-11-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Shah Abdul Latif University",
+    "City": "Khair Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 14000,
+    "Deadline": "22-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24100,
+    "Deadline": "15-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "The University Of Management Sciences & Information Technology",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-09-2016",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-10-2021",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 48000,
+    "Deadline": "08-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 49290,
+    "Deadline": "25-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32940,
+    "Deadline": "25-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Virtual University Of Pakistan",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21800,
+    "Deadline": "30-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Lasbela University Of Agriculture, Water And Marine Sciences, Uthal",
+    "City": "Lasbela",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 16000,
+    "Deadline": "20-10-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Layyah",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 28460,
+    "Deadline": "17-07-2023",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "18-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2024",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20150,
+    "Deadline": "02-01-2026",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Agriculture",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25200,
+    "Deadline": "29-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "The Women University",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24250,
+    "Deadline": "07-01-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Kohsar University",
+    "City": "Murree",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-02-2026",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Islamia College University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62000,
+    "Deadline": "16-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "The University Of Agriculture",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 38000,
+    "Deadline": "15-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 71000,
+    "Deadline": "23-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 39410,
+    "Deadline": "26-01-2026",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Sardar Bahadur Khan Women University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 6760,
+    "Deadline": "15-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "11-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41800,
+    "Deadline": "20-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 45650,
+    "Deadline": "08-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Rawalpindi Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33065,
+    "Deadline": "03-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "15-12-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21000,
+    "Deadline": "22-01-2026",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "The University Of Veterinary & Animal Sciences",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 18000,
+    "Deadline": "30-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Swat",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 19730,
+    "Deadline": "12-10-2023",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Turbat",
+    "City": "Turbat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 18000,
+    "Deadline": "21-10-2024",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Sheringal",
+    "City": "Upper Dir",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30010,
+    "Deadline": "10-10-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Chakwal",
+    "City": "Chakwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Gift University",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 83800,
+    "Deadline": "01-02-2026",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 120600,
+    "Deadline": "12-02-2026",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Forman Christian College",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 358200,
+    "Deadline": "30-11-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 140000,
+    "Deadline": "04-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 93750,
+    "Deadline": "18-05-2024",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 124750,
+    "Deadline": "31-07-2024",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "City University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "24-02-2023",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "National University Of Medical Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 180000,
+    "Deadline": "05-01-2024",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Wah",
+    "City": "Wah Cantt",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "20-09-2023",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Science And Technology, Women Campus",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32800,
+    "Deadline": "10-09-2021",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Sargodha ( Bhakkar Campus )",
+    "City": "Bhakkar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29300,
+    "Deadline": "03-11-2021",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Agriculture Faisalabad, Sub Campu",
+    "City": "Burewala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Karakuram International University, Diamer Campus",
+    "City": "Chilas",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2022",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government College University Faisalabad, Chiniot Campus",
+    "City": "Chiniot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-06-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Abdulwali Khan University ( Chitral Campus )",
+    "City": "Chitral",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2016",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Agriculture Faisalabad[sub Campus]",
+    "City": "Depal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Gujrat (lahore Campus)",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2018",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government College University Faisalabad (layyah Campus)",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University (sub Campus Lodhran )",
+    "City": "Lodhran",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20150,
+    "Deadline": "02-01-2026",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Sargodha ( Mandi Baha-ud-din Campus )",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2016",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University Peshawar, Sub Campus",
+    "City": "Swabi",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2013",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics ( Bahwal Pur Campus )",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 50000,
+    "Deadline": "18-10-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics ( Multan Campus )",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Management And Technology, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2019",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government Postgraduate College ( Mandian)",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government Post Graduate College [samanabad]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2023",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Uaf Community Collge, Jhang Road",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Jhang",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Apwa Degree College For Women[jail Road]",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2024",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government College Of Science[wahdat Road]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-09-2024",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Home Economics",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government College [quet]",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-04-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Government Girls College",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-04-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Precedent Public School &  Postgraduate Girls College",
+    "City": "Haripur",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2023",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Alta Vista College",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "18-06-2011",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "P S E College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2019",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Islamia College Of Commerce",
+    "City": "Toba Tek Singh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2017",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "South Punjab Institute Of Science & Technology",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2017",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Gulab Devi Post Graduate Medical Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Abdul Wali Khan University [palosa Campus]",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41794,
+    "Deadline": "26-08-2011",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "University Of Balochistan ( Killa Saifullah Campus )",
+    "City": "Killa Saifullah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "11-08-2025",
+    "Subject": "Sociology"
+  },
+  {
+    "Institute": "Abdulwali Khan University ( Timergara Campus )",
+    "City": "Timergara",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "18-08-2025",
+    "Subject": "Sociology"
+  }
+]

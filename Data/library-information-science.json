@@ -1,0 +1,164 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2024",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 13750,
+    "Deadline": "10-02-2026",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BLS",
+    "Duration": "2 Years",
+    "Fee": 15000,
+    "Deadline": "28-11-2025",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "Khushal Khan Khattak University",
+    "City": "Karak",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 34000,
+    "Deadline": "19-01-2026",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27150,
+    "Deadline": "15-09-2025",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 78400,
+    "Deadline": "23-09-2025",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "11-08-2025",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "12-07-2024",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "18-05-2024",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "Mohi-ud-din Islamic University",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-02-2024",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 18500,
+    "Deadline": "05-12-2025",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "Frontier Institute Of Medical Sciences [abbottabad]",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-04-2025",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "Comwave Institute Of Information Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-11-2023",
+    "Subject": "Library Information Science"
+  },
+  {
+    "Institute": "National Textile Institute",
+    "City": "Islamabad",
+    "Degree": "BLS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-10-2018",
+    "Subject": "Library Information Science"
+  }
+]

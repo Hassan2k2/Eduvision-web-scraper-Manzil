@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "The Women University",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24250,
+    "Deadline": "07-01-2025",
+    "Subject": "Politics International Relations"
+  },
+  {
+    "Institute": "The University Of Lahore, Sub Campus",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-02-2025",
+    "Subject": "Politics International Relations"
+  },
+  {
+    "Institute": "The Millennium University College",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2021",
+    "Subject": "Politics International Relations"
+  }
+]

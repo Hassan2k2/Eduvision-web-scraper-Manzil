@@ -1,0 +1,434 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 27500,
+    "Deadline": "26-08-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43015,
+    "Deadline": "30-06-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21300,
+    "Deadline": "04-07-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24300,
+    "Deadline": "12-01-2026",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 66590,
+    "Deadline": "15-08-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 18648,
+    "Deadline": "26-01-2026",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 13750,
+    "Deadline": "10-02-2026",
+    "Subject": "History"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 50400,
+    "Deadline": "31-12-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48610,
+    "Deadline": "12-12-2022",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54565,
+    "Deadline": "29-07-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 15000,
+    "Deadline": "28-11-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 48000,
+    "Deadline": "24-09-2023",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46790,
+    "Deadline": "25-09-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Education",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20214,
+    "Deadline": "02-09-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29940,
+    "Deadline": "25-09-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Mianwali",
+    "City": "Mianwali",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2022",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20150,
+    "Deadline": "15-09-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "The Women University",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24250,
+    "Deadline": "07-01-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29513,
+    "Deadline": "28-09-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 71000,
+    "Deadline": "23-09-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "11-08-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "15-12-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Aror University Of Art, Architecture, Design And Heritage",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54000,
+    "Deadline": "14-01-2026",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Forman Christian College",
+    "City": "Lahore",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 358200,
+    "Deadline": "30-11-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Lahore University Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 680400,
+    "Deadline": "10-03-2026",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 93750,
+    "Deadline": "31-10-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government College University Lahore, Kala Shah Kaku Campus",
+    "City": "Kala Shah Kaku",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-12-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "University Of Gujrat (lahore Campus)",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2018",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University Peshawar, Sub Campus",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2013",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2018",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government Post Graduate College [samanabad]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2023",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Islamabad College For Boys, G-6/3",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2024",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Jhang",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Apwa Degree College For Women[jail Road]",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2024",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government College [baghbanpura]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-11-2022",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government Islamia College [civil Lines]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2023",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government College For Women [katchery]",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government College [quet]",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-04-2025",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government Postgraduate College For Women[satellite Town]",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government Ambala Muslim College",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government Post Graduate College For Women [chandni Chowk]",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-09-2015",
+    "Subject": "History"
+  },
+  {
+    "Institute": "Government Degree College",
+    "City": "Timergara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-10-2021",
+    "Subject": "History"
+  }
+]
