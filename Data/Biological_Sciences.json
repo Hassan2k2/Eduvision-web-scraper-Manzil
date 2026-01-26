@@ -1,0 +1,83 @@
+[
+  {
+    "Institute": "Cholistan University Of  Veterinary & Animal Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 37500,
+    "Deadline": "15-08-2024",
+    "Subject": "Biological Sciences"
+  },
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41900,
+    "Deadline": "03-08-2023",
+    "Subject": "Biological Sciences"
+  },
+  {
+    "Institute": "University Of Veterinary And Animal Sciences",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 45500,
+    "Deadline": "12-09-2025",
+    "Subject": "Biological Sciences"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "18-08-2025",
+    "Subject": "Biological Sciences"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Biological Sciences"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-01-2025",
+    "Subject": "Biological Sciences"
+  },
+  {
+    "Institute": "Forman Christian College",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 358200,
+    "Deadline": "30-11-2025",
+    "Subject": "Biological Sciences"
+  },
+  {
+    "Institute": "College Of Veterinary And Animal Sciences",
+    "City": "Jhang",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 22750,
+    "Deadline": "12-09-2025",
+    "Subject": "Biological Sciences"
+  },
+  {
+    "Institute": "University Of Veterinary And Animal Sciences [ Ravi Campus]",
+    "City": "Pattoki",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 22750,
+    "Deadline": "12-09-2025",
+    "Subject": "Biological Sciences"
+  }
+]

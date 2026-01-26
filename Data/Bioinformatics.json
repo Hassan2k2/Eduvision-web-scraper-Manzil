@@ -1,0 +1,353 @@
+[
+  {
+    "Institute": "Women University Azad Jammu & Kashmir",
+    "City": "Bagh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 36260,
+    "Deadline": "01-09-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Cholistan University Of  Veterinary & Animal Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 37500,
+    "Deadline": "15-08-2024",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "University Of Malakand",
+    "City": "Chakdara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-07-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 28200,
+    "Deadline": "24-06-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 83600,
+    "Deadline": "28-07-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Air University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Comsats University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "17-12-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 89685,
+    "Deadline": "31-12-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54565,
+    "Deadline": "29-07-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Khushal Khan Khattak University",
+    "City": "Karak",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 34000,
+    "Deadline": "19-01-2026",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Virtual University Of Pakistan",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21800,
+    "Deadline": "30-09-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Baba Guru Nanak University",
+    "City": "Nankana Sahib",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30150,
+    "Deadline": "19-09-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "CERT",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29513,
+    "Deadline": "28-09-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "The University Of Agriculture",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33000,
+    "Deadline": "15-08-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "05-01-2026",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-07-2023",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Al-khair University",
+    "City": "Bhimber",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-01-2013",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Baqai Medical University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 67300,
+    "Deadline": "13-10-2023",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Muhammad Ali Jinnah University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 153000,
+    "Deadline": "22-07-2024",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 167000,
+    "Deadline": "31-01-2026",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Sahiwal Campus )",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "16-01-2026",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University Peshawar, Sub Campus",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2013",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "18-10-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Government Postgraduate College ( Mandian)",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Royal Gorup Of Colleges",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Baqai Institute Of Information Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 67300,
+    "Deadline": "14-02-2020",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Central Park College Of Allied Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2019",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Federal Institute Of Health Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2017",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Gulab Devi Post Graduate Medical Institute",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Federal Institute Of Health Sciences",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2017",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "Fedral Institute Of Health Sciences",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-10-2017",
+    "Subject": "Bioinformatics"
+  },
+  {
+    "Institute": "The Limit Institution Of Health Sciences",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-11-2016",
+    "Subject": "Bioinformatics"
+  }
+]

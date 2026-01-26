@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Plant Pathology"
+  },
+  {
+    "Institute": "The University Of Larkano",
+    "City": "Larkana",
+    "Degree": "BSC (AGRI.) HON",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-06-2025",
+    "Subject": "Plant Pathology"
+  },
+  {
+    "Institute": "Sindh Agriculture University",
+    "City": "Tando Jam",
+    "Degree": "BSC (AGRI.) HON",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "30-09-2025",
+    "Subject": "Plant Pathology"
+  }
+]

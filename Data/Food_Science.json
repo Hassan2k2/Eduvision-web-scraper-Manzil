@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "12-11-2022",
+    "Subject": "Food Science"
+  },
+  {
+    "Institute": "Comand College",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2019",
+    "Subject": "Food Science"
+  },
+  {
+    "Institute": "University Of Sargodha ( Comand Campus Sahiwal )",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Food Science"
+  }
+]

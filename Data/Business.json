@@ -1,0 +1,56 @@
+[
+  {
+    "Institute": "University Of Turbat",
+    "City": "Turbat",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-10-2024",
+    "Subject": "Business"
+  },
+  {
+    "Institute": "Forman Christian College",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 536700,
+    "Deadline": "30-11-2025",
+    "Subject": "Business"
+  },
+  {
+    "Institute": "Institute Of Southern Punjab",
+    "City": "Multan",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2024",
+    "Subject": "Business"
+  },
+  {
+    "Institute": "Government Degree College For Women [dhoke Ratta]",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business"
+  },
+  {
+    "Institute": "Alta Vista College",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "18-06-2011",
+    "Subject": "Business"
+  },
+  {
+    "Institute": "Emaan Institute Of Management & Sciences",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 96000,
+    "Deadline": "20-07-2024",
+    "Subject": "Business"
+  }
+]

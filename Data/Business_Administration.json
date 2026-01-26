@@ -1,0 +1,5951 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 27500,
+    "Deadline": "26-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Women University Azad Jammu & Kashmir",
+    "City": "Bagh",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 36260,
+    "Deadline": "01-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Cholistan University Of  Veterinary & Animal Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 46500,
+    "Deadline": "15-08-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Cholistan University Of  Veterinary & Animal Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 46500,
+    "Deadline": "15-08-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Government Sadiq College Women University",
+    "City": "Bahawal Pur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 27540,
+    "Deadline": "28-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 48115,
+    "Deadline": "30-06-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 16400,
+    "Deadline": "20-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Thal University",
+    "City": "Bhakkar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "10-01-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Buner",
+    "City": "Buner",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Malakand",
+    "City": "Chakdara",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Bacha Khan University",
+    "City": "Charsadda",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 37000,
+    "Deadline": "22-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Bahauddin Zakria University,multan[d.g.khan Campus]",
+    "City": "D.g.khan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 23120,
+    "Deadline": "31-01-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 21300,
+    "Deadline": "04-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Mir Chakar Khan Rind University Of Technology",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 46600,
+    "Deadline": "09-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Fata University",
+    "City": "Darra Adam Khail",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 22000,
+    "Deadline": "16-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 39300,
+    "Deadline": "12-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 39300,
+    "Deadline": "12-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 34000,
+    "Deadline": "31-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National Textile University",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "31-07-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 83600,
+    "Deadline": "28-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Education [ Faisalabad Campus ]",
+    "City": "Faisalabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 22622,
+    "Deadline": "02-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 35600,
+    "Deadline": "10-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 68010,
+    "Deadline": "15-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Gwadar",
+    "City": "Gwadar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Sufism  And Modern Sciences",
+    "City": "Hala",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 23000,
+    "Deadline": "31-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 42044,
+    "Deadline": "26-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Hazara University [havellian Campus]",
+    "City": "Havelian",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College University Hyderabad",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 11000,
+    "Deadline": "15-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 16060,
+    "Deadline": "10-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Bahria University, E-8 Campus",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 143550,
+    "Deadline": "18-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comsats University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "17-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts Science & Technology Islamabad",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 75000,
+    "Deadline": "30-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 101700,
+    "Deadline": "31-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 101700,
+    "Deadline": "31-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National Skills University",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 40600,
+    "Deadline": "13-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 97500,
+    "Deadline": "09-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Islamabad",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 97500,
+    "Deadline": "09-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Science & Technology",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 253080,
+    "Deadline": "25-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 56355,
+    "Deadline": "29-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 56355,
+    "Deadline": "29-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Mehran University Of Engineering & Technology",
+    "City": "Jamshoro",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 38600,
+    "Deadline": "10-05-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 15950,
+    "Deadline": "14-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Jhang",
+    "City": "Jhang",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Benazir Bhutto Shaheed University, Lyari",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4",
+    "Fee": 28100,
+    "Deadline": "17-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Dow University Of Health Sciences",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 90000,
+    "Deadline": "19-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Business Administration [khi]",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 237500,
+    "Deadline": "11-06-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Jinnah Sindh Medical University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto, University Of Law, Clifton",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 40000,
+    "Deadline": "12-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto, University Of Law, Clifton",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 40000,
+    "Deadline": "12-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sindh Madressatul Islam University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 53500,
+    "Deadline": "01-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sindh Madressatul Islam University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 66000,
+    "Deadline": "01-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Uit University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 55500,
+    "Deadline": "28-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Khushal Khan Khattak University",
+    "City": "Karak",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 34000,
+    "Deadline": "19-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shah Abdul Latif University",
+    "City": "Khair Pur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "22-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 56800,
+    "Deadline": "15-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Management Sciences & Information Technology",
+    "City": "Kotli",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Kinnaird College For Women",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 116100,
+    "Deadline": "04-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 46790,
+    "Deadline": "25-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Education",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 22622,
+    "Deadline": "09-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "09-12-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 47540,
+    "Deadline": "25-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Veterinary And Animal Sciences",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 45500,
+    "Deadline": "12-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Virtual University Of Pakistan",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 21800,
+    "Deadline": "30-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Virtual University Of Pakistan",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21800,
+    "Deadline": "30-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Lakki Marwat",
+    "City": "Lakki Marwat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 14600,
+    "Deadline": "25-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Larkano",
+    "City": "Larkana",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lasbela University Of Agriculture, Water And Marine Sciences, Uthal",
+    "City": "Lasbela",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 23500,
+    "Deadline": "20-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Layyah",
+    "City": "Layyah",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 23120,
+    "Deadline": "17-07-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Loralai",
+    "City": "Loralai",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 11300,
+    "Deadline": "18-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Punjab University Of Technology  [ Rasul]",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 55000,
+    "Deadline": "18-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Women University Mardan",
+    "City": "Mardan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 37400,
+    "Deadline": "28-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Mianwali",
+    "City": "Mianwali",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 53300,
+    "Deadline": "15-10-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Ibn-e-sina University",
+    "City": "Mir Pur Khas",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Mirpur Khas",
+    "City": "Mir Pur Khas",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 27150,
+    "Deadline": "18-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Agriculture",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Engineering And Technology",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 35300,
+    "Deadline": "12-02-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Technology",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 50170,
+    "Deadline": "01-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Women University",
+    "City": "Multan",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 24510,
+    "Deadline": "23-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Women University",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 24150,
+    "Deadline": "23-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Education [ Multan Campus ]",
+    "City": "Multan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 22622,
+    "Deadline": "02-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Kohsar University",
+    "City": "Murree",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Baba Guru Nanak University",
+    "City": "Nankana Sahib",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29000,
+    "Deadline": "19-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Narowal",
+    "City": "Narowal",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "19-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Nawab Shah",
+    "City": "Nawab Shah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 18000,
+    "Deadline": "06-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 52000,
+    "Deadline": "18-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 155700,
+    "Deadline": "03-08-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Islamia College University",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 62000,
+    "Deadline": "16-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 29513,
+    "Deadline": "28-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Agriculture",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 38000,
+    "Deadline": "09-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 84400,
+    "Deadline": "23-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 48415,
+    "Deadline": "20-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sardar Bahadur Khan Women University",
+    "City": "Quetta",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 10740,
+    "Deadline": "15-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 33000,
+    "Deadline": "05-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "05-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 48250,
+    "Deadline": "08-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Rawalpindi Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33065,
+    "Deadline": "03-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sahiwal",
+    "City": "Sahiwal",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 31440,
+    "Deadline": "31-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Baltistan",
+    "City": "Sakardu",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 34000,
+    "Deadline": "10-11-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto  International University Of Veterinary And Animal Sciences",
+    "City": "Sakrand",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 9300,
+    "Deadline": "19-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 31000,
+    "Deadline": "15-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "22-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 129000,
+    "Deadline": "01-11-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Mir Chakar Khan Rind University",
+    "City": "Sibi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sukkur Iba University",
+    "City": "Sukkur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "07-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Begum Nusrat Bhutto Women University",
+    "City": "Sukkur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 43000,
+    "Deadline": "04-06-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Women University Swabi",
+    "City": "Swabi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 45760,
+    "Deadline": "12-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Veterinary & Animal Sciences",
+    "City": "Swat",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 18000,
+    "Deadline": "30-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Swat",
+    "City": "Swat",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 24870,
+    "Deadline": "12-10-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Modern Sciences",
+    "City": "Tando Muhammad Khan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Turbat",
+    "City": "Turbat",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 18000,
+    "Deadline": "21-10-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Al-khair University",
+    "City": "Bhimber",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-02-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Chakwal",
+    "City": "Chakwal",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Qurtuba University Of Science & Technology [di Khan]",
+    "City": "D.i. Khan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Preston University [fdb]",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 22500,
+    "Deadline": "07-10-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 198000,
+    "Deadline": "07-10-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Gift University",
+    "City": "Gujranwala",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 157600,
+    "Deadline": "01-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Preston University [guj]",
+    "City": "Gujranwala",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Chenab",
+    "City": "Gujrat",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Isra University/hospital",
+    "City": "Hyderabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "13-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of East",
+    "City": "Hyderabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Al-karam International University",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-02-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Al-khair University [ajk]",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Capital University Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 250000,
+    "Deadline": "02-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Capital University Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Ibadat International University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 93900,
+    "Deadline": "10-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Muslim Youth University",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 130500,
+    "Deadline": "30-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sir Syed Case Institute Of Technology",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "13-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sir Syed Case Institute Of Technology",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 124800,
+    "Deadline": "13-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Baqai Medical University",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 38000,
+    "Deadline": "18-10-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Dadabhoy Institute Of Higher Education",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 124165,
+    "Deadline": "31-03-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Dha Suffa University(main Campus)",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 188600,
+    "Deadline": "30-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Greenwich University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 132110,
+    "Deadline": "14-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 140360,
+    "Deadline": "15-03-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Ilma University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 137150,
+    "Deadline": "10-09-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Business Management",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 155800,
+    "Deadline": "28-06-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Iqra University [kch]",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 189000,
+    "Deadline": "14-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Jinnah University For Women",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 67000,
+    "Deadline": "15-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Karachi Institute Of Economics & Technology",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 93450,
+    "Deadline": "06-01-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Kasb [ Khadim Ali Shah Bukhari ]  Institute Of Technology",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 125150,
+    "Deadline": "01-10-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Metropolitan University Karachi",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Muhammad Ali Jinnah University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 153000,
+    "Deadline": "22-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nazeer Hussain University",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 108800,
+    "Deadline": "17-12-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Newports Institute Of Communications And Economics",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 145750,
+    "Deadline": "14-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Preston University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 79600,
+    "Deadline": "19-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Salim Habib University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 218000,
+    "Deadline": "10-01-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto City University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 288000,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Dewan University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 224000,
+    "Deadline": "15-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science & Technology",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 151200,
+    "Deadline": "12-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sindh Institute Of Management And Technology",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-11-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sir Syed University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "2/4 Years",
+    "Fee": 127000,
+    "Deadline": "19-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sohail University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Zia-ud-din Medical University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 116000,
+    "Deadline": "26-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Preston University [kht]",
+    "City": "Kohat",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 111100,
+    "Deadline": "30-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Beaconhouse National University",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 169050,
+    "Deadline": "30-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Green International University",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Hajvery University",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 180000,
+    "Deadline": "26-10-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Hajvery University",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 108000,
+    "Deadline": "26-10-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Imperial College Of Business Studies",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-08-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Imperial College Of Business Studies",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 176040,
+    "Deadline": "21-08-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lahore Garrison University",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 174635,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 170000,
+    "Deadline": "04-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lahore School Of Economics",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 341000,
+    "Deadline": "28-06-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 151250,
+    "Deadline": "31-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics, Lahore",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 144000,
+    "Deadline": "26-02-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nur International University",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 155278,
+    "Deadline": "18-01-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pimsat Institute Of Higher Education [lhr]",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Qarshi University (lhr)",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 126000,
+    "Deadline": "12-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Rashid Latif Khan University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 237800,
+    "Deadline": "31-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Superior University",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 216000,
+    "Deadline": "31-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 289750,
+    "Deadline": "10-10-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 399750,
+    "Deadline": "31-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of South Asia",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 188000,
+    "Deadline": "05-11-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Mohi-ud-din Islamic University",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 56000,
+    "Deadline": "15-02-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Southern Punjab",
+    "City": "Multan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 101250,
+    "Deadline": "31-01-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Preston University [mut]",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Qarshi University",
+    "City": "Muridke",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Northern University",
+    "City": "Nowshera",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 30250,
+    "Deadline": "16-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abasyn University",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 99000,
+    "Deadline": "01-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Cecos University Of Information Tech. & Emerging Sciences",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 140000,
+    "Deadline": "28-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "City University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "10-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Iqra National University",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 79798,
+    "Deadline": "07-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Preston University [pesh]",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "19-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 36500,
+    "Deadline": "05-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sarhad University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 36500,
+    "Deadline": "05-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Al- Hamd Islamic University",
+    "City": "Quetta",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Preston University [qut]",
+    "City": "Quetta",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Rawalpindi",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 88750,
+    "Deadline": "14-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Shaikh Ayaz University",
+    "City": "Shikar Pur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 38500,
+    "Deadline": "10-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Hitec University",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "07-02-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Wah",
+    "City": "Wah Cantt",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "20-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Abbotabad Campus )",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "29-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Ahmadpur East Campus",
+    "City": "Ahmadpur East",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 48115,
+    "Deadline": "30-06-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Attock Campus )",
+    "City": "Attock",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "16-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sindh Univeristy ( Laar Campus, Badin )",
+    "City": "Badin",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 20500,
+    "Deadline": "14-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur[sub Campus]",
+    "City": "Bahawal Nagar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 48115,
+    "Deadline": "30-06-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Hazara University ( Batagram Campus )",
+    "City": "Batagram",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "28-01-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sargodha ( Bhakkar Campus )",
+    "City": "Bhakkar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 43140,
+    "Deadline": "03-11-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Agriculture Faisalabad, Sub Campu",
+    "City": "Burewala",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 83600,
+    "Deadline": "28-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Karakuram International University, Diamer Campus",
+    "City": "Chilas",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College University Faisalabad, Chiniot Campus",
+    "City": "Chiniot",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-06-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abdulwali Khan University ( Chitral Campus )",
+    "City": "Chitral",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sindh ( Muhtarma Benazir Bhuttu Shaheed Campus, Dadu )",
+    "City": "Dadu",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 14500,
+    "Deadline": "14-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lasbela University Of Agriculture, Water And Marine Sciences ( Dera Murad Jamali Campus)",
+    "City": "Dera Murad Jamali",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-10-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comsats Institute Of Information Technology (virtual Campus)",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-09-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Faisalabad Campus )",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 97160,
+    "Deadline": "09-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University College Of Education",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-07-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Engineering And Technology[fiasalabad Campus]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "09-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sargodha ( Women Campus Faisalabad )",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-10-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sargodha (lyallpur Campus)",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shah Abdul Latif Bhitai University (sub Campus Ghotki)",
+    "City": "Ghotki",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Punjab, Pothohar Campus",
+    "City": "Gujar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Rachna College Of Engineering And Technology",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "09-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sargodha (gujranwala Campus)",
+    "City": "Gujranwala",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of The Punjab [ Gujranwala Campus ]",
+    "City": "Gujranwala",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 26950,
+    "Deadline": "25-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Turbat (sub-campus Gwadar)",
+    "City": "Gwadar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 18000,
+    "Deadline": "25-08-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College University Faisalabad, Hafizabad Capus",
+    "City": "Hafizabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-06-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Kohat University Of Science And Technology, (sub Campus)",
+    "City": "Hangu",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 56800,
+    "Deadline": "15-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Hyderabad Campus )",
+    "City": "Hyderabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 97500,
+    "Deadline": "09-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sindh, Elsa Kazi Campus",
+    "City": "Hyderabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-03-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Jhang",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 39800,
+    "Deadline": "18-09-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of The Punjab (jhelum Campus)",
+    "City": "Jhelum",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 23150,
+    "Deadline": "25-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Education [ Jauharabad Campus ]",
+    "City": "Joharabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 27230,
+    "Deadline": "02-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Universtiy Of Engineering And Technology (sub Campus)",
+    "City": "Kala Shah Kaku",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "09-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sukkur Iba University, Kandhkot Campus",
+    "City": "Kandh Kot",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Bahria University ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 128700,
+    "Deadline": "17-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts  Science & Technology, Karachi",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 48200,
+    "Deadline": "10-01-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Karachi Campus )",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 97500,
+    "Deadline": "09-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lasbela University Of Agriculture, Water And Marine Sciences ( Wadh Campus )",
+    "City": "Khuzdar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Arid Institute Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Bahria University ( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 143550,
+    "Deadline": "07-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comsats University Islamabad( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "29-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Lahore  Campus )",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 97500,
+    "Deadline": "09-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Gujrat (lahore Campus)",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sargodha ( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College University Faisalabad (layyah Campus)",
+    "City": "Layyah",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College University Faisalabad (layyah Campus)",
+    "City": "Layyah",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Liaqatpur Campus",
+    "City": "Liaqatpur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48115,
+    "Deadline": "30-06-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Gujrat, Mandi Bahauddin  Campus",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sargodha ( Mandi Baha-ud-din Campus )",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Agriculture Peshawar (amir Muhammad Khan Campus)",
+    "City": "Mardan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 64000,
+    "Deadline": "25-11-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sargodha ( Mianwali Campus )",
+    "City": "Mianwali",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 43140,
+    "Deadline": "24-09-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Azad Jammu And Kashmir Campus",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sukkur Iba University ( Mirpur Khas Campus)",
+    "City": "Mir Pur Khas",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sindh ( Mir Pur Khas Campus )",
+    "City": "Mir Pur Khas",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 14500,
+    "Deadline": "04-10-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Air University, Multan Campus",
+    "City": "Multan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 102080,
+    "Deadline": "10-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Language ( Multan Campus )",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 97160,
+    "Deadline": "31-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University College Of Education",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-07-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Balochistan University Of Information Technology, Engineering And Management Sciences, Muslim Bagh Campus",
+    "City": "Muslim Bagh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Engineering & Technology (narowal Campus)",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "09-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Gujrat (narowal Campus",
+    "City": "Narowal",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University Nawabshah, Sub Campus",
+    "City": "Naushero Feroze",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Education",
+    "City": "Okara",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 22000,
+    "Deadline": "21-09-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Makran",
+    "City": "Panjgur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Peshawar Campus )",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 97500,
+    "Deadline": "09-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Languages ( Quetta Campus )",
+    "City": "Quetta",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 97500,
+    "Deadline": "13-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Islamic University Of Bahawalpur[rahimyar Khan Campus]",
+    "City": "Rahim Yar Khan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 48115,
+    "Deadline": "30-06-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Modern Languages, Rawalpindi Campus",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 97500,
+    "Deadline": "09-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Gujrat (rawalpindi Campus)",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-07-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Sahiwal Campus )",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "16-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College University Faisalabad, Sahiwal Campus",
+    "City": "Sahiwal",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College University Faisalabad, Sahiwal Campus",
+    "City": "Sahiwal",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College University Faisalabad, Samundri Campus",
+    "City": "Sammandri",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-06-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Sanghar Campus",
+    "City": "Sanghar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shah Abdul Latif University (sub Campus Shahdad Kot)",
+    "City": "Shahdad Kot",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Swat (sub Campus Shangla)",
+    "City": "Shangla",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 24870,
+    "Deadline": "12-10-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shah Abdul Latif University (sub Campus)",
+    "City": "Shikar Pur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-12-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University Peshawar, Sub Campus",
+    "City": "Swabi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2013",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Agriculture Faisal Abad[toba Tek Singh Campus]",
+    "City": "Toba Tek Singh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Vehari Campus )",
+    "City": "Vehari",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 112200,
+    "Deadline": "16-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Education [ Vehari Campus ]",
+    "City": "Vehari",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 22622,
+    "Deadline": "02-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lasbela University Of Agriculture, Water And Marine Sciences, Wadh Campus",
+    "City": "Wadh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21000,
+    "Deadline": "15-10-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Wah Campus )",
+    "City": "Wah",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "12-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics ( Bahwal Pur Campus )",
+    "City": "Bahawal Pur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Riphah International University, Chakdara Campus",
+    "City": "Chakdara",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Faisalabad Campus )",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 112000,
+    "Deadline": "18-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Lahore ( Chanab Campus)",
+    "City": "Gujrat",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Zulfikar Ali Bhutto Institute Of Science & Technology [hyderabad]",
+    "City": "Hyderabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 149600,
+    "Deadline": "30-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abasyn University (sub Campus)",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Air University, H-11 Campus",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 102080,
+    "Deadline": "23-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Alhamd Islamic University [ibd]",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-08-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Hamdard University - Islamabad Campus",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "15-07-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Iqra University, Chak Shahzad Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 116640,
+    "Deadline": "29-02-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Iqra University, H-9 Campus",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 254240,
+    "Deadline": "10-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Preston University [isb]",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science And Technology",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 180800,
+    "Deadline": "19-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Lahore ( Islamabad Campus )",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 176000,
+    "Deadline": "11-10-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Air University, Aerospace & Aviation Campus Kamra",
+    "City": "Kamra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 102080,
+    "Deadline": "15-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Air University, Karachi Campus",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Isra University [khi]",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 150000,
+    "Deadline": "09-11-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Air University, Kharian Campus",
+    "City": "Kharian",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National University Of Computer And Emerging Sciences ( Lahore )",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 160000,
+    "Deadline": "04-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Preston University [lhr]",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "20-06-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 133600,
+    "Deadline": "25-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Szabist",
+    "City": "Larkana",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 217800,
+    "Deadline": "26-05-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National College Of Business Administration And Economics ( Multan Campus )",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 156000,
+    "Deadline": "19-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Lahore ( Baba Fareed Campus )",
+    "City": "Pak Pattan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-02-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Qurtuba University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 74000,
+    "Deadline": "08-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Iqra University [qta]",
+    "City": "Quetta",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics ( Rahim Yar Khan Campus )",
+    "City": "Rahim Yar Khan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Foundation University Islamabad (sub Campus)",
+    "City": "Rawalpindi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 146480,
+    "Deadline": "08-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The University Of Lahore, Sub Campus",
+    "City": "Sargodha",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-02-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Foundation University, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Management And Technology, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Iqra National Univesity, Swat Campus",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 71502,
+    "Deadline": "30-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science And Technology, Gharo Campus",
+    "City": "Thatta",
+    "Degree": "BBA",
+    "Duration": "2.5 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science And Technology, Gharo Campus",
+    "City": "Thatta",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Post Graduate College [samanabad]",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pak- Austria Fachhuochschule, Institute Of Applied Sciences And Technology",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Islamabad Model Postgraduate College Of Commerce",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Dergee College, M. Sadiq Khan Memon",
+    "City": "Jhando Mari",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Commerce And Economics",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Girls Science College[shah Faisal Colony,5]",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pakistan Shipowners Government College",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "St. Joseph's Government College For Women",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-06-2012",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University College Of Administrative Science",
+    "City": "Kotli",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "24-09-2011",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Fazaia College Of Edcation For Women",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-06-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College For Boys[model Town]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Commerce ( Allama Iqbal Town )",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Commerce ( Allama Iqbal Town )",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-11-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Science[wahdat Road]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College [township]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Dyal Singh College[laxmi Chowk]",
+    "City": "Lahore",
+    "Degree": "CERT",
+    "Duration": "4 Years",
+    "Fee": 3500,
+    "Deadline": "31-10-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Fatima Jinnah College For Women",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Graduate College, Hunza Block, Allama Iqbal Town",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Islamia College Of Commerce",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Islamia College [civil Lines]",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Islamia Post Graduate College For Women [cooper Road]",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government M.a.o College",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-1999",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Post Graduate College For Women [samanabad]",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-10-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Queen Marry College",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Haily College Of Banking And Finance",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-10-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sir Syed College Of Computer Science",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University College Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Home Economics",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Management Sciences",
+    "City": "Mingora",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-08-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Postgraduate Boys College",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-09-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "F.g Degree College For Women",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "Hours",
+    "Fee": 0,
+    "Deadline": "22-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Postgraduate Boys College",
+    "City": "Muzaffarabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2012",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Management Sciences[g.t. Road]",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Girls Postgraduate Commerce College",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Shaheed Alamzeb Girls Commerce College",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "F. G. Girls Degree College, Madrissa Road",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "F.g Boys Degree College",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "F.g Sir Syed Degree College",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Commerce",
+    "City": "Rawalpindi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Postgraduate College For Women[satellite Town]",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2013",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Saint Mary's College",
+    "City": "Rawalpindi",
+    "Degree": "CERT",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Murray College",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15000,
+    "Deadline": "18-08-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government Postgraduate College For Women",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Management Sciences",
+    "City": "Thana",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Army Burn Hall College For Girls",
+    "City": "Abbottabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Muslim Education System",
+    "City": "Abbottabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-10-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Heritage College",
+    "City": "Arif Wala",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-10-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Horizon Degree College, Bhoun Road",
+    "City": "Chakwal",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-02-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Gul-e-fatima Post Graduate College",
+    "City": "D.g.khan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-11-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Iba Community College",
+    "City": "Dadu",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abdul Salam College",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-11-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Ali Fatimah College Of Science & Management",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Ali Fatimah College Of Science & Management",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-09-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Aqsa Institute Of Professional Studies",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-10-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Chenab College Of Advance Studies",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Edison College",
+    "City": "Faisalabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-08-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Informatics Group Of Colleges",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 36000,
+    "Deadline": "07-01-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Kips College, Boys, Jail Road",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Kips College, Girls, Jail Road",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National College Institute Of Textile And Fashion Designing",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-10-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shiblee College Of Commerce & Science",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shiblee College Of Commerce For Women[gulberg Campus]",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shifa College For Women",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-11-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Superior College , Girls",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Superior College , Girls",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Superior College, Boys",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-12-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Superior College, Boys",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "02-12-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Superior College, City Campus, Kotwali Road",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-11-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The City College Of Commerce",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Tips College Of Commerce And Business Administration",
+    "City": "Faisalabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nisa Girls College",
+    "City": "Gujar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-01-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Aspire College",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Christian College Of Business, Art & Technology",
+    "City": "Gujranwala",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Christian College Of Business, Art & Technology",
+    "City": "Gujranwala",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "29-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Concorida Colleges, Gujranwala",
+    "City": "Gujranwala",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Royal Gorup Of Colleges",
+    "City": "Gujranwala",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Saeed Islamic College",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-11-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Faran Group Of Colleges",
+    "City": "Gujrat",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Faran Group Of Colleges",
+    "City": "Gujrat",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Anees Hassan Centre Of Excellence",
+    "City": "Hyderabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "College Of Modern Sciences",
+    "City": "Hyderabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National College Of Arts And Management Sciences",
+    "City": "Hyderabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Punjab College",
+    "City": "Hyderabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Al-khair University College Of Business Administration",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Alta Vista College",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "18-06-2011",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "College Of Professional Studies",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Islamabad College Of Management & Design",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-10-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Newport College Islamabad",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pak National College Of Information Sciences",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Simsit College Of Arts & Sciences, I & T Centre",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-01-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Millennium University College",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-09-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Universal College Islamabad",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Uswa College[sihala]",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Icon College",
+    "City": "Jaranwala",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Al Hamd Academy",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Al-hamd College Of Professional Eduacation",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-02-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Army Public School And College[malir Cantt]",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-11-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Cams College Of Business & Information Technology",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Canadian College Of Science & Technology",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-01-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "College Of Accounting And Management Science",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-08-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "College Of Accounting And Management Sciences For Girls",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-12-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "College Of Banking And Finance",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "College Of Management Sciences",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-12-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Defence Authority College Of Business",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-01-2012",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Ideal Degree College",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-02-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Indus Public College",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-04-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Jauhar Degree College",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Liaquat College Of Management Sciences",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-11-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Millennium Institute Of Technology And Entrepreneurship",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pimsat - Institute Of Higher Education",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-02-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Recknors College",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The American College",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Millennium University College",
+    "City": "Karachi",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-08-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University College",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Concordia Colleges, Kasur",
+    "City": "Kasur",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Concorida Colleges, Boys,  Khudian Khas",
+    "City": "Kasur",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Concorida Colleges, Girls, Khudian Khas",
+    "City": "Kasur",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nisa Girls College [kharian]",
+    "City": "Kharian",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-01-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Advance Life College Of Medical Sciences",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-06-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Al- Bahria Institute",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 39600,
+    "Deadline": "10-10-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Alley Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "12-08-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Amna Inayat Medical & Educational Campus",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-01-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "British Education & Training Systems",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-03-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Cfe College Of Commerce And Science[new Garden Town]",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Concordia Colleges",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Defence Degree College For Women",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Defense Degree College For Women",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Grand Charter College",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-12-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Himayat-e- Islam Khwateen College",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-11-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Informatics Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Ivy College Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Jinnah Islamia College Of Commerce",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Jinnah Memorial College Of Information Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Khaldunia Institute Of Technology And Applied Sciences College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-02-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "King's College",
+    "City": "Lahore",
+    "Degree": "BA [PASS]",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lahore Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-12-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Luminous College",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nisa Girls College [lhr]",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-01-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Noble College Of Science",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pakistan Finance College",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Punjab Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Quaid-e-azam College Of Accountancy",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Red Crescent Scholars College",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Rise Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Scholar's College",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-09-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Scholors College For Women",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-09-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sharif College Of Engineering & Technology",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-12-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Standard College",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Superior Group Of Colleges, Ravi Campus Shahdara",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Talon Institute Of Higher Studies",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-02-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Lahore Institute Of Management & Information Technology",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Laureate Business School",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "3 Months",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Millennium University College",
+    "City": "Lahore",
+    "Degree": "BA [HONS]",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "07-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Royal College",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Faran Group Of Colleges",
+    "City": "Lala Musa",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Faran Group Of Colleges",
+    "City": "Lala Musa",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Ansi Degree College",
+    "City": "Mardan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Defense College For Girls",
+    "City": "Mardan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Namal College",
+    "City": "Mianwali",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-06-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Shah Hamadan College Of Business",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "British University College",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Concordia Colleges",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Jinnah Informetics College",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Legend College",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Rise Group Of Colleges, Boys",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Rise Group Of Colleges, Girls",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Scholars College",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Lahore Institute Of Management & Information Technology [multan]",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The National College",
+    "City": "Multan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-05-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Chand Bagh College",
+    "City": "Muridke",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Muzaffarabad College For Higher Studies",
+    "City": "Muzaffarabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Raees-ul-ahrar College",
+    "City": "Muzaffarabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Concordia College",
+    "City": "Okara",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Lahore Institute Of Management & Information Technology [okara]",
+    "City": "Okara",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Edwardes College",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Khyber College Of Commerce & Management [cantt]",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-09-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lamar Degree College Of It & Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Muslim College Of Commerce And Management",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Muslim Education Complex",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-10-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "P E F University College",
+    "City": "Peshawar",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "20-11-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "P E F University College",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Riphah International College, Peshawar",
+    "City": "Peshawar",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nisa Institute Of Science & Arts",
+    "City": "Quetta",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-09-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Army Public College Of Management & Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-08-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Bilquis College Of Eduacton For Women [chaklala]",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Center Of Advanced Studies In Health & Technology",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Centre For Emerging Sciences, Engineering & Technology",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Citi College",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "College Of Global Technologies",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "28-02-2013",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Garrison Degree College",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-08-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Margalla College Of Management Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-10-2013",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Raees-ul-ahrar College Of Commerce",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-01-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Rawalpind College Of Commerce[saidpur Road]",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Roots College International ( Rawalpindi Cantt)",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Scholars College",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Millennium University College, Rawlpindi",
+    "City": "Rawalpindi",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-08-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Lahore Institute Of Management & Information Technology [sahiwal]",
+    "City": "Sahiwal",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nisa Girls College",
+    "City": "Sialkot",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-01-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comsit Training Institute",
+    "City": "Sukkur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pine Hills Institute Of Business And Informaiton Technology",
+    "City": "Abbottabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Barani Institute Of Sciences",
+    "City": "Burewala",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-09-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "South Punjab Institute Of Science & Technology",
+    "City": "D.g.khan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Fertilizer Research",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-07-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comsats Institute Of Information Technology (virtual Campus)",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 34300,
+    "Deadline": "01-01-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Petroman (institute Of Computer And Management Scinces)",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Commerce  [jallozai]",
+    "City": "Nowshera",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Barani Institute Of Knowledge, Administration & Technology",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-02-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Barani Institute Of Management Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Barani Institute Of Management Sciences",
+    "City": "Rawalpindi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2026",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comwave Institute Of Information Technology [abt]",
+    "City": "Abbottabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-09-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Grafton International Institute",
+    "City": "Abbottabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-07-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Best Institute",
+    "City": "Bannu",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Indus International Institute",
+    "City": "D.g.khan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Fertilizer Research",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Faisalabad Institute Of Textile & Fashio Design",
+    "City": "Faisalabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "International Institute Of Science, Arts And Technology",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comwave Institute Of Information Technology [haripur]",
+    "City": "Haripur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-09-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Modern Sciences And Arts",
+    "City": "Hyderabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Bahria Institute Of Management & Computer Science",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-05-2011",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Beaconhouse Informatics",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Comwave Institute Of Information Technology",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-11-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Froebels Institute Of Information Technology And Management Sciences",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Imperial Institute",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-09-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Imperial Institute Of Information Technology",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2013",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Advance Technology",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Islamabad Business School",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Islamabad Business School",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-10-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Islamabad Institute Of Arts And Applied Sciences",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Jfk Institute Of Technology And Management",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-09-2013",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National Institute Of Arts  An D Management",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2013",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National Institute Of Information Technology",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National Textile Institute",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "09-10-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Prime Institute Of Health Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-12-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Thames Business School",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Thames Business School",
+    "City": "Islamabad",
+    "Degree": "BBA-ITM",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Aawaz Institute Of Media And Management Sciences",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-01-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abacus Institute Of Mangement & Computer Science",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-02-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Adamson Institute Of Business Administration & Technology",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-01-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Asia Pacific Institute Of Information Technology",
+    "City": "Karachi",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Biztek Institute Of Business & Technology",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2012",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Biztek Institute Of Business & Technology",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-02-2012",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Commeces Institute Of Business & Emerging Sciences",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 120800,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Emaan Institute Of Management & Sciences",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 96000,
+    "Deadline": "20-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Management And Bahria College Computer Science",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Karachi Institute Of Technology & Enterpreneurship",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 176000,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Mentor Institute",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-12-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nazar Ali Kalani Institute Of Science And Technology ( Nakist )",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Orasoft Training Institute",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-12-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pakistan Institute Of Professional Sciences",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Palpa Institute Of Aviation And Management Sciences",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-12-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sir Adamjee Institute",
+    "City": "Karachi",
+    "Degree": "B.COM",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-01-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Aeroline Institute Of Aviation Studies",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-04-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Afro-asian Institute",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-08-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Global Institute Lahore",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 126000,
+    "Deadline": "30-10-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute For Art And Culture",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-07-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 81400,
+    "Deadline": "16-05-2012",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of South Asia",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Islah International Institute Of Sciences, Languages & Humanities",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-11-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lahore Institute For Social Sciences",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-11-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Lahore School Of Management",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 72000,
+    "Deadline": "28-11-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pak Indus Institute Of Computer, Management & Technology",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-10-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Punjab Institute Of Contemporary Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Punjab Institute Of Professional Studies",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-03-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Institute Of Business & Finance",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-02-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Institute Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Toppers Institute Of Management & Sciences",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Larkana Institute Of Health & Emerging Sciences",
+    "City": "Larkana",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Mardan Institute Of Science & Technology",
+    "City": "Mardan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Mardan Institute Of Sciences",
+    "City": "Mardan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Muhammad Institute Of Science & Technology",
+    "City": "Mir Pur Khas",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Nazeer Hassain Institute Of Emerging Sciences",
+    "City": "Mir Pur Khas",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Kaims International Institute",
+    "City": "Multan",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Laeeque Rafique Institute Of Medical Sciences & Nursing School",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Pakistan Institute Of Engineering And Technology",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-01-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "The Resource Excellence Institute",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Brains Institute",
+    "City": "Peshawar",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Horizon Institute Of Higher Studies",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-11-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Computer And Management Sciences(icms)",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-10-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Social Policy & Research",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-01-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Ncs Education System",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "P.e.f Post Graduate College",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-10-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Peshawar Business School",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-11-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Peshawar Institute Of Modern Sciences",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "19-10-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Peshawarcity Institute Of Modern Sciences",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Institute Of Computer & Management Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Jinnah Institute Of Informatics, Science & Commerce",
+    "City": "Rawalpindi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sialkot College Of Physical Therapy, Amin Medical Complex",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Hidayat Institute Of Rehabilitation & Emerging Sciences",
+    "City": "Sukkur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-01-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sukkur Institute Of Science And Technology",
+    "City": "Sukkur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Informatics Computer Institute",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "School Of Advance Business And Commerce",
+    "City": "Faisalabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Beaconhouse Business School",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Tabani's School Of Accountancy",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-06-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "School Of Advance Business And Commerce",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Months",
+    "Fee": 0,
+    "Deadline": "23-12-2022",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Times Institute",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "18-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Times Institute",
+    "City": "Multan",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 60000,
+    "Deadline": "18-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Thames Business School",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Thames Business School",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Centre Of Information Technology",
+    "City": "Islamabad",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Infinity Institute Of Technology",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-07-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Social Educational And Peace Organization",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-11-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abd Ul Wali Khan University Mardan ( Buner Campus )",
+    "City": "Buner",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abdul Wali Khan University [palosa Campus]",
+    "City": "Charsadda",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 36470,
+    "Deadline": "26-08-2011",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Balochistan, (sub-campus Kharan)",
+    "City": "Kharan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 33000,
+    "Deadline": "11-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Lahore Campus",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Sindh University ( Larkana Campus )",
+    "City": "Larkana",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 14500,
+    "Deadline": "04-10-2023",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Balochistan, ( Sub-campus Mastung)",
+    "City": "Mastung",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 33000,
+    "Deadline": "11-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sind (naushero Feroz Campus)",
+    "City": "Naushero Feroze",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 14500,
+    "Deadline": "14-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abdulwali Khan University ( Shaheed Rashid Hussain Campus Pabbi )",
+    "City": "Pabbi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 55000,
+    "Deadline": "18-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sargodha ( Comand Campus Sahiwal )",
+    "City": "Sahiwal",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Gujrat ( Sialkot Campus)",
+    "City": "Sialkot",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2017",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abdul Wali Khan University ( Anbar Campus, Swabi )",
+    "City": "Swabi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-08-2012",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "University Of Sindh ( Thatta Campus )",
+    "City": "Thatta",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 14500,
+    "Deadline": "14-09-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Abdulwali Khan University ( Timergara Campus )",
+    "City": "Timergara",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 55000,
+    "Deadline": "18-08-2025",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "First College Of Business & Sciences",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "College Of Information Technology",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "South Asian Institute Of Management & Information Technology",
+    "City": "Rawalpindi",
+    "Degree": "BBA",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Management Sciences, Jinnah Abad",
+    "City": "Abbottabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2020",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Muslim College Of Commerce And Management Sciencs",
+    "City": "Abbottabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2015",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Management Sciences[meelam]",
+    "City": "Haripur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-10-2021",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Grafton College",
+    "City": "Islamabad",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 72300,
+    "Deadline": "03-09-2018",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Central College [lhr]",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2014",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Defence Degree College For Boys",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Govt Islamia College Of Commerce[allama Iqbal Town]",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2019",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Management Sciences(women)",
+    "City": "Peshawar",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-11-2024",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "National Institute Of Management Sciences",
+    "City": "Peshawar",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-10-2013",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Bahauddin Zakria University,sahiwal Campus",
+    "City": "Sahiwal",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 23120,
+    "Deadline": "30-09-2016",
+    "Subject": "Business Administration"
+  },
+  {
+    "Institute": "Government College Of Management Sciences",
+    "City": "Swat",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-08-2017",
+    "Subject": "Business Administration"
+  }
+]

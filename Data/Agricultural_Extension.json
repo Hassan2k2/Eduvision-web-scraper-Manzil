@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Agricultural Extension"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-02-2026",
+    "Subject": "Agricultural Extension"
+  },
+  {
+    "Institute": "Lasbela University Of Agriculture, Water And Marine Sciences, Wadh Campus",
+    "City": "Wadh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 17000,
+    "Deadline": "15-10-2022",
+    "Subject": "Agricultural Extension"
+  }
+]

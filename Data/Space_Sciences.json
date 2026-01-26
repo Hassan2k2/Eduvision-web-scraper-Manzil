@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Institute Of Space Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 121172,
+    "Deadline": "31-07-2025",
+    "Subject": "Space Sciences"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 21000,
+    "Deadline": "28-11-2025",
+    "Subject": "Space Sciences"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29950,
+    "Deadline": "25-09-2025",
+    "Subject": "Space Sciences"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "Institute": "Liaquat University Of Medical And Health Sciences",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35000,
+    "Deadline": "10-10-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Punjab Tianjin University Of Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25500,
+    "Deadline": "31-07-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BBIT(HONS)",
+    "Duration": "4 Years",
+    "Fee": 47540,
+    "Deadline": "25-09-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Virtual University Of Pakistan",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21800,
+    "Deadline": "30-09-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-07-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Sir Syed University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 172800,
+    "Deadline": "19-07-2024",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Qarshi University (lhr)",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-07-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Bahria University ( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 76500,
+    "Deadline": "08-01-2026",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Air University, Multan Campus",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 102080,
+    "Deadline": "10-01-2026",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Air University, H-11 Campus",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 102080,
+    "Deadline": "23-12-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Grand Charter College",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-10-2016",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Fertilizer Research",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-07-2025",
+    "Subject": "Business Information Technology"
+  },
+  {
+    "Institute": "The Institute Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2025",
+    "Subject": "Business Information Technology"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 34600,
+    "Deadline": "31-07-2025",
+    "Subject": "Wildlife Management"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-02-2025",
+    "Subject": "Wildlife Management"
+  }
+]

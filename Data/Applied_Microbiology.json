@@ -1,0 +1,65 @@
+[
+  {
+    "Institute": "Cholistan University Of  Veterinary & Animal Sciences",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 37500,
+    "Deadline": "31-01-2026",
+    "Subject": "Applied Microbiology"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Applied Microbiology"
+  },
+  {
+    "Institute": "University Of Veterinary And Animal Sciences",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 45500,
+    "Deadline": "12-09-2025",
+    "Subject": "Applied Microbiology"
+  },
+  {
+    "Institute": "College Of Veterinary And Animal Sciences",
+    "City": "Jhang",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 22750,
+    "Deadline": "12-09-2025",
+    "Subject": "Applied Microbiology"
+  },
+  {
+    "Institute": "The Islamic University Of Bahawalpur[rahimyar Khan Campus]",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "25-12-2023",
+    "Subject": "Applied Microbiology"
+  },
+  {
+    "Institute": "Khan Bahadur Chaudhary Mushtaq Ahmad College Of Veterinary And Animal Sciences",
+    "City": "Narowal",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 22750,
+    "Deadline": "12-09-2025",
+    "Subject": "Applied Microbiology"
+  },
+  {
+    "Institute": "Riphah College Of Veterinary Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2022",
+    "Subject": "Applied Microbiology"
+  }
+]

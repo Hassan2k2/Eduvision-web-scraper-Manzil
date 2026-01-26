@@ -1,0 +1,92 @@
+[
+  {
+    "Institute": "University Of Chitral",
+    "City": "Chitral",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2023",
+    "Subject": "Management Sciences"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Management Sciences"
+  },
+  {
+    "Institute": "Multan University Of Science And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-11-2024",
+    "Subject": "Management Sciences"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Sheringal",
+    "City": "Upper Dir",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30010,
+    "Deadline": "10-10-2025",
+    "Subject": "Management Sciences"
+  },
+  {
+    "Institute": "Karachi Institute Of Economics & Technology",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 93450,
+    "Deadline": "06-01-2024",
+    "Subject": "Management Sciences"
+  },
+  {
+    "Institute": "Lahore University Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 680400,
+    "Deadline": "10-03-2026",
+    "Subject": "Management Sciences"
+  },
+  {
+    "Institute": "Ghulam Ishaq Khan  Institute Of Engineering Sciences & Technology",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 630000,
+    "Deadline": "30-05-2024",
+    "Subject": "Management Sciences"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112000,
+    "Deadline": "18-10-2025",
+    "Subject": "Management Sciences"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics (west Canal Campus)",
+    "City": "Lahore",
+    "Degree": "CERT",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-10-2024",
+    "Subject": "Management Sciences"
+  },
+  {
+    "Institute": "Brains Institute",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2024",
+    "Subject": "Management Sciences"
+  }
+]

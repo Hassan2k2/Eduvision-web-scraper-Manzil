@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Women University Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 42460,
+    "Deadline": "06-02-2023",
+    "Subject": "Molecular Biology Biotechnology"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 167000,
+    "Deadline": "31-01-2026",
+    "Subject": "Molecular Biology Biotechnology"
+  }
+]

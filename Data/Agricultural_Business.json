@@ -1,0 +1,83 @@
+[
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 48115,
+    "Deadline": "30-06-2025",
+    "Subject": "Agricultural Business"
+  },
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-07-2025",
+    "Subject": "Agricultural Business"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 46200,
+    "Deadline": "28-07-2025",
+    "Subject": "Agricultural Business"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 25150,
+    "Deadline": "02-01-2026",
+    "Subject": "Agricultural Business"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Agriculture",
+    "City": "Multan",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 25200,
+    "Deadline": "29-09-2025",
+    "Subject": "Agricultural Business"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2025",
+    "Subject": "Agricultural Business"
+  },
+  {
+    "Institute": "Sukkur Iba University",
+    "City": "Sukkur",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "26-06-2023",
+    "Subject": "Agricultural Business"
+  },
+  {
+    "Institute": "University Of Agriculture Faisalabad, Sub Campu",
+    "City": "Burewala",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 46200,
+    "Deadline": "28-07-2025",
+    "Subject": "Agricultural Business"
+  },
+  {
+    "Institute": "University Of Agriculture Faisalabad[sub Campus]",
+    "City": "Depal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "28-07-2025",
+    "Subject": "Agricultural Business"
+  }
+]

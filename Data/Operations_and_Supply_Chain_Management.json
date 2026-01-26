@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Virtual University Of Pakistan",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 21800,
+    "Deadline": "30-09-2025",
+    "Subject": "Operations Supply Chain Management"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 274750,
+    "Deadline": "31-07-2024",
+    "Subject": "Operations Supply Chain Management"
+  }
+]

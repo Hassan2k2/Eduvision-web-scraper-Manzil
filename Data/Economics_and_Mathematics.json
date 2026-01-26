@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Institute Of Business Administration [khi]",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 199500,
+    "Deadline": "11-06-2025",
+    "Subject": "Economics Mathematics"
+  },
+  {
+    "Institute": "Institute Of Business Management",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155800,
+    "Deadline": "28-07-2022",
+    "Subject": "Economics Mathematics"
+  },
+  {
+    "Institute": "Lahore University Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 680400,
+    "Deadline": "10-03-2026",
+    "Subject": "Economics Mathematics"
+  }
+]

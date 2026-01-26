@@ -1,191 +1,83 @@
 [
   {
-    "Institute": "The Islamia University Of Bahawalpur",
-    "City": "Bahawal Pur",
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
     "Degree": "BS",
     "Duration": "4 Years",
-    "Fee": 48115,
-    "Deadline": "30-06-2025",
+    "Fee": 27150,
+    "Deadline": "15-09-2025",
     "Subject": "Digital Marketing"
   },
   {
-    "Institute": "Ghazi University",
-    "City": "D.g.khan",
-    "Degree": "BS",
-    "Duration": "4 Years",
-    "Fee": 21300,
-    "Deadline": "04-07-2025",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Federal Urdu University Of Arts Science & Technology Islamabad",
-    "City": "Islamabad",
-    "Degree": "AD",
-    "Duration": "2 Years",
-    "Fee": 75000,
-    "Deadline": "30-01-2026",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "University Of Karachi",
+    "Institute": "Greenwich University",
     "City": "Karachi",
     "Degree": "BS",
     "Duration": "4 Years",
-    "Fee": 18500,
-    "Deadline": "28-11-2025",
+    "Fee": 132110,
+    "Deadline": "14-07-2024",
     "Subject": "Digital Marketing"
   },
   {
-    "Institute": "Abdul Wali Khan University, Mardan",
-    "City": "Mardan",
-    "Degree": "BS",
-    "Duration": "4 Years",
-    "Fee": 35000,
-    "Deadline": "18-08-2025",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Hamdard University",
+    "Institute": "Ilma University",
     "City": "Karachi",
     "Degree": "BS",
     "Duration": "4 Years",
-    "Fee": 0,
-    "Deadline": "15-03-2025",
+    "Fee": 137150,
+    "Deadline": "10-09-2022",
     "Subject": "Digital Marketing"
   },
   {
-    "Institute": "Iqra University [kch]",
-    "City": "Karachi",
-    "Degree": "AD",
-    "Duration": "2 Years",
-    "Fee": 189000,
-    "Deadline": "14-02-2026",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Iqra University [kch]",
-    "City": "Karachi",
-    "Degree": "BS",
-    "Duration": "4 Years",
-    "Fee": 0,
-    "Deadline": "14-02-2026",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Jinnah University For Women",
-    "City": "Karachi",
-    "Degree": "AD",
-    "Duration": "4 Years",
-    "Fee": 60000,
-    "Deadline": "30-05-2025",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Kasb [ Khadim Ali Shah Bukhari ]  Institute Of Technology",
-    "City": "Karachi",
-    "Degree": "AD",
-    "Duration": "2 Years",
-    "Fee": 0,
-    "Deadline": "01-10-2022",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Muhammad Ali Jinnah University",
-    "City": "Karachi",
-    "Degree": "AD",
-    "Duration": "2 Years",
-    "Fee": 0,
-    "Deadline": "22-07-2024",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Lahore Leads University",
+    "Institute": "Green International University",
     "City": "Lahore",
     "Degree": "BS",
     "Duration": "4 Years",
     "Fee": 0,
-    "Deadline": "04-09-2025",
+    "Deadline": "02-09-2025",
     "Subject": "Digital Marketing"
   },
   {
-    "Institute": "Minhaj University",
+    "Institute": "Nur International University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155278,
+    "Deadline": "18-01-2025",
+    "Subject": "Digital Marketing"
+  },
+  {
+    "Institute": "University Of South Asia",
     "City": "Lahore",
     "Degree": "BS",
     "Duration": "4 Years",
     "Fee": 0,
-    "Deadline": "31-10-2025",
+    "Deadline": "05-11-2022",
     "Subject": "Digital Marketing"
   },
   {
-    "Institute": "The Superior University",
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 84000,
+    "Deadline": "18-10-2025",
+    "Subject": "Digital Marketing"
+  },
+  {
+    "Institute": "The University Of Lahore, Sub Campus",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-02-2025",
+    "Subject": "Digital Marketing"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics (west Canal Campus)",
     "City": "Lahore",
-    "Degree": "BS",
-    "Duration": "4 Years",
-    "Fee": 0,
-    "Deadline": "31-01-2026",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Abasyn University",
-    "City": "Peshawar",
-    "Degree": "BS",
-    "Duration": "4 Years",
-    "Fee": 0,
-    "Deadline": "01-02-2026",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "City University Of Science & Information Technology",
-    "City": "Peshawar",
-    "Degree": "BS",
-    "Duration": "4 Years",
-    "Fee": 0,
-    "Deadline": "10-11-2025",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Iqra National University",
-    "City": "Peshawar",
-    "Degree": "BS",
-    "Duration": "4 Years",
-    "Fee": 84492,
-    "Deadline": "30-09-2025",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Abasyn University (sub Campus)",
-    "City": "Islamabad",
-    "Degree": "BS",
-    "Duration": "4 Years",
-    "Fee": 0,
-    "Deadline": "28-12-2025",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Iqra University, Chak Shahzad Campus",
-    "City": "Islamabad",
-    "Degree": "AD",
-    "Duration": "2 Years",
-    "Fee": 96096,
-    "Deadline": "29-02-2024",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Iqra University, H-9 Campus",
-    "City": "Islamabad",
     "Degree": "AD",
     "Duration": "2 Years",
     "Fee": 0,
-    "Deadline": "10-09-2025",
-    "Subject": "Digital Marketing"
-  },
-  {
-    "Institute": "Emaan Institute Of Management & Sciences",
-    "City": "Karachi",
-    "Degree": "AD",
-    "Duration": "2 Years",
-    "Fee": 96000,
-    "Deadline": "20-07-2024",
+    "Deadline": "04-10-2024",
     "Subject": "Digital Marketing"
   }
 ]

@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "National Textile University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 86000,
+    "Deadline": "31-07-2023",
+    "Subject": "Textile Management Marketing"
+  },
+  {
+    "Institute": "Textile Institute Of Pakistan",
+    "City": "Karachi",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 180000,
+    "Deadline": "30-06-2024",
+    "Subject": "Textile Management Marketing"
+  },
+  {
+    "Institute": "National Textile University Faisalabad, Sub Campus",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 87600,
+    "Deadline": "15-09-2023",
+    "Subject": "Textile Management Marketing"
+  }
+]

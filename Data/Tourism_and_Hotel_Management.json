@@ -1,0 +1,83 @@
+[
+  {
+    "Institute": "University Of Malakand",
+    "City": "Chakdara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Tourism Hotel Management"
+  },
+  {
+    "Institute": "University Of Chitral",
+    "City": "Chitral",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2023",
+    "Subject": "Tourism Hotel Management"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 73000,
+    "Deadline": "23-09-2025",
+    "Subject": "Tourism Hotel Management"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Tourism Hotel Management"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Sheringal",
+    "City": "Upper Dir",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30010,
+    "Deadline": "10-10-2025",
+    "Subject": "Tourism Hotel Management"
+  },
+  {
+    "Institute": "Greenwich University",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-07-2024",
+    "Subject": "Tourism Hotel Management"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Tourism Hotel Management"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics (front Lane Campus)",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2018",
+    "Subject": "Tourism Hotel Management"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics (front Lane Campus)",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2018",
+    "Subject": "Tourism Hotel Management"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Hours",
+    "Fee": 0,
+    "Deadline": "18-11-2022",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 55500,
+    "Deadline": "28-11-2025",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "Virtual University Of Pakistan",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 21800,
+    "Deadline": "30-09-2025",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "Shifa Tameer-e-millat University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 144000,
+    "Deadline": "29-09-2022",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "Ilma University",
+    "City": "Karachi",
+    "Degree": "BBA",
+    "Duration": "4 Years",
+    "Fee": 137150,
+    "Deadline": "10-09-2022",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2025",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "Mirpur University Of Science & Technology, Bhimber Campus",
+    "City": "Bhimber",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2023",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "University College Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2014",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "Pimsat - Institute Of Higher Education",
+    "City": "Karachi",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "18-02-2017",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics (east Canal Campus)",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2018",
+    "Subject": "Human Resources Management"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics (front Lane Campus)",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "14-10-2017",
+    "Subject": "Human Resources Management"
+  }
+]

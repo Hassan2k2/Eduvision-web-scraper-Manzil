@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2025",
+    "Subject": "Dairy Science"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 46200,
+    "Deadline": "28-07-2025",
+    "Subject": "Dairy Science"
+  },
+  {
+    "Institute": "Comsats University Islamabad ( Vehari Campus )",
+    "City": "Vehari",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "11-08-2025",
+    "Subject": "Dairy Science"
+  }
+]

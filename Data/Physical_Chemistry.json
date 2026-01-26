@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Shaheed Benazir Bhutto University, Nawab Shah",
+    "City": "Nawab Shah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 18000,
+    "Deadline": "30-10-2018",
+    "Subject": "Physical Chemistry"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 130000,
+    "Deadline": "14-09-2024",
+    "Subject": "Physical Chemistry"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41900,
+    "Deadline": "03-08-2023",
+    "Subject": "Plant Protection"
+  },
+  {
+    "Institute": "Sindh Agriculture University",
+    "City": "Tando Jam",
+    "Degree": "BSC (AGRI.) HON",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "30-09-2025",
+    "Subject": "Plant Protection"
+  },
+  {
+    "Institute": "Sindh Agriculture University, Umerkot Campus",
+    "City": "Umerkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2025",
+    "Subject": "Plant Protection"
+  }
+]

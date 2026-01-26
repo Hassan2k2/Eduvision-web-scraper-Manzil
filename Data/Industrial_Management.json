@@ -1,0 +1,47 @@
+[
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 42044,
+    "Deadline": "17-09-2023",
+    "Subject": "Industrial Management"
+  },
+  {
+    "Institute": "Dawood University Of Engineering And Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 32000,
+    "Deadline": "15-07-2025",
+    "Subject": "Industrial Management"
+  },
+  {
+    "Institute": "Hamdard University",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 84700,
+    "Deadline": "13-07-2024",
+    "Subject": "Industrial Management"
+  },
+  {
+    "Institute": "Institute Of Business Management",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 155800,
+    "Deadline": "28-07-2022",
+    "Subject": "Industrial Management"
+  },
+  {
+    "Institute": "The Royal College",
+    "City": "Lahore",
+    "Degree": "BBA (H)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-11-2016",
+    "Subject": "Industrial Management"
+  }
+]

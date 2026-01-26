@@ -1,0 +1,20 @@
+[
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27900,
+    "Deadline": "15-09-2025",
+    "Subject": "Biotechnology Genetic"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "Biotechnology Genetic"
+  }
+]

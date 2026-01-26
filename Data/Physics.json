@@ -1,0 +1,2360 @@
+[
+  {
+    "Institute": "Abbottabad University Of Science And Technology",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 28500,
+    "Deadline": "26-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Women University Azad Jammu & Kashmir",
+    "City": "Bagh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43110,
+    "Deadline": "01-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Government Sadiq College Women University",
+    "City": "Bahawal Pur",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Government Sadiq College Women University",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 31340,
+    "Deadline": "20-06-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Science & Technology",
+    "City": "Bannu",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 16400,
+    "Deadline": "20-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Thal University",
+    "City": "Bhakkar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "10-01-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The University Of Buner",
+    "City": "Buner",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Malakand",
+    "City": "Chakdara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "15-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Bacha Khan University",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 37000,
+    "Deadline": "22-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Chitral",
+    "City": "Chitral",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Ghazi University",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21300,
+    "Deadline": "04-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Education [ D.g. Khan Campus ]",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20214,
+    "Deadline": "02-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 47400,
+    "Deadline": "09-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Fata University",
+    "City": "Darra Adam Khail",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-11-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 28200,
+    "Deadline": "12-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33100,
+    "Deadline": "31-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Agriculture",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "28-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Education [ Faisalabad Campus ]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20214,
+    "Deadline": "02-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Karakuram International University",
+    "City": "Gilgit",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33400,
+    "Deadline": "10-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Gujrat",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 68010,
+    "Deadline": "15-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Haripur",
+    "City": "Haripur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20109,
+    "Deadline": "26-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College University Hyderabad",
+    "City": "Hyderabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 11000,
+    "Deadline": "15-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Allama Iqbal Open University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 43950,
+    "Deadline": "10-02-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Comsats University Islamabad",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "17-12-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts Science & Technology Islamabad",
+    "City": "Islamabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 75000,
+    "Deadline": "30-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Institute Of Space Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 83105,
+    "Deadline": "31-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "International Islamic University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 74160,
+    "Deadline": "31-12-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "National University Of Science & Technology",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 174050,
+    "Deadline": "25-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Pakistan Institute Of Engineering & Applied Sciences",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 104800,
+    "Deadline": "28-03-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Quaid-e-azam University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54565,
+    "Deadline": "29-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sindh",
+    "City": "Jamshoro",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15200,
+    "Deadline": "14-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Jhang",
+    "City": "Jhang",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Ned University Of Engineering & Technology",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46670,
+    "Deadline": "20-05-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Karachi",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 18500,
+    "Deadline": "28-11-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Khushal Khan Khattak University",
+    "City": "Karak",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 34000,
+    "Deadline": "19-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Shah Abdul Latif University",
+    "City": "Khair Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27000,
+    "Deadline": "22-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Benazir Butto Shaheed University Of Technology & Skill Development",
+    "City": "Khair Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 23250,
+    "Deadline": "23-06-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Kohat University Of Science & Technology",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27900,
+    "Deadline": "15-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The University Of Management Sciences & Information Technology",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-09-2016",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 52000,
+    "Deadline": "11-12-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Kinnaird College For Women",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 90200,
+    "Deadline": "01-12-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Lahore College For Women University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 52150,
+    "Deadline": "25-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Education",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20214,
+    "Deadline": "09-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Engineering & Technology, Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41940,
+    "Deadline": "25-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The University Of Lakki Marwat",
+    "City": "Lakki Marwat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 17100,
+    "Deadline": "25-09-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Punjab University Of Technology  [ Rasul]",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Hazara University",
+    "City": "Mansehra",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "01-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Abdul Wali Khan University, Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 45000,
+    "Deadline": "18-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Women University Mardan",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 41400,
+    "Deadline": "10-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Mianwali",
+    "City": "Mianwali",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 54300,
+    "Deadline": "15-10-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Bahauddin Zakariya University, Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27150,
+    "Deadline": "02-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Muhammad Nawaz Sharif University Of Engineering And Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 35300,
+    "Deadline": "12-02-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Nfc Institute Of Engineering & Technology",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33700,
+    "Deadline": "01-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Women University",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25750,
+    "Deadline": "07-01-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Education [ Multan Campus ]",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20214,
+    "Deadline": "02-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Kohsar University",
+    "City": "Murree",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-02-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Azad Jammu & Kashmir",
+    "City": "Muzaffarabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Baba Guru Nanak University",
+    "City": "Nankana Sahib",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 21350,
+    "Deadline": "19-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Narowal",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "19-02-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Quaid-e-awam University Of Engineering, Sciences & Technology",
+    "City": "Nawab Shah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20000,
+    "Deadline": "31-05-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Okara",
+    "City": "Okara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "18-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Islamia College University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62000,
+    "Deadline": "16-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Shaheed Benazir Bhutto Women University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29513,
+    "Deadline": "28-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 71000,
+    "Deadline": "23-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Balochistan University Of It & Management Sciences",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 39410,
+    "Deadline": "26-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Sardar Bahadur Khan Women University",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 8040,
+    "Deadline": "28-02-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Balochistan",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 36000,
+    "Deadline": "11-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Khawaja Fareed University Of Engineering & Information Technology",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 40250,
+    "Deadline": "05-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Unversity Of The Poonch, Rawala Kot",
+    "City": "Rawala Kot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 46000,
+    "Deadline": "20-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Fatima Jinnah Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 52050,
+    "Deadline": "18-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Pir Mahar Ali Shah Arid Agriculture University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 45650,
+    "Deadline": "08-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Rawalpindi Women University",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 33065,
+    "Deadline": "03-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sahiwal",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 31440,
+    "Deadline": "31-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sargodha",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30000,
+    "Deadline": "15-12-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College Women University",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 25000,
+    "Deadline": "22-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 115000,
+    "Deadline": "01-11-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Begum Nusrat Bhutto Women University",
+    "City": "Sukkur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 27250,
+    "Deadline": "04-06-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 51270,
+    "Deadline": "16-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Women University Swabi",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 45760,
+    "Deadline": "12-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Swat",
+    "City": "Swat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 30900,
+    "Deadline": "12-10-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Engineering &  Technology, Taxila",
+    "City": "Taxila",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 102400,
+    "Deadline": "22-03-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Chakwal",
+    "City": "Chakwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Qurtuba University Of Science & Technology [di Khan]",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The University Of Faisalabad",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 67500,
+    "Deadline": "07-10-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The University Of Chenab",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Riphah International University",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 145618,
+    "Deadline": "30-07-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Forman Christian College",
+    "City": "Lahore",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 358200,
+    "Deadline": "30-11-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Lahore Garrison University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 174635,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Lahore University Of Management Sciences",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 811100,
+    "Deadline": "10-03-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Minhaj University",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 147500,
+    "Deadline": "18-05-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The University Of Lahore ( Main Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 120000,
+    "Deadline": "31-01-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Central Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 169375,
+    "Deadline": "20-09-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Management And Technology",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 212250,
+    "Deadline": "18-10-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of South Asia",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-11-2022",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Institute Of Southern Punjab",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-01-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Iqra National University",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "01-11-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Preston University [pesh]",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-06-2016",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Wah",
+    "City": "Wah Cantt",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 60600,
+    "Deadline": "20-09-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Ahmadpur East Campus",
+    "City": "Ahmadpur East",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Education ( Attock Campus )",
+    "City": "Attock",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20214,
+    "Deadline": "02-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur[sub Campus]",
+    "City": "Bahawal Nagar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Hazara University ( Batagram Campus )",
+    "City": "Batagram",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 38980,
+    "Deadline": "07-08-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sargodha ( Bhakkar Campus )",
+    "City": "Bhakkar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-11-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Agriculture Faisalabad, Sub Campu",
+    "City": "Burewala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-07-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Agriculture Faisalabad[sub Campus]",
+    "City": "Depal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 60000,
+    "Deadline": "28-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University College Of Education",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-07-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sargodha ( Women Campus Faisalabad )",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-10-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sargodha (lyallpur Campus)",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Education [ Jauharabad Campus ]",
+    "City": "Joharabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20214,
+    "Deadline": "02-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Universtiy Of Engineering And Technology (sub Campus)",
+    "City": "Kala Shah Kaku",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "02-06-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Federal Urdu University Of Arts  Science & Technology, Karachi",
+    "City": "Karachi",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "4 Years",
+    "Fee": 34400,
+    "Deadline": "10-01-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Comsats University Islamabad( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 112200,
+    "Deadline": "29-12-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Gujrat (lahore Campus)",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-08-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sargodha ( Lahore Campus )",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College University Faisalabad (layyah Campus)",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Islamia University Of Bahawalpur, Liaqatpur Campus",
+    "City": "Liaqatpur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sargodha ( Mandi Baha-ud-din Campus )",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2016",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sargodha ( Mianwali Campus )",
+    "City": "Mianwali",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-09-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University College Of Education",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-07-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Engineering & Technology (narowal Campus)",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 62427,
+    "Deadline": "22-03-2026",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Gujrat (narowal Campus",
+    "City": "Narowal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-10-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Mirpur University Of Science And Technology ( Pallandri Campus)",
+    "City": "Pallandri",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Makran",
+    "City": "Panjgur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-10-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Islamic University Of Bahawalpur[rahimyar Khan Campus]",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47115,
+    "Deadline": "30-06-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Gujrat (rawalpindi Campus)",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-07-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College University Faisalabad, Sahiwal Campus",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Gomal University, Tank Campus",
+    "City": "Tank",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 13000,
+    "Deadline": "31-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Agriculture Faisal Abad[toba Tek Singh Campus]",
+    "City": "Toba Tek Singh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Education [ Vehari Campus ]",
+    "City": "Vehari",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 20214,
+    "Deadline": "02-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Riphah International University, Faisalabad Campus",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 98000,
+    "Deadline": "18-10-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The University Of Lahore ( Chanab Campus)",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Preston University [isb]",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 80000,
+    "Deadline": "30-10-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Preston University [lhr]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-06-2016",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Riphah International University Lahore",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-01-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Qurtuba University Of Science & Information Technology",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 44000,
+    "Deadline": "08-11-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The University Of Lahore, Sub Campus",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-02-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Management And Technology, Sialkot Campus",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Degree College For Women[dmr]",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4",
+    "Fee": 3500,
+    "Deadline": "07-10-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government S E College",
+    "City": "Bahawal Pur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-09-2014",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Bannu",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2013",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Burewala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 3500,
+    "Deadline": "06-11-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Chakwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Degree College Shabqadar Charsadda",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Degree College Tangi",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Girls Degree College No1 Charsadda",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Charsadda",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-08-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Degree College For Women[company Bagh]",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Degree College[block-17]",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College For Women [madina Town]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College Of Science",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College [samanabad]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate Islamia College",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-10-2014",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Uaf Community Collge, Jhang Road",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-07-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College For Women [satellite Town]",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-09-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College[satellite Town]",
+    "City": "Gujranwala",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate Islamia College",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-10-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Islamabad Model College For Boys, H-9",
+    "City": "Islamabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Jhang",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Dj Sindh Government Science College",
+    "City": "Karachi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-12-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College  For Women",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-08-2014",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Kohat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2014",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Apwa Degree College For Women[jail Road]",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "02-10-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College For Women [gulberg]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-05-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College For Women[gulberg]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-10-2022",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College Of Science[wahdat Road]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "14-09-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College [baghbanpura]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-11-2022",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College [township]",
+    "City": "Lahore",
+    "Degree": "CERT",
+    "Duration": "4",
+    "Fee": 0,
+    "Deadline": "07-09-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Dyal Singh College[laxmi Chowk]",
+    "City": "Lahore",
+    "Degree": "CERT",
+    "Duration": "4",
+    "Fee": 3500,
+    "Deadline": "31-10-2022",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Islamia College [civil Lines]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-09-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government M.a.o College",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11-1999",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College For Women [samanabad]",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-10-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate College For Women [wahdat Conlony]",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "06-11-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Queen Marry College",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-07-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Queen Marry College",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Lakki Marwat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-08-2016",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Degree College For Boys[kot Sultan]",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Mandi Baha-ud-din",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate College",
+    "City": "Mansehra",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-08-2015",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Govenrment College",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "26-09-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate Boys College",
+    "City": "Mir Pur (ajk)",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-09-2014",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Emerson University Multan",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College For Women [katchery]",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College Of Science",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-10-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College",
+    "City": "Muzafargarh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Nowshera",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2014",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College For Boys",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-08-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College Peshawar",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Degree College For Bys[hayatabad]",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Superior Science College",
+    "City": "Peshawar",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-08-2016",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "General Musa Government Degree College",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College [quet]",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-04-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Inter Girls College Satellite Town",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-04-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Science College",
+    "City": "Quetta",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-10-2016",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Khawaj Farid Government Post Graduate College",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "F.g Sir Syed Degree College",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government College For Women [murree Road]",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4",
+    "Fee": 3500,
+    "Deadline": "31-12-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College[asghar Mall ]",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "17-08-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate Gordon College",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate College For Women[satellite Town]",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2013",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate College, Boys [satellite Town]",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-08-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Nisar Shaheed College",
+    "City": "Risalpur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-09-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-10-2013",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Grduate College For Women",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-11-2022",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Ambala Muslim College",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Murray College",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 15000,
+    "Deadline": "18-08-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Postgraduate College For Women",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Post Graduate College",
+    "City": "Swabi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-09-2015",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Government Degree College",
+    "City": "Timergara",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "08-10-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Federal Government Science  Degree College For Men",
+    "City": "Wah Cantt",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2022",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Riphah Community College, Abbotabad Campus",
+    "City": "Abbottabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Riphah International College, Bahawlpur",
+    "City": "Bahawal Pur",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2022",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Kalarkahar Science College",
+    "City": "Chakwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "23-09-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Abdul Salam College",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "25-11-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Ali Fatimah College Of Science & Management",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Chenab College Of Advance Studies",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Edison College",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "07-08-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Informatics Group Of Colleges",
+    "City": "Faisalabad",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 36000,
+    "Deadline": "07-01-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Kips College, Boys, Jail Road",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Kips College, Girls, Jail Road",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-10-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Shiblee College Of Commerce & Science",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Shiblee College Of Commerce For Women[gulberg Campus]",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Shifa College For Women",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-11-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Superior College , Girls",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-12-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Superior College, Boys",
+    "City": "Faisalabad",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-12-2022",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Concorida Colleges, Gujranwala",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Royal Gorup Of Colleges",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Mukabbir Colelge",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-12-2022",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Iqra Degree College, Havelian",
+    "City": "Havelian",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "04-12-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Icon College",
+    "City": "Jaranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "24-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Litra Valley College, Jango",
+    "City": "Jhelum",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "22-09-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Concordia Colleges, Kasur",
+    "City": "Kasur",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-09-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Concordia Colleges",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "28-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Informatics Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Punjab Group Of Colleges",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-10-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Riphah International College, Lahore",
+    "City": "Lahore",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-11-2024",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Fgk College",
+    "City": "Layyah",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-10-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Legend College",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-12-2022",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Pakistan College Of Science And Commerce",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "29-12-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Educators College",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "11-12-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Misali Zakriya Graduate College, Dinpur",
+    "City": "Muzafargarh",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-12-2021",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Vertex College Of Science And Technology",
+    "City": "Peshawar",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Brookfield College",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-10-2018",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "N I C C A S Postgraduate College",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "27-09-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Centre For Emerging Sciences, Engineering & Technology",
+    "City": "Rawalpindi",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Comand College",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "03-10-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Iqra Girls College",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "02-01-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "The Readers Group Of Colleges, Boys",
+    "City": "Sargodha",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "16-10-2020",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "South Punjab Institute Of Science & Technology",
+    "City": "D.g.khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "International Institute Of Science, Arts And Technology",
+    "City": "Gujranwala",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "05-10-2025",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Kaims International Institute",
+    "City": "Multan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-07-2019",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "National Institute Of Computer And Advanced Studies",
+    "City": "Rahim Yar Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "31-08-2023",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Abdul Wali Khan University ( Shankar Campus )",
+    "City": "Mardan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 45000,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Sargodha ( Comand Campus Sahiwal )",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "University Of Gujrat ( Sialkot Campus)",
+    "City": "Sialkot",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "18-09-2017",
+    "Subject": "Physics"
+  },
+  {
+    "Institute": "Bahauddin Zakria University,sahiwal Campus",
+    "City": "Sahiwal",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 22460,
+    "Deadline": "02-10-2015",
+    "Subject": "Physics"
+  }
+]

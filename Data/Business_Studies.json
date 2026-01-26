@@ -1,0 +1,137 @@
+[
+  {
+    "Institute": "University Of Sialkot",
+    "City": "Sialkot",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-11-2024",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "The University Of Chenab",
+    "City": "Gujrat",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "03-01-2026",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "Shaheed Zulfiqar Ali Bhutto Institute Of Science & Technology",
+    "City": "Karachi",
+    "Degree": "BA [HONS]",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-02-2026",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "Grand Asian University Sialkot",
+    "City": "Sialkot",
+    "Degree": "AD",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "21-09-2024",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "Comsats Institute Of Information Technology (virtual Campus)",
+    "City": "Faisalabad",
+    "Degree": "BBS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "12-09-2014",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "The University Of Lahore ( Chanab Campus)",
+    "City": "Gujrat",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "13-09-2019",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "The Muslim Education System",
+    "City": "Abbottabad",
+    "Degree": "BBS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "16-10-2021",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "National College Of Business Administration & Economics (east Canal Campus)",
+    "City": "Lahore",
+    "Degree": "BBS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "17-09-2018",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "Army Public College Of Management & Sciences",
+    "City": "Rawalpindi",
+    "Degree": "BBS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2020",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "Comsats Institute Of Information Technology (virtual Campus)",
+    "City": "Islamabad",
+    "Degree": "BBS",
+    "Duration": "4 Years",
+    "Fee": 34300,
+    "Deadline": "01-01-2016",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "National Textile Institute",
+    "City": "Islamabad",
+    "Degree": "BBS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "09-10-2018",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "Afro-asian Institute",
+    "City": "Lahore",
+    "Degree": "BBS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-10-2018",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "Larkana Institute Of Health & Emerging Sciences",
+    "City": "Larkana",
+    "Degree": "BBS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "30-12-2017",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "Abd Ul Wali Khan University Mardan ( Buner Campus )",
+    "City": "Buner",
+    "Degree": "BBS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "20-10-2016",
+    "Subject": "Business Studies"
+  },
+  {
+    "Institute": "Government College Of Management Sciences, Jinnah Abad",
+    "City": "Abbottabad",
+    "Degree": "BBS",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "18-08-2016",
+    "Subject": "Business Studies"
+  }
+]

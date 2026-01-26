@@ -1,0 +1,83 @@
+[
+  {
+    "Institute": "Gomal University",
+    "City": "D.i. Khan",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "09-01-2026",
+    "Subject": "Management"
+  },
+  {
+    "Institute": "The University Of Management Sciences & Information Technology",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "10-09-2016",
+    "Subject": "Management"
+  },
+  {
+    "Institute": "University Of Kotli",
+    "City": "Kotli",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2025",
+    "Subject": "Management"
+  },
+  {
+    "Institute": "Government College University Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 140000,
+    "Deadline": "08-08-2025",
+    "Subject": "Management"
+  },
+  {
+    "Institute": "University Of The Punjab",
+    "City": "Lahore",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 47540,
+    "Deadline": "25-09-2025",
+    "Subject": "Management"
+  },
+  {
+    "Institute": "Lahore Leads University",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "04-09-2025",
+    "Subject": "Management"
+  },
+  {
+    "Institute": "University Of The Punjab (jhelum Campus)",
+    "City": "Jhelum",
+    "Degree": "BS",
+    "Duration": "4 Years",
+    "Fee": 29950,
+    "Deadline": "25-09-2025",
+    "Subject": "Management"
+  },
+  {
+    "Institute": "Hailey College Of Commerce",
+    "City": "Lahore",
+    "Degree": "BS (HONS)",
+    "Duration": "4 Years",
+    "Fee": 0,
+    "Deadline": "30-11--0001",
+    "Subject": "Management"
+  },
+  {
+    "Institute": "Alta Vista College",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "18-06-2011",
+    "Subject": "Management"
+  }
+]

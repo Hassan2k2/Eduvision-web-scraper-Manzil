@@ -1,0 +1,38 @@
+[
+  {
+    "Institute": "University College Lahore",
+    "City": "Lahore",
+    "Degree": "B.Sc.",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "15-08-2014",
+    "Subject": "Economics Management"
+  },
+  {
+    "Institute": "Government Degree College For Women [dhoke Ratta]",
+    "City": "Rawalpindi",
+    "Degree": "B.Sc.",
+    "Duration": "2 Years",
+    "Fee": 0,
+    "Deadline": "01-01-1970",
+    "Subject": "Economics Management"
+  },
+  {
+    "Institute": "Alta Vista College",
+    "City": "Islamabad",
+    "Degree": "B.Sc. [Hons]",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "18-06-2011",
+    "Subject": "Economics Management"
+  },
+  {
+    "Institute": "Universal College Islamabad",
+    "City": "Islamabad",
+    "Degree": "B.Sc.",
+    "Duration": "3 Years",
+    "Fee": 0,
+    "Deadline": "29-09-2018",
+    "Subject": "Economics Management"
+  }
+]
