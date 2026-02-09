@@ -1,0 +1,15 @@
+University,City,Degree_Level,School,Program_Name,Duration,Eligibility,Test_Required,Fee_Per_Semester,Admission_Deadline,Program_URL
+Government College University Lahore,Lahore,Undergraduate,Faculty of Arts & Social Sciences,BS Economics,4 Years,Intermediate (relevant discipline),GCU Entry Test,25000,"September 30, 2026",https://gcu.edu.pk/economics.php
+Government College University Lahore,Lahore,Undergraduate,Faculty of Management Sciences,BS Commerce,4 Years,Intermediate (Commerce / relevant),GCU Entry Test,25000,"September 30, 2026",https://gcu.edu.pk/commerce-finance.php
+Government College University Lahore,Lahore,Undergraduate,Faculty of Law,Bachelor of Laws (LLB),5 Years,Intermediate / A-Levels,LAT + GCU Test,25000,"September 30, 2026",https://gcu.edu.pk/law.php
+Government College University Lahore,Lahore,Undergraduate,Faculty of Science,BS Computer Science,4 Years,Intermediate (Pre-Engg / ICS),GCU Entry Test,25000,"September 30, 2026",https://gcu.edu.pk/computer-science.php
+Government College University Lahore,Lahore,Undergraduate,Faculty of Engineering,BS Electrical Engineering,4 Years,Intermediate (Pre-Engineering),ECAT / GCU Test,30000,"September 30, 2026",https://gcu.edu.pk/electrical-engineering.php
+Government College University Lahore,Lahore,Undergraduate,Faculty of Life Sciences,BS Biotechnology,4 Years,Intermediate (Pre-Medical),GCU Entry Test,25000,"September 30, 2026",https://gcu.edu.pk/IIBT.php
+Government College University Lahore,Lahore,Undergraduate,Faculty of Languages & Literature,BS English,4 Years,Intermediate,GCU Entry Test,25000,"September 30, 2026",https://gcu.edu.pk/english.php
+Government College University Lahore,Lahore,Graduate (MS/MA),Department of Economics,MS Economics,2 Years,BS Economics,GAT (General) / Dept Test,30000,"September 30, 2026",https://gcu.edu.pk/economics.php
+Government College University Lahore,Lahore,Graduate (MS/MA),Department of Computer Science,MS Computer Science,2 Years,BS Computer Science,GAT (General),30000,"September 30, 2026",https://gcu.edu.pk/computer-science.php
+Government College University Lahore,Lahore,Graduate (MS/MA),Department of Psychology,MSc Psychology,2 Years,BS Psychology,GAT (General),30000,"September 30, 2026",https://gcu.edu.pk/psychology.php
+Government College University Lahore,Lahore,Graduate (MPhil),Department of Chemistry,MPhil Chemistry,2 Years,16 Years Education,GAT (General),35000,"September 30, 2026",https://gcu.edu.pk/chemistry.php
+Government College University Lahore,Lahore,Graduate (MPhil),Department of Physics,MPhil Physics,2 Years,16 Years Education,GAT (General),35000,"September 30, 2026",https://gcu.edu.pk/physics.php
+Government College University Lahore,Lahore,Graduate (PhD),Department of Mathematics,PhD Mathematics,3–5 Years,MPhil Mathematics,GAT (Subject) + Interview,40000,"September 30, 2026",https://gcu.edu.pk/mathematics.php
+Government College University Lahore,Lahore,Graduate (PhD),Department of Zoology,PhD Zoology,3–5 Years,MPhil Zoology,GAT (Subject) + Interview,40000,"September 30, 2026",https://gcu.edu.pk/zoology.php

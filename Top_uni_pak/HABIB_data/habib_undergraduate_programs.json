@@ -1,0 +1,93 @@
+[
+  {
+    "University":"Habib University",
+    "City":"Karachi",
+    "Degree_Level":"Undergraduate (Honors)",
+    "School":"School of Arts, Humanities & Social Sciences (AHSS)",
+    "Program_Name":"BS (Honors) Social Development & Policy",
+    "Duration":"4 Years",
+    "Eligibility":"Intermediate \/ A-Levels \/ IB or equivalent (Science required for Engineering & CS)",
+    "Test_Required":"Habib University Admission Test (HUAT) \/ SAT \/ ACT \/ IB \/ A-Levels",
+    "Fee_Per_Semester":550000,
+    "Admission_Deadline":"January 31, 2026",
+    "Program_URL":"https:\/\/habib.edu.pk\/academics\/ahss\/social-development-and-policy\/"
+  },
+  {
+    "University":"Habib University",
+    "City":"Karachi",
+    "Degree_Level":"Undergraduate (Honors)",
+    "School":"School of Arts, Humanities & Social Sciences (AHSS)",
+    "Program_Name":"BA (Honors) Communication & Design",
+    "Duration":"4 Years",
+    "Eligibility":"Intermediate \/ A-Levels \/ IB or equivalent (Science required for Engineering & CS)",
+    "Test_Required":"Habib University Admission Test (HUAT) \/ SAT \/ ACT \/ IB \/ A-Levels",
+    "Fee_Per_Semester":550000,
+    "Admission_Deadline":"January 31, 2026",
+    "Program_URL":"https:\/\/habib.edu.pk\/academics\/ahss\/communication-and-design\/"
+  },
+  {
+    "University":"Habib University",
+    "City":"Karachi",
+    "Degree_Level":"Undergraduate (Honors)",
+    "School":"School of Arts, Humanities & Social Sciences (AHSS)",
+    "Program_Name":"BA (Honors) Comparative Humanities",
+    "Duration":"4 Years",
+    "Eligibility":"Intermediate \/ A-Levels \/ IB or equivalent (Science required for Engineering & CS)",
+    "Test_Required":"Habib University Admission Test (HUAT) \/ SAT \/ ACT \/ IB \/ A-Levels",
+    "Fee_Per_Semester":550000,
+    "Admission_Deadline":"January 31, 2026",
+    "Program_URL":"https:\/\/habib.edu.pk\/academics\/ahss\/comparative-humanities\/"
+  },
+  {
+    "University":"Habib University",
+    "City":"Karachi",
+    "Degree_Level":"Undergraduate (Honors)",
+    "School":"Dhanani School of Science & Engineering (DSSE)",
+    "Program_Name":"BS Electrical Engineering",
+    "Duration":"4 Years",
+    "Eligibility":"Intermediate \/ A-Levels \/ IB or equivalent (Science required for Engineering & CS)",
+    "Test_Required":"Habib University Admission Test (HUAT) \/ SAT \/ ACT \/ IB \/ A-Levels",
+    "Fee_Per_Semester":550000,
+    "Admission_Deadline":"January 31, 2026",
+    "Program_URL":"https:\/\/habib.edu.pk\/academics\/sse\/electrical-engineering\/"
+  },
+  {
+    "University":"Habib University",
+    "City":"Karachi",
+    "Degree_Level":"Undergraduate (Honors)",
+    "School":"Dhanani School of Science & Engineering (DSSE)",
+    "Program_Name":"BS Computer Engineering",
+    "Duration":"4 Years",
+    "Eligibility":"Intermediate \/ A-Levels \/ IB or equivalent (Science required for Engineering & CS)",
+    "Test_Required":"Habib University Admission Test (HUAT) \/ SAT \/ ACT \/ IB \/ A-Levels",
+    "Fee_Per_Semester":550000,
+    "Admission_Deadline":"January 31, 2026",
+    "Program_URL":"https:\/\/habib.edu.pk\/academics\/sse\/computer-engineering\/"
+  },
+  {
+    "University":"Habib University",
+    "City":"Karachi",
+    "Degree_Level":"Undergraduate (Honors)",
+    "School":"Dhanani School of Science & Engineering (DSSE)",
+    "Program_Name":"BS Computer Science",
+    "Duration":"4 Years",
+    "Eligibility":"Intermediate \/ A-Levels \/ IB or equivalent (Science required for Engineering & CS)",
+    "Test_Required":"Habib University Admission Test (HUAT) \/ SAT \/ ACT \/ IB \/ A-Levels",
+    "Fee_Per_Semester":550000,
+    "Admission_Deadline":"January 31, 2026",
+    "Program_URL":"https:\/\/habib.edu.pk\/academics\/sse\/computer-science\/"
+  },
+  {
+    "University":"Habib University",
+    "City":"Karachi",
+    "Degree_Level":"Undergraduate (Honors)",
+    "School":"Dhanani School of Science & Engineering (DSSE)",
+    "Program_Name":"Integrated Sciences & Mathematics (iSciM)",
+    "Duration":"4 Years",
+    "Eligibility":"Intermediate \/ A-Levels \/ IB or equivalent (Science required for Engineering & CS)",
+    "Test_Required":"Habib University Admission Test (HUAT) \/ SAT \/ ACT \/ IB \/ A-Levels",
+    "Fee_Per_Semester":550000,
+    "Admission_Deadline":"January 31, 2026",
+    "Program_URL":"https:\/\/habib.edu.pk\/academics\/sse\/iscim\/"
+  }
+]
